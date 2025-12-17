@@ -4,7 +4,7 @@ title = '聽說（向梵谷致意）（2023）'
 slug = 'listen-talk'
 description = '聽說，有些表達雖然無人接收，卻仍是雙向的，既對別人，也對自己說。'
 tags = ['works']
-feature_image = '/ghost-images/2024/05/2023----1-2024---.webp'
+image = '/ghost-images/2024/05/2023----1-2024---.webp'
 draft = false
 +++
 

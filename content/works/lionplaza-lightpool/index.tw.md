@@ -4,7 +4,7 @@ title = '情迷獅子林：餘光蕩漾  Join Me & Splash in the Light Pool（20
 slug = 'lionplaza-lightpool'
 description = '裡面的人、店家、禮服、人台與遊戲機台，都像是闖入另一個世界；無數刺眼照人的白色燈光穿梭於其中，格子窗戶喪失了作為窗戶觀看外界的功能，反過來像是一個螢幕'
 tags = ['works', 'exhibitions', '#Import 2023-01-29 03:01']
-feature_image = '/ghost-images/2022/06/2-1.webp'
+image = '/ghost-images/2022/06/2-1.webp'
 draft = false
 +++
 

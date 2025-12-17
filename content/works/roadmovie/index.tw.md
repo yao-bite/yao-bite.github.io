@@ -4,7 +4,7 @@ title = '公路電影：月球之旅 Road Movie: A Trip to the Moon（2021）'
 slug = 'roadmovie'
 description = '不管我怎麼樣地追，月球總是離我一樣遠，與我保持著相同的距離'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '/ghost-images/2024/03/roadmovie_8.webp'
+image = '/ghost-images/2024/03/roadmovie_8.webp'
 draft = false
 +++
 

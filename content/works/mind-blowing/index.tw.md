@@ -4,7 +4,7 @@ title = '心動 Mind-Blowing（2023）'
 slug = 'mind-blowing'
 description = '心動，心靈的活動。除了怦然心動的片刻、外界變化引起的心靈震動，還有一些沈潛許久、來自身體深處的隻字片語閃過腦海。那聲音既熟悉又陌生，像是很久以前的自己。'
 tags = ['works']
-feature_image = '/ghost-images/2024/11/2023-mindblowing-2024-kingcar_3_70422-mini-Srgb--.webp'
+image = '/ghost-images/2024/11/2023-mindblowing-2024-kingcar_3_70422-mini-Srgb--.webp'
 draft = false
 +++
 

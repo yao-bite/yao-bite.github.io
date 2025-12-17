@@ -4,7 +4,7 @@ title = '雙面人 Two-faced（2022）'
 slug = 'two-faced'
 description = '同時在內與外，或同時不在內也不在外。不存在背面的正面，與不存在正面的背面。'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '/ghost-images/2022/11/221005150716-mini-sRGB---_.webp'
+image = '/ghost-images/2022/11/221005150716-mini-sRGB---_.webp'
 draft = false
 +++
 

@@ -4,7 +4,7 @@ title = '雙頻道II：你(聽)我(説) Double-Channel II: "Listen (to me)."'
 slug = 'doublechannel-ii'
 description = '我們用自己觀看他人，用他人觀看自己。'
 tags = ['works', 'En']
-feature_image = '/ghost-images/2024/10/1016_MoCA_----_111_L-1.webp'
+image = '/ghost-images/2024/10/1016_MoCA_----_111_L-1.webp'
 draft = false
 +++
 

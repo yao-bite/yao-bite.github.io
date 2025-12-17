@@ -4,7 +4,7 @@ title = '離開地球表面  On the Ground（2020）'
 slug = 'ontheground'
 description = '在墜落的過程中愛麗絲既驚奇又興奮、聲調感受不到絲毫恐懼，而她念著的話語也極有意思，彷彿有兩個她的自我在彼此對話，提醒自己這樣做並不恰當，卻又對未知感到著迷'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '/ghost-images/2021/02/200526183912-mini-sRGB--.webp'
+image = '/ghost-images/2021/02/200526183912-mini-sRGB--.webp'
 draft = false
 +++
 

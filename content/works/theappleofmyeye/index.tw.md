@@ -4,7 +4,7 @@ title = '遇見100%的我自己 The Apple of My Eye（2022）'
 slug = 'theappleofmyeye'
 description = '觀者的剪影則與身體同步，朝著延遲影像走去。實時的影子與延遲的影像將於此空間中央相遇、交會、融合、短暫消失再分離'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '/ghost-images/2022/08/220331170034-mini-sRGB--.webp'
+image = '/ghost-images/2022/08/220331170034-mini-sRGB--.webp'
 draft = false
 +++
 

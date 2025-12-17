@@ -4,7 +4,7 @@ title = '窗中  Windowing（2020）'
 slug = 'windowing'
 description = '3D列印系列中持續運作著的巨大機器，既不具侵略性，也不像是工業機器——它們是心智的機器，無論是消失的窗戶，或是永遠不會踏上的路，機器的運作像是潛意識的運作，是潛藏的、未經歸納的、與意識抽離的。'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '/ghost-images/2021/02/-----2020-06-29---1.38.31.webp'
+image = '/ghost-images/2021/02/-----2020-06-29---1.38.31.webp'
 draft = false
 +++
 
