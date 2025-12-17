@@ -10,6 +10,92 @@
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
   {{ else }}
   <script src="https://cdn.tailwindcss.com"></script>
+  <style type="text/tailwindcss">
+    @layer components {
+      .prose {
+        @apply text-gray-900;
+      }
+      .prose h1 {
+        @apply text-4xl font-light mb-6 mt-8;
+      }
+      .prose h2 {
+        @apply text-3xl font-light mb-4 mt-8;
+      }
+      .prose h3 {
+        @apply text-2xl font-light mb-3 mt-6;
+      }
+      .prose h4 {
+        @apply text-xl font-medium mb-2 mt-4;
+      }
+      .prose h5 {
+        @apply text-lg font-medium mb-2 mt-4;
+      }
+      .prose h6 {
+        @apply text-base font-medium mb-2 mt-4;
+      }
+      .prose p {
+        @apply mb-4 leading-relaxed;
+      }
+      .prose a {
+        @apply text-gray-900 underline hover:text-gray-600 transition;
+      }
+      .prose strong {
+        @apply font-semibold;
+      }
+      .prose em {
+        @apply italic;
+      }
+      .prose ul {
+        @apply list-disc list-outside ml-6 mb-4 space-y-2;
+      }
+      .prose ol {
+        @apply list-decimal list-outside ml-6 mb-4 space-y-2;
+      }
+      .prose li {
+        @apply leading-relaxed;
+      }
+      .prose li > ul,
+      .prose li > ol {
+        @apply mt-2 mb-0;
+      }
+      .prose blockquote {
+        @apply border-l-4 border-gray-300 pl-4 italic text-gray-700 my-6;
+      }
+      .prose code {
+        @apply bg-gray-100 px-2 py-1 rounded text-sm font-mono;
+      }
+      .prose pre {
+        @apply bg-gray-900 text-gray-100 p-4 rounded overflow-x-auto mb-4;
+      }
+      .prose pre code {
+        @apply bg-transparent px-0 py-0;
+      }
+      .prose img {
+        @apply w-full my-6;
+      }
+      .prose figure {
+        @apply my-6;
+      }
+      .prose figcaption {
+        @apply text-sm text-gray-600 text-center mt-2;
+      }
+      .prose hr {
+        @apply border-t border-gray-300 my-8;
+      }
+      .prose table {
+        @apply w-full mb-4 border-collapse;
+      }
+      .prose th {
+        @apply bg-gray-100 font-medium text-left p-3 border border-gray-300;
+      }
+      .prose td {
+        @apply p-3 border border-gray-300;
+      }
+      .prose tbody tr:nth-child(even) {
+        @apply bg-gray-50;
+      }
+    }
+  </style>
   <script>
     tailwind.config = {
       theme: {
