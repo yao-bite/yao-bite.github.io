@@ -12,7 +12,7 @@
       <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
       
       <div class="flex items-center text-gray-600 space-x-4 pb-6 border-b">
-        <time>{{ .Date.Format "2006.01.02" }}</time>
+        <time>{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}</time>
         {{ with .Params.author }}
         <span>·</span>
         <span>{{ . }}</span>
@@ -53,7 +53,7 @@
         <a href="{{ .RelPermalink }}" class="group">
           <article class="bg-white p-4 hover:shadow-lg transition">
             <h3 class="font-medium mb-2 group-hover:text-gray-600 transition">{{ .Title }}</h3>
-            <time class="text-sm text-gray-500">{{ .Date.Format "2006.01.02" }}</time>
+            <time class="text-sm text-gray-500">{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}</time>
           </article>
         </a>
         {{ end }}

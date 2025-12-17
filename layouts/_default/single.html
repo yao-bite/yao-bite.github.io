@@ -8,7 +8,7 @@
         <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
         
         {{ if not .Date.IsZero }}
-        <time class="text-gray-600">{{ .Date.Format "2006.01.02" }}</time>
+        <time class="text-gray-600">{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}</time>
         {{ end }}
       </header>
       

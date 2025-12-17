@@ -106,7 +106,7 @@
           {{ with .Summary }}
           <p class="text-gray-700 mb-3">{{ . }}</p>
           {{ end }}
-          <time class="text-sm text-gray-500">{{ .Date.Format "2006.01.02" }}</time>
+          <time class="text-sm text-gray-500">{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}</time>
         </article>
       </a>
       {{ end }}

@@ -9,12 +9,16 @@ defaultContentLanguageInSubdir = false
     languageName = 'English'
     weight = 1
     title = 'Lin, Pei Yao'
+    [languages.en.params]
+      dateFormat = 'Jan 2, 2006'
 
   [languages.tw]
     languageCode = 'zh-TW'
     languageName = '中文'
     weight = 2
     title = '林沛瑤'
+    [languages.tw.params]
+      dateFormat = '2006.01.02'
 
 [params]
   description = 'Artist Portfolio'

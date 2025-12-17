@@ -49,8 +49,8 @@
                     <p>{{ . }}</p>
                     {{ end }}
 
-                    {{ with .Params.date }}
-                    <p class="text-gray-600">{{ . }}</p>
+                    {{ if .Params.date }}
+                    <p class="text-gray-600">{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}</p>
                     {{ end }}
                   </div>
 

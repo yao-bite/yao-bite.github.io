@@ -8,9 +8,13 @@
       <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
       
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-gray-700">
-        {{ with .Params.year }}
+        {{ if .Params.year }}
         <div>
-          <span class="font-medium">Year:</span> {{ . }}
+          <span class="font-medium">Year:</span> {{ .Params.year }}
+        </div>
+        {{ else if not .Date.IsZero }}
+        <div>
+          <span class="font-medium">Date:</span> {{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}
         </div>
         {{ end }}
         

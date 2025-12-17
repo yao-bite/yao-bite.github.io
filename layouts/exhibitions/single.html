@@ -2,7 +2,7 @@
 
 <article class="py-16 md:py-24">
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
-    
+
     <!-- Exhibition Header -->
     <div class="max-w-4xl mx-auto mb-12">
       {{ with .Params.type }}
@@ -16,31 +16,31 @@
           {{ end }}
           <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full object-cover mb-6">
       {{ end }}
-      
+
       <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
-      
+
       <div class="text-lg text-gray-700 space-y-2">
         {{ with .Params.venue }}
         <p>{{ . }}</p>
         {{ end }}
-        
+
         {{ with .Params.location }}
         <p>{{ . }}</p>
         {{ end }}
-        
-        {{ with .Params.date }}
-        <p class="text-gray-600">{{ . }}</p>
+
+        {{ if .Params.date }}
+        <p class="text-gray-600">{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}</p>
         {{ end }}
       </div>
     </div>
-    
+
     <!-- Content / Statement -->
     {{ with .Content }}
     <div class="max-w-3xl mx-auto mb-12 prose prose-lg">
       {{ . }}
     </div>
     {{ end }}
-    
+
     <!-- Album / Photo Gallery -->
     {{ with .Params.images }}
     <div class="max-w-6xl mx-auto">
@@ -58,7 +58,7 @@
       </div>
     </div>
     {{ end }}
-    
+
     <!-- Featured Works in Exhibition -->
     {{ with .Params.works }}
     <div class="max-w-6xl mx-auto mt-16 pt-8 border-t">
@@ -72,7 +72,7 @@
       </div>
     </div>
     {{ end }}
-    
+
   </div>
 </article>
 
