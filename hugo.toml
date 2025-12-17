@@ -2,6 +2,7 @@ baseURL = 'https://peiyao.run/'
 title = 'Lin, Pei Yao'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
+hasCJKLanguage = true
 
 [languages]
   [languages.en]
@@ -9,6 +10,7 @@ defaultContentLanguageInSubdir = false
     languageName = 'English'
     weight = 1
     title = 'Lin, Pei Yao'
+    summaryLength = 50
     [languages.en.params]
       dateFormat = 'Jan 2, 2006'
 
@@ -17,6 +19,7 @@ defaultContentLanguageInSubdir = false
     languageName = '中文'
     weight = 2
     title = '林沛瑤'
+    summaryLength = 100
     [languages.tw.params]
       dateFormat = '2006.01.02'
 
