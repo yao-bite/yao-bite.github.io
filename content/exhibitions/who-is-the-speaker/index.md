@@ -1,5 +1,5 @@
 +++
-date = '2025-12-17T15:45:03+08:00'
+date = '2025-10-22T15:45:03+08:00'
 draft = false
 title = 'Who Is the Speaker'
 venue = 'Zone Art, Taoyuan, Taiwan'
