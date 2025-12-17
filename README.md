@@ -9,7 +9,7 @@ Artist portfolio website built with Hugo and Tailwind CSS.
 npm install
 ```
 
-2. Run development server:
+2. Preview drafts:
 ```bash
 npm run dev
 ```
