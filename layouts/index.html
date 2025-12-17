@@ -23,10 +23,15 @@
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       <!-- Featured works -->
       {{ range first 3 $featuredWorks }}
+      {{ $page := . }}
       <a href="{{ .RelPermalink }}" class="group">
         <div class="bg-white overflow-hidden hover:shadow-lg transition-shadow duration-300">
           {{ with .Params.image }}
-          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full aspect-square object-cover">
+          {{ $imagePath := . }}
+          {{ if not (hasPrefix . "/") }}
+            {{ $imagePath = path.Join $page.File.Dir . }}
+          {{ end }}
+          <img src="{{ $imagePath | relURL }}" alt="{{ $page.Title }}" class="w-full aspect-square object-cover">
           {{ else }}
           <div class="w-full aspect-square bg-gray-200"></div>
           {{ end }}
@@ -57,11 +62,16 @@
     <h2 class="text-3xl md:text-4xl font-light mb-12">Current Exhibition</h2>
 
     {{ range first 1 $currentExhibitions }}
+    {{ $page := . }}
     <a href="{{ .RelPermalink }}" class="group block">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div>
           {{ with .Params.image }}
-          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full aspect-[4/3] object-cover">
+          {{ $imagePath := . }}
+          {{ if not (hasPrefix . "/") }}
+            {{ $imagePath = path.Join $page.File.Dir . }}
+          {{ end }}
+          <img src="{{ $imagePath | relURL }}" alt="{{ $page.Title }}" class="w-full aspect-[4/3] object-cover">
           {{ else }}
           <div class="w-full aspect-[4/3] bg-gray-200"></div>
           {{ end }}
@@ -118,11 +128,16 @@
     {{ $recentExhibitions := where $exhibitions ".Params.current" "!=" true | first 3 }}
     <div class="space-y-8">
       {{ range $recentExhibitions }}
+      {{ $page := . }}
       <a href="{{ .RelPermalink }}" class="group block">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-start">
           <div>
             {{ with .Params.image }}
-            <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full aspect-[4/3] object-cover">
+            {{ $imagePath := . }}
+            {{ if not (hasPrefix . "/") }}
+              {{ $imagePath = path.Join $page.File.Dir . }}
+            {{ end }}
+            <img src="{{ $imagePath | relURL }}" alt="{{ $page.Title }}" class="w-full aspect-[4/3] object-cover">
             {{ else }}
             <div class="w-full aspect-[4/3] bg-gray-200"></div>
             {{ end }}

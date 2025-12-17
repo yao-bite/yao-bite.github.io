@@ -3,10 +3,8 @@ date = '2025-12-17T15:45:03+08:00'
 draft = false
 title = 'Who Is the Speaker'
 venue = '众藝術，桃園，臺灣'
-image = '/exhibitions/who-is-the-speaker/cover.jpg'
+image = 'cover.jpg'
 +++
-
-{{< figure src="cover.jpg" alt="Cover Image" >}}
 
 ## 展覽簡介
 

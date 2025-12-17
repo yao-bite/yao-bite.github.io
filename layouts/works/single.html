@@ -36,8 +36,12 @@
     
     <!-- Main Image -->
     {{ with .Params.image }}
+    {{ $imagePath := . }}
+    {{ if not (hasPrefix . "/") }}
+      {{ $imagePath = path.Join $.File.Dir . }}
+    {{ end }}
     <div class="max-w-6xl mx-auto mb-12">
-      <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full">
+      <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full">
     </div>
     {{ end }}
     
@@ -45,7 +49,11 @@
     {{ with .Params.images }}
     <div class="max-w-6xl mx-auto mb-12 space-y-8">
       {{ range . }}
-      <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full">
+      {{ $imagePath := . }}
+      {{ if not (hasPrefix . "/") }}
+        {{ $imagePath = path.Join $.File.Dir . }}
+      {{ end }}
+      <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full">
       {{ end }}
     </div>
     {{ end }}

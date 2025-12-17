@@ -3,64 +3,69 @@
 <section class="py-16 md:py-24">
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
     <h1 class="text-4xl md:text-5xl font-light mb-16">{{ .Title }}</h1>
-    
+
     <!-- Timeline Layout -->
     <div class="max-w-5xl mx-auto">
       {{ range .Pages.GroupByDate "2006" }}
-      
+
       <!-- Year Header -->
       <div class="mb-12">
         <h2 class="text-3xl font-light mb-8 text-gray-500">{{ .Key }}</h2>
-        
+
         <div class="space-y-12">
           {{ range .Pages }}
           <a href="{{ .RelPermalink }}" class="group block">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-start">
-              
+
               <!-- Image -->
+              {{ $page := . }}
               <div class="md:col-span-1">
                 {{ with .Params.image }}
-                <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full aspect-[4/3] object-cover">
+                {{ $imagePath := . }}
+                {{ if not (hasPrefix . "/") }}
+                  {{ $imagePath = path.Join $page.File.Dir . }}
+                {{ end }}
+                <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full aspect-[4/3] object-cover">
                 {{ else }}
                 <div class="w-full aspect-[4/3] bg-gray-200"></div>
                 {{ end }}
               </div>
-              
+
               <!-- Content -->
               <div class="md:col-span-2">
                 <div class="bg-white p-6">
                   {{ with .Params.type }}
                   <span class="inline-block text-sm text-gray-500 mb-2">{{ . }}</span>
                   {{ end }}
-                  
+
                   <h3 class="text-2xl font-medium mb-3 group-hover:text-gray-600 transition">{{ .Title }}</h3>
-                  
+
                   <div class="text-gray-700 space-y-1 mb-4">
                     {{ with .Params.venue }}
                     <p>{{ . }}</p>
                     {{ end }}
-                    
+
                     {{ with .Params.location }}
                     <p>{{ . }}</p>
                     {{ end }}
-                    
+
                     {{ with .Params.date }}
                     <p class="text-gray-600">{{ . }}</p>
                     {{ end }}
                   </div>
-                  
+
                   {{ with .Summary }}
                   <p class="text-gray-600">{{ . }}</p>
                   {{ end }}
                 </div>
               </div>
-              
+
             </div>
           </a>
           {{ end }}
         </div>
       </div>
-      
+
       {{ end }}
     </div>
   </div>

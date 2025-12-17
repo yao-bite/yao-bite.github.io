@@ -1,0 +1,9 @@
+{{- $path := . -}}
+{{- $page := .page -}}
+{{- $imagePath := .path -}}
+
+{{- if hasPrefix $imagePath "/" -}}
+  {{- $imagePath -}}
+{{- else -}}
+  {{- path.Join $page.File.Dir $imagePath -}}
+{{- end -}}

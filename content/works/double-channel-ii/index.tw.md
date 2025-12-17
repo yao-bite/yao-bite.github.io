@@ -2,7 +2,7 @@
 date = '2025-12-17T15:57:51+08:00'
 draft = true
 title = 'Double-Channel II: "Listen (to me)'
-image = '/works/double-channel-ii/cover.jpg'
+image = 'cover.jpg'
 medium = ''
 dimensions = ''
 featured = true
