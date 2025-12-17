@@ -1,6 +1,6 @@
 +++
-date = '2025-12-17T16:17:57+08:00'
-draft = true
+date = '2025-09-06T00:00:00+08:00'
+draft = false
 title = 'Drifting Between Perceptions: How Text Creates Distance in a Work'
 category = 'Reviews'
 tags = []
