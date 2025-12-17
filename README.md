@@ -14,6 +14,11 @@ npm install
 npm run dev
 ```
 
+Preview production:
+```bash
+npm run start
+```
+
 3. Build for production:
 ```bash
 npm run build:css
@@ -21,6 +26,21 @@ npm run build
 ```
 
 ## Content Structure
+
+## Add new posts
+
+```bash
+hugo new exhibitions/new-post-path
+```
+
+## Draft settings
+
+In every file, there is a `draft` setting which hide the post.
+
+```toml
+draft = true.   # hide the post
+draft = false.  # display the post
+```
 
 ### Works (`content/works/`)
 

@@ -4,6 +4,7 @@
   "description": "Artist Portfolio Website",
   "scripts": {
     "dev": "hugo server -D",
+    "start": "hugo server",
     "build": "hugo --minify",
     "build:css": "tailwindcss -i ./assets/css/main.css -o ./static/css/main.css --minify"
   },
