@@ -37,7 +37,7 @@
           {{ end }}
           <div class="p-6">
             <h3 class="text-lg font-medium mb-2 group-hover:text-gray-600 transition">{{ .Title }}</h3>
-            {{ with .Params.year }}<p class="text-gray-600 text-sm">{{ . }}</p>{{ end }}
+            {{ if not .Date.IsZero }}<p class="text-gray-600 text-sm">{{ .Date.Format "2006" }}</p>{{ end }}
           </div>
         </div>
       </a>
@@ -145,7 +145,7 @@
           <div class="md:col-span-2">
             <h3 class="text-xl md:text-2xl font-medium mb-2 group-hover:text-gray-600 transition">{{ .Title }}</h3>
             <div class="text-gray-600 space-y-1">
-              {{ with .Params.year }}<p>{{ . }}</p>{{ end }}
+              {{ if not .Date.IsZero }}<p>{{ .Date.Format "2006" }}</p>{{ end }}
               {{ with .Params.venue }}<p>{{ . }}</p>{{ end }}
               {{ with .Params.location }}<p>{{ . }}</p>{{ end }}
             </div>

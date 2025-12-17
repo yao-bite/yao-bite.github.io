@@ -21,8 +21,8 @@
           {{ end }}
           <div class="p-4">
             <h2 class="text-lg font-medium mb-1 group-hover:text-gray-600 transition">{{ .Title }}</h2>
-            {{ with .Params.year }}
-            <p class="text-sm text-gray-600">{{ . }}</p>
+            {{ if not .Date.IsZero }}
+            <p class="text-sm text-gray-600">{{ .Date.Format "2006" }}</p>
             {{ end }}
             {{ with .Params.medium }}
             <p class="text-sm text-gray-500 mt-1">{{ . }}</p>
