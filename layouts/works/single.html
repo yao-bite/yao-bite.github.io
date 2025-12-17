@@ -2,38 +2,7 @@
 
 <article class="py-16 md:py-24">
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
-    
-    <!-- Work Header -->
-    <div class="max-w-4xl mx-auto mb-12">
-      <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
-      
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-gray-700">
-        {{ if not .Date.IsZero }}
-        <div>
-          <span class="font-medium">Year:</span> {{ .Date.Format "2006" }}
-        </div>
-        {{ end }}
-        
-        {{ with .Params.medium }}
-        <div>
-          <span class="font-medium">Medium:</span> {{ . }}
-        </div>
-        {{ end }}
-        
-        {{ with .Params.dimensions }}
-        <div>
-          <span class="font-medium">Dimensions:</span> {{ . }}
-        </div>
-        {{ end }}
-        
-        {{ with .Params.edition }}
-        <div>
-          <span class="font-medium">Edition:</span> {{ . }}
-        </div>
-        {{ end }}
-      </div>
-    </div>
-    
+
     <!-- Main Image -->
     {{ with .Params.image }}
     {{ $imagePath := . }}
@@ -44,7 +13,26 @@
       <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full">
     </div>
     {{ end }}
-    
+
+    <!-- Work Header -->
+    <div class="max-w-4xl mx-auto mb-12">
+      <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
+
+      <div class="flex flex-row gap-6 text-gray-700">
+        {{ with .Params.medium }}
+        <div>{{ . }}</div>
+        {{ end }}
+
+        {{ with .Params.dimensions }}
+        <div>{{ . }}</div>
+        {{ end }}
+
+        {{ if not .Date.IsZero }}
+        <div>{{ .Date.Format "2006" }}</div>
+        {{ end }}
+      </div>
+    </div>
+
     <!-- Additional Images -->
     {{ with .Params.images }}
     <div class="max-w-6xl mx-auto mb-12 space-y-8">
@@ -57,14 +45,14 @@
       {{ end }}
     </div>
     {{ end }}
-    
+
     <!-- Content -->
     {{ with .Content }}
     <div class="max-w-3xl mx-auto prose prose-lg">
       {{ . }}
     </div>
     {{ end }}
-    
+
     <!-- Related Exhibitions -->
     {{ with .Params.exhibitions }}
     <div class="max-w-4xl mx-auto mt-16 pt-8 border-t">
@@ -76,7 +64,7 @@
       </ul>
     </div>
     {{ end }}
-    
+
   </div>
 </article>
 
