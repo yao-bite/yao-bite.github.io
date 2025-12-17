@@ -5,7 +5,7 @@ slug = 'windowing-en'
 description = '"The huge machines that continue to operate in the 3D printing series are neither invasive nor industrial-looking. They are machines of the mind, operating like the subconscious—latent, uninductive, and detached from consciousness."'
 category = 'Reviews'
 tags = ['works (EN)']
-feature_image = '/ghost-images/2023/04/--_6.webp'
+image = '/ghost-images/2023/04/--_6.webp'
 draft = false
 +++
 

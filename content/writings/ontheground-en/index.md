@@ -5,7 +5,7 @@ slug = 'ontheground-en'
 description = 'The repeated gesture of the carving hands is like sorcery that mediates between the fantasy world and the real world, praying to be disembodied to enter the other world'
 category = 'Reviews'
 tags = ['works (EN)']
-feature_image = '/ghost-images/2023/02/on-the-ground_2020_6.webp'
+image = '/ghost-images/2023/02/on-the-ground_2020_6.webp'
 draft = false
 +++
 

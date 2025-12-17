@@ -5,7 +5,7 @@ slug = '2024-self-testing-starts'
 description = '金車文藝中心承德館，臺北，臺灣'
 category = 'Reviews'
 tags = ['exhibitions']
-feature_image = '/ghost-images/2024/11/2021-road-movie-2024-king-car_8.webp'
+image = '/ghost-images/2024/11/2021-road-movie-2024-king-car_8.webp'
 draft = false
 +++
 

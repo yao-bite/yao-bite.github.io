@@ -5,7 +5,7 @@ slug = 'who-is-the-speaker'
 description = '說話時，聲音的位置在喉嚨；思考時，聲音的位置在哪裡？When we speak, the voice resonates in the throat—but where does it reside when we think?'
 category = 'Reviews'
 tags = ['exhibitions']
-feature_image = '/ghost-images/2025/11/WKJ_0572.webp'
+image = '/ghost-images/2025/11/WKJ_0572.webp'
 draft = false
 +++
 

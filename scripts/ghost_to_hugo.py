@@ -201,8 +201,8 @@ slug = '{slug}'
         tags_str = ", ".join([f"'{tag}'" for tag in tags])
         frontmatter += f"tags = [{tags_str}]\n"
 
-    if post.get("feature_image"):
-        frontmatter += f"feature_image = '{post['feature_image']}'\n"
+    if post.get("image"):
+        frontmatter += f"image = '{post['image']}'\n"
 
     frontmatter += f"draft = false\n"
     frontmatter += "+++\n\n"

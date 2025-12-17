@@ -5,7 +5,7 @@ slug = 'interviewwithanartist'
 description = '「觀眾入場」（Entering theAuditorium）源自劇場語彙，指觀眾進場至演出開始的過渡時刻'
 category = 'Reviews'
 tags = ['exhibitions']
-feature_image = '/ghost-images/2025/03/_NZ_003.webp'
+image = '/ghost-images/2025/03/_NZ_003.webp'
 draft = false
 +++
 

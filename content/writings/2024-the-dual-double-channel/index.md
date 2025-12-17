@@ -5,7 +5,7 @@ slug = '2024-the-dual-double-channel'
 description = '洪建全基金會，臺北，臺灣'
 category = 'Reviews'
 tags = ['exhibitions']
-feature_image = '/ghost-images/2024/10/20240813151805-mini-SRGB---.webp'
+image = '/ghost-images/2024/10/20240813151805-mini-SRGB---.webp'
 draft = false
 +++
 
