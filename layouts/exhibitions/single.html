@@ -8,6 +8,10 @@
       {{ with .Params.type }}
       <span class="inline-block text-sm text-gray-500 mb-3">{{ . }}</span>
       {{ end }}
+
+      {{ with .Params.image }}
+          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full object-cover mb-6">
+      {{ end }}
       
       <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
       

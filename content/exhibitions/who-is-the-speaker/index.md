@@ -4,9 +4,8 @@ draft = false
 title = 'Who Is the Speaker'
 venue = 'Zone Art, Taoyuan, Taiwan'
 image = '/exhibitions/who-is-the-speaker/cover.jpg'
+images = ['/exhibitions/who-is-the-speaker/cover.jpg', '/exhibitions/who-is-the-speaker/cover.jpg', '/exhibitions/who-is-the-speaker/cover.jpg']
 +++
-
-{{< figure src="cover.jpg" alt="Cover Image" >}}
 
 ## About the Exhibition
 
