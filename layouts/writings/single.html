@@ -1,0 +1,67 @@
+{{ define "main" }}
+
+<article class="py-16 md:py-24">
+  <div class="container mx-auto px-4 md:px-8 lg:px-16">
+    
+    <!-- Article Header -->
+    <header class="max-w-3xl mx-auto mb-12">
+      {{ with .Params.category }}
+      <span class="inline-block text-sm text-gray-500 mb-3">{{ . }}</span>
+      {{ end }}
+      
+      <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
+      
+      <div class="flex items-center text-gray-600 space-x-4 pb-6 border-b">
+        <time>{{ .Date.Format "2006.01.02" }}</time>
+        {{ with .Params.author }}
+        <span>·</span>
+        <span>{{ . }}</span>
+        {{ end }}
+      </div>
+    </header>
+    
+    <!-- Featured Image -->
+    {{ with .Params.image }}
+    <div class="max-w-4xl mx-auto mb-12">
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full">
+    </div>
+    {{ end }}
+    
+    <!-- Article Content -->
+    <div class="max-w-3xl mx-auto prose prose-lg">
+      {{ .Content }}
+    </div>
+    
+    <!-- Tags -->
+    {{ with .Params.tags }}
+    <div class="max-w-3xl mx-auto mt-12 pt-8 border-t">
+      <div class="flex flex-wrap gap-2">
+        {{ range . }}
+        <span class="px-3 py-1 text-sm bg-gray-100 text-gray-700">#{{ . }}</span>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    
+    <!-- Related Articles -->
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ with $related }}
+    <div class="max-w-4xl mx-auto mt-16 pt-8 border-t">
+      <h2 class="text-2xl font-light mb-8">Related Articles</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {{ range . }}
+        <a href="{{ .RelPermalink }}" class="group">
+          <article class="bg-white p-4 hover:shadow-lg transition">
+            <h3 class="font-medium mb-2 group-hover:text-gray-600 transition">{{ .Title }}</h3>
+            <time class="text-sm text-gray-500">{{ .Date.Format "2006.01.02" }}</time>
+          </article>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+    
+  </div>
+</article>
+
+{{ end }}

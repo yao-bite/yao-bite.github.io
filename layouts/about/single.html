@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+<section class="py-16 md:py-24">
+  <div class="container mx-auto px-4 md:px-8 lg:px-16">
+    
+    <div class="max-w-5xl mx-auto">
+      
+      <!-- Bio Section -->
+      <div class="mb-16">
+        <h1 class="text-4xl md:text-5xl font-light mb-12">{{ .Title }}</h1>
+        
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+          <!-- Profile Image -->
+          {{ with .Params.image }}
+          <div class="md:col-span-1">
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full aspect-[3/4] object-cover">
+          </div>
+          <div class="md:col-span-2">
+          {{ else }}
+          <div class="md:col-span-3">
+          {{ end }}
+            <!-- Bio Content -->
+            <div class="prose prose-lg max-w-none">
+              {{ .Content }}
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Contact Section -->
+      {{ with .Params.contact }}
+      <div class="mb-16 py-12 border-t">
+        <h2 class="text-3xl font-light mb-8">Contact</h2>
+        <div class="bg-white p-8">
+          {{ with .email }}
+          <div class="mb-4">
+            <span class="font-medium text-gray-700">Email:</span>
+            <a href="mailto:{{ . }}" class="text-gray-900 hover:text-gray-600 ml-2">{{ . }}</a>
+          </div>
+          {{ end }}
+          
+          {{ with .phone }}
+          <div class="mb-4">
+            <span class="font-medium text-gray-700">Phone:</span>
+            <span class="text-gray-900 ml-2">{{ . }}</span>
+          </div>
+          {{ end }}
+          
+          {{ with .address }}
+          <div class="mb-4">
+            <span class="font-medium text-gray-700">Address:</span>
+            <span class="text-gray-900 ml-2">{{ . }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Links Section -->
+      {{ with .Params.links }}
+      <div class="py-12 border-t">
+        <h2 class="text-3xl font-light mb-8">Links</h2>
+        <div class="bg-white p-8">
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {{ range . }}
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" 
+               class="flex items-center justify-between p-4 border hover:border-gray-900 transition group">
+              <span class="font-medium group-hover:text-gray-600">{{ .name }}</span>
+              <svg class="w-5 h-5 text-gray-400 group-hover:text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+              </svg>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      
+    </div>
+    
+  </div>
+</section>
+
+{{ end }}

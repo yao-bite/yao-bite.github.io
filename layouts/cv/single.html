@@ -1,0 +1,169 @@
+{{ define "main" }}
+
+<section class="py-16 md:py-24">
+  <div class="container mx-auto px-4 md:px-8 lg:px-16">
+    
+    <div class="max-w-4xl mx-auto">
+      
+      <h1 class="text-4xl md:text-5xl font-light mb-12">{{ .Title }}</h1>
+      
+      <!-- Education -->
+      {{ with .Params.education }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Education</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="font-medium">{{ .degree }}</p>
+              <p class="text-gray-700">{{ .institution }}</p>
+              {{ with .description }}
+              <p class="text-sm text-gray-600 mt-1">{{ . }}</p>
+              {{ end }}
+            </div>
+            <span class="text-gray-600 text-sm whitespace-nowrap ml-4">{{ .year }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Solo Exhibitions -->
+      {{ with .Params.solo_exhibitions }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Solo Exhibitions</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="font-medium">{{ .title }}</p>
+              <p class="text-gray-700">{{ .venue }}{{ with .location }}, {{ . }}{{ end }}</p>
+            </div>
+            <span class="text-gray-600 text-sm whitespace-nowrap ml-4">{{ .year }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Group Exhibitions -->
+      {{ with .Params.group_exhibitions }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Group Exhibitions</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="font-medium">{{ .title }}</p>
+              <p class="text-gray-700">{{ .venue }}{{ with .location }}, {{ . }}{{ end }}</p>
+            </div>
+            <span class="text-gray-600 text-sm whitespace-nowrap ml-4">{{ .year }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Performances -->
+      {{ with .Params.performances }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Performances</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="font-medium">{{ .title }}</p>
+              <p class="text-gray-700">{{ .venue }}{{ with .location }}, {{ . }}{{ end }}</p>
+            </div>
+            <span class="text-gray-600 text-sm whitespace-nowrap ml-4">{{ .year }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Awards & Grants -->
+      {{ with .Params.awards }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Awards & Grants</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="font-medium">{{ .title }}</p>
+              {{ with .organization }}
+              <p class="text-gray-700">{{ . }}</p>
+              {{ end }}
+            </div>
+            <span class="text-gray-600 text-sm whitespace-nowrap ml-4">{{ .year }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Publications -->
+      {{ with .Params.publications }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Publications</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="font-medium">{{ .title }}</p>
+              {{ with .publisher }}
+              <p class="text-gray-700">{{ . }}</p>
+              {{ end }}
+            </div>
+            <span class="text-gray-600 text-sm whitespace-nowrap ml-4">{{ .year }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Collections -->
+      {{ with .Params.collections }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Collections</h2>
+        <div class="space-y-2">
+          {{ range . }}
+          <p class="text-gray-700">{{ . }}</p>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Residencies -->
+      {{ with .Params.residencies }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Residencies</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="font-medium">{{ .title }}</p>
+              {{ with .location }}
+              <p class="text-gray-700">{{ . }}</p>
+              {{ end }}
+            </div>
+            <span class="text-gray-600 text-sm whitespace-nowrap ml-4">{{ .year }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+      
+      <!-- Additional Content -->
+      {{ with .Content }}
+      <div class="prose prose-lg max-w-none">
+        {{ . }}
+      </div>
+      {{ end }}
+      
+    </div>
+    
+  </div>
+</section>
+
+{{ end }}

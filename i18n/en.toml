@@ -1,0 +1,89 @@
+[works]
+other = "Works"
+
+[exhibitions]
+other = "Exhibitions"
+
+[writings]
+other = "Writings"
+
+[about]
+other = "About"
+
+[cv]
+other = "CV"
+
+[featured_works]
+other = "Featured Works"
+
+[current_exhibition]
+other = "Current Exhibition"
+
+[latest_writings]
+other = "Latest Writings"
+
+[recent_exhibitions]
+other = "Recent Exhibitions"
+
+[view_all_works]
+other = "View All Works"
+
+[view_all_writings]
+other = "View All Writings"
+
+[view_all_exhibitions]
+other = "View All Exhibitions"
+
+[exhibition_views]
+other = "Exhibition Views"
+
+[featured_works_in_exhibition]
+other = "Featured Works"
+
+[related_articles]
+other = "Related Articles"
+
+[contact]
+other = "Contact"
+
+[links]
+other = "Links"
+
+[education]
+other = "Education"
+
+[solo_exhibitions]
+other = "Solo Exhibitions"
+
+[group_exhibitions]
+other = "Group Exhibitions"
+
+[performances]
+other = "Performances"
+
+[awards]
+other = "Awards & Grants"
+
+[publications]
+other = "Publications"
+
+[collections]
+other = "Collections"
+
+[residencies]
+other = "Residencies"
+
+[year]
+other = "Year"
+
+[medium]
+other = "Medium"
+
+[dimensions]
+other = "Dimensions"
+
+[edition]
+other = "Edition"
+
+[exhibited_in]
+other = "Exhibited In"

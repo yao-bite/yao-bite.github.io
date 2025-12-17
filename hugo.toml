@@ -1,0 +1,61 @@
+baseURL = 'https://peiyao.run/'
+title = 'Pei Yao'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    languageCode = 'en-US'
+    languageName = 'English'
+    weight = 1
+    title = 'Pei Yao'
+
+  [languages.tw]
+    languageCode = 'zh-TW'
+    languageName = '中文'
+    weight = 2
+    title = '裴堯'
+
+[params]
+  description = 'Artist Portfolio'
+  author = 'Pei Yao'
+
+[menu]
+  [[menu.main]]
+    identifier = 'works'
+    name = 'Works'
+    url = '/works/'
+    weight = 1
+
+  [[menu.main]]
+    identifier = 'exhibitions'
+    name = 'Exhibitions'
+    url = '/exhibitions/'
+    weight = 2
+
+  [[menu.main]]
+    identifier = 'writings'
+    name = 'Writings'
+    url = '/writings/'
+    weight = 3
+
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 4
+
+  [[menu.main]]
+    identifier = 'cv'
+    name = 'CV'
+    url = '/cv/'
+    weight = 5
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

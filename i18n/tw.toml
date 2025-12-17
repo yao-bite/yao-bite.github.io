@@ -1,0 +1,89 @@
+[works]
+other = "作品"
+
+[exhibitions]
+other = "展覽"
+
+[writings]
+other = "寫作"
+
+[about]
+other = "關於"
+
+[cv]
+other = "履歷"
+
+[featured_works]
+other = "精選作品"
+
+[current_exhibition]
+other = "現在展出"
+
+[latest_writings]
+other = "最新文章"
+
+[recent_exhibitions]
+other = "近期展覽"
+
+[view_all_works]
+other = "查看所有作品"
+
+[view_all_writings]
+other = "查看所有文章"
+
+[view_all_exhibitions]
+other = "查看所有展覽"
+
+[exhibition_views]
+other = "展覽現場"
+
+[featured_works_in_exhibition]
+other = "展出作品"
+
+[related_articles]
+other = "相關文章"
+
+[contact]
+other = "聯絡資訊"
+
+[links]
+other = "相關連結"
+
+[education]
+other = "學歷"
+
+[solo_exhibitions]
+other = "個展"
+
+[group_exhibitions]
+other = "聯展"
+
+[performances]
+other = "表演"
+
+[awards]
+other = "獎項與補助"
+
+[publications]
+other = "出版"
+
+[collections]
+other = "典藏"
+
+[residencies]
+other = "駐村"
+
+[year]
+other = "年份"
+
+[medium]
+other = "媒材"
+
+[dimensions]
+other = "尺寸"
+
+[edition]
+other = "版數"
+
+[exhibited_in]
+other = "展出紀錄"

@@ -1,0 +1,14 @@
+{
+  "name": "peiyao.run",
+  "version": "1.0.0",
+  "description": "Artist Portfolio Website",
+  "scripts": {
+    "dev": "hugo server -D",
+    "build": "hugo --minify",
+    "build:css": "tailwindcss -i ./assets/css/main.css -o ./static/css/main.css --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss": "^3.4.0"
+  }
+}

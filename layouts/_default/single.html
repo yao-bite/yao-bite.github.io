@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<article class="py-16 md:py-24">
+  <div class="container mx-auto px-4 md:px-8 lg:px-16">
+    <div class="max-w-4xl mx-auto">
+      
+      <header class="mb-12">
+        <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
+        
+        {{ if not .Date.IsZero }}
+        <time class="text-gray-600">{{ .Date.Format "2006.01.02" }}</time>
+        {{ end }}
+      </header>
+      
+      {{ with .Params.image }}
+      <div class="mb-12">
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full">
+      </div>
+      {{ end }}
+      
+      <div class="prose prose-lg max-w-none">
+        {{ .Content }}
+      </div>
+      
+    </div>
+  </div>
+</article>
+
+{{ end }}
