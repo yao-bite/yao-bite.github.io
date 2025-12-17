@@ -4,7 +4,7 @@ title = '雙頻道 I：眼睛 Double-Channel I: eye(s) (2023)'
 slug = 'doublechannel-eyes'
 description = '「雙頻道（double-channel）」在描述錄像時是作為一個形容詞，已經不以複數型（double channels）的狀態存在'
 tags = ['works']
-feature_image = '__GHOST_URL__/content/images/2023/04/double-channel-eye-s-_2023-2-edit.JPG'
+feature_image = '/ghost-images/2023/04/double-channel-eye-s-_2023-2-edit.webp'
 draft = false
 +++
 
@@ -13,9 +13,9 @@ draft = false
 單頻道錄像互動裝置、3D列印、Google cardboard  
 03’19”
 
-![](__GHOST_URL__/content/images/2023/04/double-channel-eye-s-_2023-1.JPG)
+![](/ghost-images/2023/04/double-channel-eye-s-_2023-1.webp)
 
-![](__GHOST_URL__/content/images/2023/04/double-channel-eye-s-_2023-8-edit-2.JPG)
+![](/ghost-images/2023/04/double-channel-eye-s-_2023-8-edit-2.webp)
 
 「雙頻道（double-channel）」在描述錄像時是作為一個形容詞，已經不以複數型（double channels）的狀態存在。
 
@@ -23,15 +23,15 @@ draft = false
 
 我希望藉此提供一種分裂又合成的感知經驗，模糊對稱與複製、單數與複數間的相對關係。
 
-![](__GHOST_URL__/content/images/2023/04/3mb-double-channel-eye-s-_2023-3.JPG)
+![](/ghost-images/2023/04/3mb-double-channel-eye-s-_2023-3.webp)
 
-![](__GHOST_URL__/content/images/2023/04/3mb-double-channel-eye-s-_2023-4.JPG)
+![](/ghost-images/2023/04/3mb-double-channel-eye-s-_2023-4.webp)
 
-![](__GHOST_URL__/content/images/2023/04/double-channel-eye-s-_2023-7.JPG)
+![](/ghost-images/2023/04/double-channel-eye-s-_2023-7.webp)
 
-![](__GHOST_URL__/content/images/2023/04/double-channel-eye-s-_2023-6.JPG)
+![](/ghost-images/2023/04/double-channel-eye-s-_2023-6.webp)
 
-![](__GHOST_URL__/content/images/2023/04/double-channel-eye-s-_2023-5.JPG)
+![](/ghost-images/2023/04/double-channel-eye-s-_2023-5.webp)
 
 3D模型掃描 吳奕蓁  
 

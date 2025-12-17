@@ -5,7 +5,7 @@ slug = 'runintomycell'
 description = '觀者的影子與影像形成了一不共時的投影平面，影子成為即時影像，而自我的影像／鏡像卻是延遲的。觀者將看見自己一半的影子，與一半的影像融為一體，影子與影像合而為一而成為一個嶄新的人，與觀者自己的身體面對面佇立著'
 category = 'Reviews'
 tags = ['exhibitions', '#Import 2023-01-29 03:01']
-feature_image = '__GHOST_URL__/content/images/2022/01/211201185821-mini-sRGB--_.jpg'
+feature_image = '/ghost-images/2022/01/211201185821-mini-sRGB--_.webp'
 draft = false
 +++
 
@@ -17,33 +17,33 @@ Taipei National University of the Arts (TNUA) Na-Pei Gallery, Taipei, Taiwan
 
 2021/11/28-12/03
 
-![](__GHOST_URL__/content/images/2022/01/211201184459-mini-sRGB--_.jpg)
+![](/ghost-images/2022/01/211201184459-mini-sRGB--_.webp)
 
 展場全貌
 
 這檔展覽，或說這一整組裝置作品，以下列幾種關係：人—我關係、機—我關係、客體「我」（me）—主體「我」（I）關係，這幾種關係趨於同質化、彼此模糊的狀態為主軸，以一台手機作為展覽的序章，也作為自我異化敘事的起點。欲望以手指作為連接點，觸碰手、嘴、陰莖、手機、他人、情人，那些被我投射了我的欲望的東西。 展覽入口後的手機螢幕內播放著私密而尖銳的影像，透過文字、影像與耳機內的音樂，描述著與他者互動時的出神／出戲狀態，揣摩當代人長期處於多重時間性之中分裂的精神、情感與慾望狀態，夾雜著不堪與潛意識中的暴力。
 
-![](__GHOST_URL__/content/images/2022/01/211201194004-mini-sRGB--_-1.jpg)
+![](/ghost-images/2022/01/211201194004-mini-sRGB--_-1.webp)
 
 My-cell，03'39
 
-![](__GHOST_URL__/content/images/2022/01/211201194059-mini-sRGB--_.jpg)
+![](/ghost-images/2022/01/211201194059-mini-sRGB--_.webp)
 
 在作為核心的投影互動裝置中，觀者的影子與影像形成了一不共時的投影平面，影子成為即時影像，而自我的影像／鏡像卻是延遲的。在兩個投影頻道中間，藉由投影光角度不同所造成的消弭效果，試著提供面對當代介面時自我異化與消融的邊界經驗，觀者將看見自己一半的影子，與一半的影像融為一體，影子與影像合而為一而成為一個嶄新的人，與觀者自己的身體面對面佇立著。
 
-![](__GHOST_URL__/content/images/2022/01/211201185352-mini-sRGB--_.jpg)
+![](/ghost-images/2022/01/211201185352-mini-sRGB--_.webp)
 
 遇見100%的我自己，即時投影互動裝置
 
-![](__GHOST_URL__/content/images/2022/01/211201185356-mini-sRGB--_-2.jpg)
+![](/ghost-images/2022/01/211201185356-mini-sRGB--_-2.webp)
 
-![](__GHOST_URL__/content/images/2022/01/211201185822-mini-sRGB--_.jpg)
+![](/ghost-images/2022/01/211201185822-mini-sRGB--_.webp)
 
-![](__GHOST_URL__/content/images/2022/01/211201190540-mini-sRGB--_.jpg)
+![](/ghost-images/2022/01/211201190540-mini-sRGB--_.webp)
 
-![](__GHOST_URL__/content/images/2022/01/211201190548-mini-sRGB--_-1.jpg)
+![](/ghost-images/2022/01/211201190548-mini-sRGB--_-1.webp)
 
-![](__GHOST_URL__/content/images/2022/01/211201190553-mini-sRGB--_.jpg)
+![](/ghost-images/2022/01/211201190553-mini-sRGB--_.webp)
 
 而在展場末端的兩台電視，與手機內的影像一樣重複播放著，彼此之間為不共時的封閉迴路，卻又彼此相關聯：手機內的影像映照著凝視手機的臉、一明一滅，以及手機作爲一個文本，被不帶感情和戲劇性的聲音唸出，像被脫去了音樂的MV影像，乾燥、荒涼卻仍照著原始文本的節奏動著。這支演出、朗讀的獨白影像，一樣使用了現場的影子—影像裝置，雖說是獨白，卻成為不同分身之間的對話：我、我的影像、我的影子、和我的手機，或許，還有手機另一端的他？  
   
@@ -55,17 +55,17 @@ My-cell，03'39
 
 我的生活是100%的荒涼、100%的我。
 
-![](__GHOST_URL__/content/images/2022/01/211201192513-mini-sRGB--_-1.jpg)
+![](/ghost-images/2022/01/211201192513-mini-sRGB--_-1.webp)
 
 Me，03'39
 
-![](__GHOST_URL__/content/images/2022/01/211201194839-mini-sRGB--_.jpg)
+![](/ghost-images/2022/01/211201194839-mini-sRGB--_.webp)
 
 Me&My-cell，03'39
 
-![](__GHOST_URL__/content/images/2022/11/--100-----_11.jpg)
+![](/ghost-images/2022/11/--100-----_11.webp)
 
-![](__GHOST_URL__/content/images/2022/01/211201193812-mini-sRGB--_.jpg)
+![](/ghost-images/2022/01/211201193812-mini-sRGB--_.webp)
 
 **佈展協力 蔣雅媛**  
 **展場靜態紀錄 朱淇宏**  

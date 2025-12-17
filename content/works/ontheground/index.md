@@ -4,7 +4,7 @@ title = '離開地球表面  On the Ground（2020）'
 slug = 'ontheground'
 description = '在墜落的過程中愛麗絲既驚奇又興奮、聲調感受不到絲毫恐懼，而她念著的話語也極有意思，彷彿有兩個她的自我在彼此對話，提醒自己這樣做並不恰當，卻又對未知感到著迷'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '__GHOST_URL__/content/images/2021/02/200526183912-mini-sRGB--.jpg'
+feature_image = '/ghost-images/2021/02/200526183912-mini-sRGB--.webp'
 draft = false
 +++
 
@@ -13,11 +13,11 @@ draft = false
 
 ##### 雙頻道錄像裝置，台北國際當代一年展，地下美術館，台北，台灣
 
-![None](__GHOST_URL__/content/images/2021/01/200526183431-mini-sRGB--.jpg)
+![None](/ghost-images/2021/01/200526183431-mini-sRGB--.webp)
 
-![None](__GHOST_URL__/content/images/2021/01/200526183511-mini-sRGB--.jpg)
+![None](/ghost-images/2021/01/200526183511-mini-sRGB--.webp)
 
-![None](__GHOST_URL__/content/images/2021/02/200526183357-mini-sRGB--.jpg)
+![None](/ghost-images/2021/02/200526183357-mini-sRGB--.webp)
 
 《愛麗絲漫遊奇境》中，愛麗絲發現樹洞並墜入樹洞的過程，一邊被重複循環地投影在樹墩的剖面上，一邊則有一雙雕刻的手，用雕刻刀試著在上面挖一個洞。
 
@@ -25,13 +25,13 @@ draft = false
 
 第二個聲音，如同重複看著同一部童年常看的卡通，無意識地呢喃著爛熟的台詞；然而隨著愛麗絲再次進入洞內，聲音卻逐漸變得高昂而恐懼。另一頻道中身穿黑衣的女孩，手上拿著一台望遠鏡（或一台投影機），像是在地表上無目的地漫遊，也像在找尋地下奇境的入口；最終，似乎真的找到了一個洞口，卻分不清是現實，還是只是女孩所投出的另一個影像。
 
-![None](__GHOST_URL__/content/images/2021/01/200526183921-mini-sRGB--.jpg)
+![None](/ghost-images/2021/01/200526183921-mini-sRGB--.webp)
 
-![None](__GHOST_URL__/content/images/2021/01/200526183928-mini-sRGB--.jpg)
+![None](/ghost-images/2021/01/200526183928-mini-sRGB--.webp)
 
-![None](__GHOST_URL__/content/images/2021/02/200526184005-mini-sRGB--.jpg)
+![None](/ghost-images/2021/02/200526184005-mini-sRGB--.webp)
 
-![None](__GHOST_URL__/content/images/2021/02/200526182956-mini-sRGB--.jpg)
+![None](/ghost-images/2021/02/200526182956-mini-sRGB--.webp)
 
 ### 離開地球表面／單頻道錄像／03’26”／2020
 

@@ -5,7 +5,7 @@ slug = 'who-is-the-speaker'
 description = '說話時，聲音的位置在喉嚨；思考時，聲音的位置在哪裡？When we speak, the voice resonates in the throat—but where does it reside when we think?'
 category = 'Reviews'
 tags = ['exhibitions']
-feature_image = '__GHOST_URL__/content/images/2025/11/WKJ_0572.jpg'
+feature_image = '/ghost-images/2025/11/WKJ_0572.webp'
 draft = false
 +++
 
@@ -23,15 +23,15 @@ Zone Art, Taoyuan, Taiwan
 
 當話語融入思緒，思緒成為話語，模糊不清的發話者悄悄來訪，在觀眾的腦海中作客；而如果他們願意，觀眾也將能化身「聲音的訪客」，在恍惚與專注中，成為另一位說話者。
 
-![](__GHOST_URL__/content/images/2025/12/20251118-----------------------------------------sRGB-mini-----------------1.jpg)
+![](/ghost-images/2025/12/20251118-----------------------------------------sRGB-mini-----------------1.webp)
 
 《訪問一位哲學家》（Inter-View with a Philosopher）
 
-![](__GHOST_URL__/content/images/2025/12/20251118-----------------------------------------sRGB-mini-----------------4-1.jpg)
+![](/ghost-images/2025/12/20251118-----------------------------------------sRGB-mini-----------------4-1.webp)
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_0425.jpg)
+![](/ghost-images/2025/11/WKJ_0425.webp)
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_1937.jpg)
+![](/ghost-images/2025/11/WKJ_1937.webp)
 
 ### **About the Exhibition**
 
@@ -41,21 +41,21 @@ When we speak, the voice resonates in the throat—but where does it reside when
 
 As words merge into thought and thought becomes word, an indistinct speaker quietly arrives—an invisible guest inhabiting the mind. And if they are willing, the viewer too may become a visitor of voice, drifting between focus and reverie, becoming, for a moment, the one who speaks.
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_0538.jpg)
+![](/ghost-images/2025/11/WKJ_0538.webp)
 
 《誰在說話？》（Who is the speaker?）開幕表演記錄
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_0598.jpg)
+![](/ghost-images/2025/11/WKJ_0598.webp)
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_0921.jpg)
+![](/ghost-images/2025/11/WKJ_0921.webp)
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_0999-1.jpg)
+![](/ghost-images/2025/11/WKJ_0999-1.webp)
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_0646-1.jpg)
+![](/ghost-images/2025/11/WKJ_0646-1.webp)
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_0877.jpg)
+![](/ghost-images/2025/11/WKJ_0877.webp)
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_0666.jpg)
+![](/ghost-images/2025/11/WKJ_0666.webp)
 
 **Who is the speaker?** – Exhibition View
 
@@ -97,20 +97,20 @@ Co-organizers｜協辦單位｜[众藝術（Zone Art）](https://zone-art.wixsit
 [喝杯茶吧！或許我們(看展)不需強迫自己如此專注：《Who is the speaker?》觀後雜談](https://www.instagram.com/p/DQq2N2-Ec_m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) ／柯曉如  
 [展覽分享](https://www.instagram.com/reel/DQ15OhdDuZm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)／Hank在畫圖的路上
 
-![](__GHOST_URL__/content/images/2025/12/20251118-----------------------------------------sRGB-mini-----------------8.jpg)
+![](/ghost-images/2025/12/20251118-----------------------------------------sRGB-mini-----------------8.webp)
 
-![](__GHOST_URL__/content/images/2025/11/20251118-----------------------------------------sRGB-mini-----------------6.jpg)
+![](/ghost-images/2025/11/20251118-----------------------------------------sRGB-mini-----------------6.webp)
 
-![](__GHOST_URL__/content/images/2025/11/20251118-----------------------------------------sRGB-mini-----------------7.jpg)
+![](/ghost-images/2025/11/20251118-----------------------------------------sRGB-mini-----------------7.webp)
 
-![](__GHOST_URL__/content/images/2025/11/WKJ_1994.jpg)
+![](/ghost-images/2025/11/WKJ_1994.webp)
 
-![](__GHOST_URL__/content/images/2025/12/WKJ_1857-1.jpg)
+![](/ghost-images/2025/12/WKJ_1857-1.webp)
 
-![](__GHOST_URL__/content/images/2025/12/20251118-----------------------------------------sRGB-mini-----------------9.jpg)
+![](/ghost-images/2025/12/20251118-----------------------------------------sRGB-mini-----------------9.webp)
 
-![](__GHOST_URL__/content/images/2025/12/20251118-----------------------------------------sRGB-mini-----------------5.jpg)
+![](/ghost-images/2025/12/20251118-----------------------------------------sRGB-mini-----------------5.webp)
 
-![](__GHOST_URL__/content/images/2025/11/20251118-----------------------------------------sRGB-mini-----------------10.jpg)
+![](/ghost-images/2025/11/20251118-----------------------------------------sRGB-mini-----------------10.webp)
 
-![](__GHOST_URL__/content/images/2025/11/20251118-----------------------------------------sRGB-mini-----------------11.jpg)
+![](/ghost-images/2025/11/20251118-----------------------------------------sRGB-mini-----------------11.webp)

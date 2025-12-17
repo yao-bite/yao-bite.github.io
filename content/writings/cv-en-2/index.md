@@ -6,7 +6,7 @@ category = 'Reviews'
 draft = false
 +++
 
-![](__GHOST_URL__/content/images/2024/11/Self-Portrait_Mind-blowing-1-1.JPG)
+![](/ghost-images/2024/11/Self-Portrait_Mind-blowing-1-1.webp)
 
 [中文版](__GHOST_URL__/about/)
 

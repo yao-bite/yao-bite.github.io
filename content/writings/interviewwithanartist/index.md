@@ -5,7 +5,7 @@ slug = 'interviewwithanartist'
 description = '「觀眾入場」（Entering theAuditorium）源自劇場語彙，指觀眾進場至演出開始的過渡時刻'
 category = 'Reviews'
 tags = ['exhibitions']
-feature_image = '__GHOST_URL__/content/images/2025/03/_NZ_003.jpg'
+feature_image = '/ghost-images/2025/03/_NZ_003.webp'
 draft = false
 +++
 
@@ -25,13 +25,13 @@ Rehearsal for Re-her-sal: Entering the Auditorium
 
 展名中的「觀眾入場」（Entering the Auditorium）源自劇場語彙，指觀眾進場至演出開始的過渡時刻。在這個等待「開始」的空白時間，展覽試圖探討作品與觀眾的關係——作品的成立，並非僅為經濟學式的觀看，而是因觀眾的參與而開展。
 
-![](__GHOST_URL__/content/images/2025/03/_NZ_002.jpg)
+![](/ghost-images/2025/03/_NZ_002.webp)
 
-![](__GHOST_URL__/content/images/2025/03/_NZ_007.jpg)
+![](/ghost-images/2025/03/_NZ_007.webp)
 
 [雙頻道I：眼睛 Double-Channel I: eye(s](__GHOST_URL__/doublechannel-eyes/)) 
 
-![](__GHOST_URL__/content/images/2025/03/P1014389.JPG)
+![](/ghost-images/2025/03/P1014389.webp)
 
 #### 訪問一位藝術家 Inter-View with An Artist
 
@@ -41,15 +41,15 @@ the records of interview from Re-her-sal
 
 2025
 
-![](__GHOST_URL__/content/images/2025/03/_NZ_015-2.jpg)
+![](/ghost-images/2025/03/_NZ_015-2.webp)
 
-![](__GHOST_URL__/content/images/2025/03/_NZ_012.jpg)
+![](/ghost-images/2025/03/_NZ_012.webp)
 
-![](__GHOST_URL__/content/images/2025/03/_NZ_011.jpg)
+![](/ghost-images/2025/03/_NZ_011.webp)
 
-![](__GHOST_URL__/content/images/2025/03/_NZ_013.jpg)
+![](/ghost-images/2025/03/_NZ_013.webp)
 
-![](__GHOST_URL__/content/images/2025/03/_NZ_014.jpg)
+![](/ghost-images/2025/03/_NZ_014.webp)
 
 在看訪談影片時，如果沒有字幕，我時常陷入影片中人物表情與肢體語言的泥淖中，時不時跟丟句子。有趣的是，這類訪談影片除了不拍攝訪問者外，時常把訪問者的提問也去掉，徒留受訪者彷彿自言自語的形象。
 

@@ -4,7 +4,7 @@ title = '遇見100%的我自己 The Apple of My Eye（2022）'
 slug = 'theappleofmyeye'
 description = '觀者的剪影則與身體同步，朝著延遲影像走去。實時的影子與延遲的影像將於此空間中央相遇、交會、融合、短暫消失再分離'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '__GHOST_URL__/content/images/2022/08/220331170034-mini-sRGB--.jpg'
+feature_image = '/ghost-images/2022/08/220331170034-mini-sRGB--.webp'
 draft = false
 +++
 
@@ -16,31 +16,31 @@ draft = false
 
 480X300X240(H)cm
 
-![](__GHOST_URL__/content/images/2022/08/220331165907-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331165907-mini-sRGB--.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331170008-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331170008-mini-sRGB--.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331170011-mini-sRGB---1.jpg)
+![](/ghost-images/2022/08/220331170011-mini-sRGB---1.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331170019-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331170019-mini-sRGB--.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331170302-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331170302-mini-sRGB--.webp)
 
 在一個對稱的類鏡像空間中，觀者不管從哪一側進入，都可以看到對面自己的延遲影像—來自過去的影像—朝自己走來。於此同時，觀者的剪影則與身體同步，朝著延遲影像走去。實時的影子與延遲的影像將於此空間中央相遇、交會、融合、短暫消失再分離。兩種時間性在特定時空下交會，分離開來後又各自回到原狀。
 
 光線直射鏡頭下造成的光斑，使影像彷彿擁有瞳孔的巨大眼睛；觀者的影像與影子，既成為這對「眼睛」觀看的對象，也成為它們的一部份，有如映入眼球的倒影。另外一面牆上手機中的VR影像，與這對眼睛呼應著，播放的影像也是一對眼睛；然而當拾起懸掛的VR簡易頭顯再度觀看手機時，卻只會看到一隻由錯視造成的、兩隻眼睛交疊而成的眼睛。
 
-![](__GHOST_URL__/content/images/2022/08/220331165544-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331165544-mini-sRGB--.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331171856-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331171856-mini-sRGB--.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331165626-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331165626-mini-sRGB--.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331165825-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331165825-mini-sRGB--.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331171000-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331171000-mini-sRGB--.webp)
 
-![](__GHOST_URL__/content/images/2022/08/220331170356-mini-sRGB--.jpg)
+![](/ghost-images/2022/08/220331170356-mini-sRGB--.webp)
 
 木作設計｜楊健生  
 

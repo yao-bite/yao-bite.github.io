@@ -6,7 +6,7 @@ category = 'Reviews'
 draft = false
 +++
 
-![](__GHOST_URL__/content/images/2024/08/---_FB---1.jpg)
+![](/ghost-images/2024/08/---_FB---1.webp)
 
 [English Version](__GHOST_URL__/the-dual-double-channel-en/)
 #### 林沛瑤個展 LIN Pei-Yao Solo Exhibition

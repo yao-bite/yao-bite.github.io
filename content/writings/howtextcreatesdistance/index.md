@@ -10,7 +10,7 @@ draft = false
 
 *Author: Lin Pei-Yao*
 
-![](__GHOST_URL__/content/images/2024/10/Lee-Kit-2023-TKG-2-1.png)
+![](/ghost-images/2024/10/Lee-Kit-2023-TKG-2-1.webp)
 
 Lee Kit, **The Last Piece of Cloud**, 2023, exhibition view, TKG+. Photo: Lin Pei-Yao.
 
@@ -18,7 +18,7 @@ For me, the difference between text and speech lies in the fact that text can be
 
 This perhaps relates to my own creative concerns: How can text guide viewers into activating a particular state of thought, and in a reflexive manner, allow them to experience a differentiated self? Under what circumstances can the speaking “I” and the addressed “you” overlap with the viewer’s own self, so that they imagine themselves as the speaker, becoming one of the characters within the script, rather than merely a passive listener—where the transmission of content becomes secondary?
 
-![](__GHOST_URL__/content/images/2024/10/Roni-Horn-2023-1-.jpg)
+![](/ghost-images/2024/10/Roni-Horn-2023-1-.webp)
 
 Roni Horn, **Still Water (The River Thames, for Example)**, 1999, exhibition view, Winsing Art Place, 2023. Photo: Lin Pei-Yao.
 #### The Distance Between Consciousness and Reality
@@ -27,7 +27,7 @@ In 2023, **Roni Horn** held her first solo exhibition in Taiwan, presented at Wi
 
 At different points in time, we drift across different footnote markers, reading words about water, reflection, light and darkness, darkness and blackness. The writing shifts between first person “I,” second person “you,” and the concept of “self,” somewhere between direct address and inner monologue. Even though water itself is a neutral physical reality, we are unable to see through its surface—we cannot perceive the darkness beneath it—just as we cannot see through the shifting depths of our own inner life. This oscillating gaze, between image and text, resembles the process of self-reflection, while the still photographs condense the emergence of “self” in each perceptual moment.
 
-![](__GHOST_URL__/content/images/2024/10/-1-2.jpg)
+![](/ghost-images/2024/10/-1-2.webp)
 
 Roni Horn, **Still Water (The River Thames, for Example)** (detail), 1999, exhibition view, Winsing Art Place, 2023. Photo: Lin Pei-Yao.
 
@@ -39,13 +39,13 @@ Turning back to the local art scene, I have noticed that **Lee Kit** in recent y
 
 Take *[Retain a Desolate Face](https://kdmofa.tnua.edu.tw/mod/exhibition/index.php?REQUEST_ID=e1626ae68798853bcff9a390f902a9df11fd6bd50d1e93993934b87e439f546a)* (Kuandu Museum of Fine Arts, 2022) as an example: a curtain drifting in the breeze, a used towel rolled and set aside, ducks swimming in a park pond, the sky and clouds. We look at these images, but in a sense, we are not really looking; what we experience is a kind of vacant, purposeless gaze into nothingness. The handwritten words, printed texts, or so-called “subtitles” that accompany the images resemble phrases that suddenly surface in the mind during a blank moment, or like an inner voice that has long been repressed finally breaking through—like bubbles rising from the depths of water. The sharpness of the words, paired with the ordinariness of the images, creates an estranged distance, reminding us of our alienation from the self within everyday life. Yet, in following the words to see where they might lead us, we find ourselves also staring at those aimless images for a long time.
 
-![](__GHOST_URL__/content/images/2024/10/-3-4.jpg)
+![](/ghost-images/2024/10/-3-4.webp)
 
 Lee Kit, **Retain a Desolate Face**, 2022, exhibition view, Kuandu Museum of Fine Arts. Photo: Lin Pei-Yao.
 
 If estrangement from oneself constitutes alienation, then the alienated self also becomes, in some sense, an “other.” In Lee’s *[The Last Piece of Cloud](https://www.tkgplus.com/exhibitions/123/)* (TKG+, 2023), a string of text in fragmented third-person narration describes snippets of daily life among three characters, A, B, and C, occasionally slipping into one of their thoughts. On screen, shifting blocks of white, blue, and pink appear alone or together, slowly overlapping, drifting in relation to each other, and then suddenly vanishing. The boundaries between characters seem indeterminate. Panels leaning against the wall slice up the space, allowing a single block of color to be fragmented into several parts, as if the characters’ selves are split once again. The subtitles have no direct connection with the colored blocks, yet in this unrelated juxtaposition, the blocks are assigned vague, indeterminate “roles.” They seem bounded but remain indistinct. The “I,” too, becomes a substitutable role, touching upon the relation with the other. “So, he kept a distance away from himself.” A, B, and C might be three distinct people, or perhaps only one person who has divided into three roles—keeping distance from oneself all the while.
 
-![](__GHOST_URL__/content/images/2024/10/5-1-scaled.jpg)
+![](/ghost-images/2024/10/5-1-scaled.webp)
 
 Lee Kit, **The Last Piece of Cloud**, 2023, exhibition view, TKG+. Photo: Lin Pei-Yao.
 #### The Distance Between Imagination and the Present
@@ -56,7 +56,7 @@ In **BLUE BUTTON**’s minimalist reflections on visualization and materializati
 
 Take the work *Exchanging Wood Grain* as an example. On the *Sketch Desktop*, there is a paper sketch depicting two wooden planks positioned at a right angle, each exchanging part of its grain with the other. While the drawing suggests a perfect exchange, the actual construction necessarily leaves a gap where the saw has cut. “This is a work that is fundamentally impossible,” the artist writes in the booklet. Here, text becomes a medium for the “impossible,” while the physical and visualized objects in the exhibition serve as imperfect counterparts—yet it is through this very contrast that the state described in the text acquires a kind of relative perfection.
 
-![](__GHOST_URL__/content/images/2024/10/-67.jpg)
+![](/ghost-images/2024/10/-67.webp)
 
 BLUE BUTTON, **Exchanging Wood Grain**, 2021, exhibition view, **About Dirty Lemon Yellow**, Zone Art. Left photo: Lin Pei-Yao. Right photo: Courtesy of the artist.
 
@@ -64,13 +64,13 @@ In BLUE BUTTON’s exhibitions, there is no fixed hierarchy determining whether 
 
 On the one hand, present material reality seduces us by being more elusive than imagination; on the other hand, once the present slips into the past and memory becomes unstable, the poetic states that can only be described in words or sketches reappear, mirroring the insufficiency of material reality itself. Within the space stretched open by such discrepancies, viewers weave between booklet, sketch, and object, evoking the montage-like perception of time in everyday thought. Imaginary experiences, never fully materialized, quietly become carriers of the work. After all, how could one ever “describe the shifting of a remembered color and light”?
 
-![](__GHOST_URL__/content/images/2024/10/e-scaled.jpg)
+![](/ghost-images/2024/10/e-scaled.webp)
 
 BLUE BUTTON, **A Work Borrowed from S** (detail), 2021, exhibition view, **About Dirty Lemon Yellow**, Zone Art. Photo: Courtesy of the artist.
 
 In **Jui-Tsz Shiu**’s *The Ways to Pack* (FreeS Art Space, 2023), the exhibition also included a booklet, *[5 Ways to Pack](https://shiujuitsz.com/5-ways-to-pack/)* (2021). Most works could be loosely related to the booklet’s fictional character “S” and her stories. For example, in the video installation *[Lost House](https://shiujuitsz.com/lost-house/)*, a woodland photograph printed on canvas, with the shape of a house cut out from its center. Dash cam footage from the road leading to the site, and a recording of an elder tracing the outline of a house with her hand, all evoke the second chapter of the booklet, which recounts S’s grandmother’s old home—never visited by S herself, only told in stories, and now gone.
 
-![](__GHOST_URL__/content/images/2024/10/9-scaled.jpg)
+![](/ghost-images/2024/10/9-scaled.webp)
 
 Jui-Tsz Shiu, **Lost House**, 2020, exhibition view, **The****Ways to Pack**, FreeS Art Space, 2023. Photo: Lin Pei-Yao.
 
@@ -78,7 +78,7 @@ Jui-Tsz Shiu, **Lost House**, 2020, exhibition view, **The****Ways to Pack**, Fr
 
 For me, even after reading the booklet at the start of the exhibition, I did not feel that the show was a direct visualization of the text. Rather, because I had already imagined the five places that S wanted to pack into her body, the later works appeared in contrast with those prior imaginings. The exhibition space opened up a dialogue between imagination and reality, so that my experience was one of drifting back and forth between what I had pictured and what I now encountered.
 
-![](__GHOST_URL__/content/images/2024/10/minisRGB11151644-scaled.jpg)
+![](/ghost-images/2024/10/minisRGB11151644-scaled.webp)
 
 Jui-Tsz Shiu, **5 Ways to Pack**, 2021, exhibition view, **The****Ways to Pack**, FreeS Art Space, 2023. Photo: Courtesy of the artist.
 #### The Gap Between Sensation and Cognition
@@ -91,7 +91,7 @@ Within this distance, the paradoxical qualities of text—both empty and full—
 
 In this way, the viewer is not only experiencing within the work, but also becoming aware of the flow of their own consciousness—leaving and returning, again and again, drifting between the sensory immediacy of the present and the interior space of perception. Out of this drift, multiple temporalities of experience may arise.
 
-![](__GHOST_URL__/content/images/2024/10/minisRGB11150555-scaled.jpg)
+![](/ghost-images/2024/10/minisRGB11150555-scaled.webp)
 
 Jui-Tsz Shiu, **The Ways to Pack**, 2023, exhibition view, FreeS Art Space. Photo: Courtesy of the artist.
 

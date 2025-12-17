@@ -8,56 +8,56 @@ draft = false
 
 #### 2024.04.27｜展覽開幕
 
-![](__GHOST_URL__/content/images/2024/06/DSC04818.jpg)
+![](/ghost-images/2024/06/DSC04818.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04816.jpg)
+![](/ghost-images/2024/06/DSC04816.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04823.jpg)
+![](/ghost-images/2024/06/DSC04823.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04824.jpg)
+![](/ghost-images/2024/06/DSC04824.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04830.jpg)
+![](/ghost-images/2024/06/DSC04830.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04833.jpg)
+![](/ghost-images/2024/06/DSC04833.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04834.jpg)
+![](/ghost-images/2024/06/DSC04834.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04836.jpg)
+![](/ghost-images/2024/06/DSC04836.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04837.jpg)
+![](/ghost-images/2024/06/DSC04837.webp)
 
-![](__GHOST_URL__/content/images/2024/06/DSC04927.jpg)
+![](/ghost-images/2024/06/DSC04927.webp)
 
 #### 2024.05.18｜展覽座談
 
-![](__GHOST_URL__/content/images/2024/06/P1050035.JPG)
+![](/ghost-images/2024/06/P1050035.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050036.JPG)
+![](/ghost-images/2024/06/P1050036.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050041.JPG)
+![](/ghost-images/2024/06/P1050041.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050045.JPG)
+![](/ghost-images/2024/06/P1050045.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050056.JPG)
+![](/ghost-images/2024/06/P1050056.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050080.JPG)
+![](/ghost-images/2024/06/P1050080.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050082.JPG)
+![](/ghost-images/2024/06/P1050082.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050088.JPG)
+![](/ghost-images/2024/06/P1050088.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050092.JPG)
+![](/ghost-images/2024/06/P1050092.webp)
 
-![](__GHOST_URL__/content/images/2024/06/P1050113.JPG)
+![](/ghost-images/2024/06/P1050113.webp)
 
-![](__GHOST_URL__/content/images/2024/06/S__26001604_0.jpg)
+![](/ghost-images/2024/06/S__26001604_0.webp)
 
-![](__GHOST_URL__/content/images/2024/06/S__26001606_0.jpg)
+![](/ghost-images/2024/06/S__26001606_0.webp)
 
-![](__GHOST_URL__/content/images/2024/06/S__26001607_0.jpg)
+![](/ghost-images/2024/06/S__26001607_0.webp)
 
-![](__GHOST_URL__/content/images/2024/06/S__26001608_0.jpg)
+![](/ghost-images/2024/06/S__26001608_0.webp)
 
-![](__GHOST_URL__/content/images/2024/06/S__26001609_0.jpg)
+![](/ghost-images/2024/06/S__26001609_0.webp)
 
 攝影｜金車文藝中心

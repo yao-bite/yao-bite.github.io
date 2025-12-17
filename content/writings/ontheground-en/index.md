@@ -5,7 +5,7 @@ slug = 'ontheground-en'
 description = 'The repeated gesture of the carving hands is like sorcery that mediates between the fantasy world and the real world, praying to be disembodied to enter the other world'
 category = 'Reviews'
 tags = ['works (EN)']
-feature_image = '__GHOST_URL__/content/images/2023/02/on-the-ground_2020_6.jpg'
+feature_image = '/ghost-images/2023/02/on-the-ground_2020_6.webp'
 draft = false
 +++
 
@@ -14,11 +14,11 @@ draft = false
 
 ### double-channel video installation, TNCAA, Underground Gallery, Taipei, Taiwan
 
-![None](__GHOST_URL__/content/images/2023/02/on-the-ground_2020_3.jpg)
+![None](/ghost-images/2023/02/on-the-ground_2020_3.webp)
 
-![None](__GHOST_URL__/content/images/2023/02/on-the-ground_2020_4.jpg)
+![None](/ghost-images/2023/02/on-the-ground_2020_4.webp)
 
-![None](__GHOST_URL__/content/images/2023/02/on-the-ground_2020_5.jpg)
+![None](/ghost-images/2023/02/on-the-ground_2020_5.webp)
 
 This clip is repeatedly projected onto a tree trunk. When Alice from Alice in Wonderland discovered the rabbit hole underneath a tree, she crawled and fell into it. At the same time, a pair of hands were trying to carve into the tree trunk during the projection.
 
@@ -26,13 +26,13 @@ Alice was very excited during the fall and without any fear. She talked to herse
 
 The second voice, whispering without emotion at first, repeated Alice's words but became intense and frightened as the clip repeated for the second time. Right next to the trunk, the girl in a black dress, holding a telescope (or a small projector), seems to be wandering on the ground or trying to find an entrance to "Wonderland". However, as she seemed to find a "hole", we couldn't be sure whether there was a real entrance or if it was only an image the girl projected.
 
-![None](__GHOST_URL__/content/images/2023/02/on-the-ground_2020_7.jpg)
+![None](/ghost-images/2023/02/on-the-ground_2020_7.webp)
 
-![None](__GHOST_URL__/content/images/2023/02/on-the-ground_2020_8.jpg)
+![None](/ghost-images/2023/02/on-the-ground_2020_8.webp)
 
-![None](__GHOST_URL__/content/images/2023/02/on-the-ground_2020_9.jpg)
+![None](/ghost-images/2023/02/on-the-ground_2020_9.webp)
 
-![None](__GHOST_URL__/content/images/2023/02/on-the-ground_2020_1.jpg)
+![None](/ghost-images/2023/02/on-the-ground_2020_1.webp)
 
 ## video/03’26”/2020
 

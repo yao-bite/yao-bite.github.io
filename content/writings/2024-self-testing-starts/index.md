@@ -5,7 +5,7 @@ slug = '2024-self-testing-starts'
 description = '金車文藝中心承德館，臺北，臺灣'
 category = 'Reviews'
 tags = ['exhibitions']
-feature_image = '__GHOST_URL__/content/images/2024/11/2021-road-movie-2024-king-car_8.jpg'
+feature_image = '/ghost-images/2024/11/2021-road-movie-2024-king-car_8.webp'
 draft = false
 +++
 
@@ -17,106 +17,106 @@ King Car Cultural & Art Center (KCCA), Taipei, Taiwan
 
 2024.04.16 - 2024.06.23
 
-![](__GHOST_URL__/content/images/2024/05/20240430150007-mini-Srgb--.jpg)
+![](/ghost-images/2024/05/20240430150007-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/05/20240430150307-mini-Srgb--.jpg)
+![](/ghost-images/2024/05/20240430150307-mini-Srgb--.webp)
 
 [
 
-![](__GHOST_URL__/content/images/2024/06/20240430165824-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430165824-mini-Srgb--.webp)
 
 ](https://youtu.be/Y7dlGuN0NYE)[離開地球表面](https://youtu.be/Y7dlGuN0NYE)／單頻道錄像／03’26”／2020
   
 [
 
-![](__GHOST_URL__/content/images/2024/11/2023-Listentalk-2024-kingcar_combine.jpg)
+![](/ghost-images/2024/11/2023-Listentalk-2024-kingcar_combine.webp)
 
 ](__GHOST_URL__/listen-talk/)[聽說（向梵谷致意）](__GHOST_URL__/listen-talk/)／藝術家身體的3D掃描、3D列印／18(H)x18.5x16, 16(H)x18.5x16cm／2023
   
 
-![](__GHOST_URL__/content/images/2024/05/20240430150856-mini-Srgb--.jpg)
+![](/ghost-images/2024/05/20240430150856-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/05/20240430151008-mini-Srgb--.jpg)
+![](/ghost-images/2024/05/20240430151008-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430151601-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430151601-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/20240430151605-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430151605-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/20240430153812-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430153812-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430153837-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430153837-mini-Srgb--.webp)
 
 [雙面人](__GHOST_URL__/two-faced/)／單頻道影像、木作、壓克力、玻璃／05’32”／2022
   
 
-![](__GHOST_URL__/content/images/2024/05/20240430152423-mini-Srgb--.jpg)
+![](/ghost-images/2024/05/20240430152423-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/05/20240430153142-mini-Srgb--.jpg)
+![](/ghost-images/2024/05/20240430153142-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/05/20240430152632-mini-Srgb--.jpg)
+![](/ghost-images/2024/05/20240430152632-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430161437-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430161437-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430154750-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430154750-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/2023-Seasons-Change-2024-kingcar_2.jpg)
+![](/ghost-images/2024/11/2023-Seasons-Change-2024-kingcar_2.webp)
 
 [換季](https://www.youtube.com/watch?v=fkBl7oxGPc4)／單頻道錄像／01'11"／2023
   
 
-![](__GHOST_URL__/content/images/2024/11/20240430170422-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430170422-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/2023_Mind-Blowing_3.jpg)
+![](/ghost-images/2024/11/2023_Mind-Blowing_3.webp)
 
-![](__GHOST_URL__/content/images/2024/11/2023_Mind-Blowing_4.jpg)
+![](/ghost-images/2024/11/2023_Mind-Blowing_4.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430155846-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430155846-mini-Srgb--.webp)
 
 [心動](__GHOST_URL__/mind-blowing/)／單頻道錄像、電扇／06’16”／2023 
   
 
-![](__GHOST_URL__/content/images/2024/06/20240430160845-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430160845-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/20240430172009-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430172009-mini-Srgb--.webp)
 
 [雙頻道 I：眼睛](__GHOST_URL__/doublechannel-eyes/)／單頻道錄像、手機、3D列印互動裝置／35(H)x70x25cm／2023
   
 
-![](__GHOST_URL__/content/images/2024/11/20240430154524-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430154524-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430161453-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430161453-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430162140-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430162140-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/2021-road-movie-2024-king-car_7.jpg)
+![](/ghost-images/2024/11/2021-road-movie-2024-king-car_7.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430162613-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430162613-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/20240430163634-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430163634-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/20240430164030-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430164030-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/2021-road-movie-2024-king-car_6.jpg)
+![](/ghost-images/2024/11/2021-road-movie-2024-king-car_6.webp)
 
-![](__GHOST_URL__/content/images/2024/11/20240430164506-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430164506-mini-Srgb--.webp)
 
 [公路電影：月球之旅](__GHOST_URL__/roadmovie/)／單頻道錄像、汽車座椅、PVC投影幕／14'56"／2021
   
 
-![](__GHOST_URL__/content/images/2024/11/20240430162812-mini-Srgb--.jpg)
+![](/ghost-images/2024/11/20240430162812-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430162933-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430162933-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/11/2024-setInterval--_4.jpg)
+![](/ghost-images/2024/11/2024-setInterval--_4.webp)
 
-![](__GHOST_URL__/content/images/2024/11/2024-setInterval--_3-1.jpg)
+![](/ghost-images/2024/11/2024-setInterval--_3-1.webp)
 
 設定間距／雙頻道錄像、PVC、透明包邊條／02'55", 07'41"／2024
   
 
-![](__GHOST_URL__/content/images/2024/06/20240430163548-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430163548-mini-Srgb--.webp)
 
-![](__GHOST_URL__/content/images/2024/06/20240430165506-mini-Srgb--.jpg)
+![](/ghost-images/2024/06/20240430165506-mini-Srgb--.webp)
 
 ---
 

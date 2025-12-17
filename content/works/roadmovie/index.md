@@ -4,7 +4,7 @@ title = '公路電影：月球之旅 Road Movie: A Trip to the Moon（2021）'
 slug = 'roadmovie'
 description = '不管我怎麼樣地追，月球總是離我一樣遠，與我保持著相同的距離'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '__GHOST_URL__/content/images/2024/03/roadmovie_8.jpg'
+feature_image = '/ghost-images/2024/03/roadmovie_8.webp'
 draft = false
 +++
 
@@ -12,11 +12,11 @@ draft = false
 
 單頻道錄像、汽車／14'56"／2021
 
-![](__GHOST_URL__/content/images/2021/07/webpage7.jpg)
+![](/ghost-images/2021/07/webpage7.webp)
 
-![](__GHOST_URL__/content/images/2021/07/webpage4.jpg)
+![](/ghost-images/2021/07/webpage4.webp)
 
-![](__GHOST_URL__/content/images/2021/07/webpage10.jpg)
+![](/ghost-images/2021/07/webpage10.webp)
 
 不管我怎麼樣地追，月球總是與我保持相同的距離。
 
@@ -24,9 +24,9 @@ draft = false
 
 最終，列印機所造出的「路」似乎抵達了月球，也可能永遠未到。在喬治・梅里葉與尼爾・阿姆斯壯的「月球之旅」之後，即便身體只是觀看著影像而沒有移動——這趟旅程，是心智過程的雕塑，是意識對世界的創造——我用想像，保持距離卻抵達月球。
 
-![](__GHOST_URL__/content/images/2021/07/webpage6.jpg)
+![](/ghost-images/2021/07/webpage6.webp)
 
-![](__GHOST_URL__/content/images/2024/03/roadmovie_11.jpg)
+![](/ghost-images/2024/03/roadmovie_11.webp)
 
 靜態攝影記錄 朱淇宏  
 

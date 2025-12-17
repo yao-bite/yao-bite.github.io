@@ -5,7 +5,7 @@ slug = '2024-the-dual-double-channel'
 description = '洪建全基金會，臺北，臺灣'
 category = 'Reviews'
 tags = ['exhibitions']
-feature_image = '__GHOST_URL__/content/images/2024/10/20240813151805-mini-SRGB---.jpg'
+feature_image = '/ghost-images/2024/10/20240813151805-mini-SRGB---.webp'
 draft = false
 +++
 
@@ -17,77 +17,77 @@ HONG Foundation, Taipei, Taiwan
 
 2024.08.10 - 2024.08.31
 
-![](__GHOST_URL__/content/images/2024/10/20240813155104-mini-SRGB----1.jpg)
+![](/ghost-images/2024/10/20240813155104-mini-SRGB----1.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813140641-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813140641-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813140544-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813140544-mini-SRGB---.webp)
 
 三角關係／三頻道循環錄像／03’39”／2021
 
-![](__GHOST_URL__/content/images/2024/10/20240813141135-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813141135-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813160205-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813160205-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813155739-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813155739-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813143030-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813143030-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813142015-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813142015-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813144245-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813144245-mini-SRGB---.webp)
 
 遇見100%的我自己／網路攝影機、投影機／尺寸依場地而定／2021
 
-![](__GHOST_URL__/content/images/2024/10/20240813144252-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813144252-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813144513-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813144513-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813144702-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813144702-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813144802-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813144802-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813144815-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813144815-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813163317-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813163317-mini-SRGB---.webp)
 
 雙頻道 I：眼睛／單頻道錄像、手機、3D列印互動裝置／35(H)x70x25cm／2023
 
-![](__GHOST_URL__/content/images/2024/10/20240813162914-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813162914-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813162424-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813162424-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813162439-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813162439-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813150709-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813150709-mini-SRGB---.webp)
 
 雙頻道II：你(聽)我(說)／雙頻道影像三聲道裝置／08’37”／2024
 
-![](__GHOST_URL__/content/images/2024/10/20240813153408-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813153408-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813151832-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813151832-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813151956-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813151956-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813151104-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813151104-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813151158-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813151158-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813153437-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813153437-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813153721-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813153721-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813152414-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813152414-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813150119-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813150119-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813160327-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813160327-mini-SRGB---.webp)
 
-![](__GHOST_URL__/content/images/2024/10/20240813160605-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813160605-mini-SRGB---.webp)
 
 無限／單頻道錄像／04’55”／2024
 
-![](__GHOST_URL__/content/images/2024/10/20240813164802-mini-SRGB---.jpg)
+![](/ghost-images/2024/10/20240813164802-mini-SRGB---.webp)
 
 ---
 
@@ -109,7 +109,7 @@ HONG Foundation, Taipei, Taiwan
 [座談資訊](https://www.facebook.com/HongFoundation/posts/pfbid0BLM5HCi9PZjYXbvoaPi3jbbvbVBwEZ1erdZckgGWd15GJZTvSKBvRT58N1s1sUhhl)  
 [座談回顧](https://www.facebook.com/HongFoundation/posts/pfbid0JhuPXQri7rPiSehcP8SpYZsNzqKBR8nHaPvzEhfhoebjKgJUCF6UzFy5cSfYVByal)
 
-![](__GHOST_URL__/content/images/2024/10/P1013636--.JPG)
+![](/ghost-images/2024/10/P1013636--.webp)
 
 ---
 

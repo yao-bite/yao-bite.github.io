@@ -4,7 +4,7 @@ title = '雙面人 Two-faced（2022）'
 slug = 'two-faced'
 description = '同時在內與外，或同時不在內也不在外。不存在背面的正面，與不存在正面的背面。'
 tags = ['works', '#Import 2023-01-29 03:01']
-feature_image = '__GHOST_URL__/content/images/2022/11/221005150716-mini-sRGB---_.jpg'
+feature_image = '/ghost-images/2022/11/221005150716-mini-sRGB---_.webp'
 draft = false
 +++
 
@@ -12,21 +12,21 @@ draft = false
 
 單頻道錄像裝置、木作、壓克力／05’32”／2022
 
-![](__GHOST_URL__/content/images/2022/11/221005150550-mini-sRGB---_ok.jpg)
+![](/ghost-images/2022/11/221005150550-mini-sRGB---_ok.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005150614-mini-sRGB---_.jpg)
+![](/ghost-images/2022/11/221005150614-mini-sRGB---_.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005150625-mini-sRGB---_.jpg)
+![](/ghost-images/2022/11/221005150625-mini-sRGB---_.webp)
 
 影像是一層薄紗。
 
 一直以來，我思考著如何使用單個頻道的影像，給予觀者複數軸線的時間感知。
 
-![](__GHOST_URL__/content/images/2022/11/221005144941-mini-sRGB---_ok.jpg)
+![](/ghost-images/2022/11/221005144941-mini-sRGB---_ok.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005144958-mini-sRGB---_ok.jpg)
+![](/ghost-images/2022/11/221005144958-mini-sRGB---_ok.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005145035-mini-sRGB---_ok.jpg)
+![](/ghost-images/2022/11/221005145035-mini-sRGB---_ok.webp)
 
 他成為了一個雙面人或雙背人，同時在窗內又在窗外；而當他隱沒入窗簾後頭，則既不在內也不在外。  
 
@@ -38,21 +38,21 @@ draft = false
 
 離開的同時，沒有前往任何地方。
 
-![](__GHOST_URL__/content/images/2022/11/221005145627-mini-sRGB---_ok.jpg)
+![](/ghost-images/2022/11/221005145627-mini-sRGB---_ok.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005145631-mini-sRGB---_ok.jpg)
+![](/ghost-images/2022/11/221005145631-mini-sRGB---_ok.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005145634-mini-sRGB---_ok.jpg)
+![](/ghost-images/2022/11/221005145634-mini-sRGB---_ok.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005145711-mini-sRGB---_ok.jpg)
+![](/ghost-images/2022/11/221005145711-mini-sRGB---_ok.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005151354-mini-sRGB---_.jpg)
+![](/ghost-images/2022/11/221005151354-mini-sRGB---_.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005151240-mini-sRGB---_.jpg)
+![](/ghost-images/2022/11/221005151240-mini-sRGB---_.webp)
 
-![](__GHOST_URL__/content/images/2022/11/221005151258-mini-sRGB---_.jpg)
+![](/ghost-images/2022/11/221005151258-mini-sRGB---_.webp)
 
-![](__GHOST_URL__/content/images/2022/11/P1001490.JPG)
+![](/ghost-images/2022/11/P1001490.webp)
 
 佈景搭設協力｜吳奕蓁 簡莉芸  
 

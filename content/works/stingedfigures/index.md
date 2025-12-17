@@ -4,7 +4,7 @@ title = '刺像計畫 Stinged Figures（2021）'
 slug = 'stingedfigures'
 description = '信仰的存在鞏固了人們日復一日生活的平衡。而在轉化成實際的行動的同時，信仰被拆解成大大小小截然不同的儀式⋯⋯以刺青文化為切入點，採集並顯影當代青年的自我意識、對獨特性的期待以及自我認同'
 tags = ['exhibitions', 'works', '#Import 2023-01-29 03:01']
-feature_image = '__GHOST_URL__/content/images/2022/07/10-1.jpg'
+feature_image = '/ghost-images/2022/07/10-1.webp'
 draft = false
 +++
 
@@ -23,13 +23,13 @@ draft = false
 
 以神性的或日常的角度切入，本次展覽與參展藝術家一起探討，信仰在個人或群體身上展現的理由以及樣態。（文／王甄薇）
 
-![](__GHOST_URL__/content/images/2022/07/2.jpg)
+![](/ghost-images/2022/07/2.webp)
 
-![](__GHOST_URL__/content/images/2022/07/5.jpg)
+![](/ghost-images/2022/07/5.webp)
 
-![](__GHOST_URL__/content/images/2022/07/8.jpg)
+![](/ghost-images/2022/07/8.webp)
 
-![](__GHOST_URL__/content/images/2022/07/7.jpg)
+![](/ghost-images/2022/07/7.webp)
 
 ### 刺像計畫（Stinged Figures）
 
@@ -38,11 +38,11 @@ draft = false
 
 以刺青文化為切入點，採集並顯影當代青年的自我意識、對獨特性的期待以及自我認同。在參與者的差異並陳之中，刺青作為試圖彰顯個人獨立精神之表述行為，呈顯出青年們不同於上個世代的生存處境與生命樣態，更編織出一幅自我期許或記憶的共同圖像。
 
-![](__GHOST_URL__/content/images/2022/07/12.jpg)
+![](/ghost-images/2022/07/12.webp)
 
-![](__GHOST_URL__/content/images/2022/07/13.jpg)
+![](/ghost-images/2022/07/13.webp)
 
-![](__GHOST_URL__/content/images/2022/07/14.jpg)
+![](/ghost-images/2022/07/14.webp)
 
 ### 計畫參與者
 

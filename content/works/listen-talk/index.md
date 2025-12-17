@@ -4,7 +4,7 @@ title = '聽說（向梵谷致意）（2023）'
 slug = 'listen-talk'
 description = '聽說，有些表達雖然無人接收，卻仍是雙向的，既對別人，也對自己說。'
 tags = ['works']
-feature_image = '__GHOST_URL__/content/images/2024/05/2023----1-2024---.jpg'
+feature_image = '/ghost-images/2024/05/2023----1-2024---.webp'
 draft = false
 +++
 
@@ -14,9 +14,9 @@ draft = false
 
 18(H)x18.5x16、16(H)x18.5x16cm
 
-![](__GHOST_URL__/content/images/2024/05/2023----2-2024---.jpg)
+![](/ghost-images/2024/05/2023----2-2024---.webp)
 
-![](__GHOST_URL__/content/images/2024/05/2023----3-2024---.jpg)
+![](/ghost-images/2024/05/2023----3-2024---.webp)
 
 攝影｜Studio Millspace
 
@@ -30,13 +30,13 @@ draft = false
 
 ##### 直至日夢濾了一室的光，松園別館，花蓮，臺灣  
 
-![](__GHOST_URL__/content/images/2023/12/DSC_0083.JPG)
+![](/ghost-images/2023/12/DSC_0083.webp)
 
-![](__GHOST_URL__/content/images/2023/12/DSC_0061-2.JPG)
+![](/ghost-images/2023/12/DSC_0061-2.webp)
 
-![](__GHOST_URL__/content/images/2023/12/DSC_0313-2.JPG)
+![](/ghost-images/2023/12/DSC_0313-2.webp)
 
-![](__GHOST_URL__/content/images/2023/12/DSC_0315-2.JPG)
+![](/ghost-images/2023/12/DSC_0315-2.webp)
 
 攝影｜王秀君
 
