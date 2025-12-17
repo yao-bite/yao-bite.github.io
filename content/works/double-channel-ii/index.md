@@ -5,9 +5,8 @@ title = 'Double-Channel II: "Listen (to me)."'
 image = "/works/double-channel-ii/cover.jpg"
 medium = ''
 dimensions = ''
+featured = true
 +++
-
-{{< figure src="cover.jpg" >}}
 
 When we try to understand others, we can only empathize and imagine what others think or feel. So, does this process of putting “ourselves” in others’ shoes make others part of ourselves? When thinking about the self, we engage in the act of othering. Does this mean that the self is, in a way, an other?
 

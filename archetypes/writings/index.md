@@ -2,7 +2,6 @@
 date = '{{ .Date }}'
 draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-medium = ''
-dimensions = ''
-featured = false
+category = ''
+tags = []
 +++

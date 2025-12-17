@@ -2,11 +2,11 @@
 date = '2025-12-17T15:57:51+08:00'
 draft = true
 title = 'Double-Channel II: "Listen (to me)'
+image = '/works/double-channel-ii/cover.jpg'
 medium = ''
 dimensions = ''
+featured = true
 +++
-
-{{< figure src="cover.jpg" >}}
 
 當試圖理解他人，我們僅能透過自己來想像，那這樣的他人是不是也是自我的一部份？當思考自我，我們都同時將自己他者化，那這樣的自我是不是也是一種他者？ 
 
