@@ -7,23 +7,23 @@
           {{ .Site.Title }}
         </a>
       </div>
-      
+
       <!-- Desktop Navigation -->
       <div class="hidden md:flex items-center space-x-8">
         {{ range .Site.Menus.main }}
-        <a href="{{ .URL | relLangURL }}" 
+        <a href="{{ .URL | relLangURL }}"
            class="hover:text-gray-600 transition {{ if $.IsMenuCurrent "main" . }}text-gray-900 font-medium{{ else }}text-gray-700{{ end }}">
           {{ .Name }}
         </a>
         {{ end }}
-        
+
         <!-- Language Switcher -->
         <div class="flex items-center space-x-2 ml-4">
           {{ range .Site.Languages }}
           {{ if eq $.Site.Language.Lang .Lang }}
           <span class="text-gray-900 font-medium">{{ .LanguageName }}</span>
           {{ else }}
-          <a href="{{ $.Page.RelPermalink | relLangURL }}" 
+          <a href="{{ $.Page.RelPermalink | relLangURL }}"
              hreflang="{{ .Lang }}"
              class="text-gray-500 hover:text-gray-700 transition">
             {{ .LanguageName }}
@@ -32,7 +32,7 @@
           {{ end }}
         </div>
       </div>
-      
+
       <!-- Mobile Menu Button -->
       <button id="mobile-menu-button" class="md:hidden p-2 hover:bg-gray-100 rounded">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -40,23 +40,23 @@
         </svg>
       </button>
     </div>
-    
+
     <!-- Mobile Navigation -->
     <div id="mobile-menu" class="hidden md:hidden pb-4">
       {{ range .Site.Menus.main }}
-      <a href="{{ .URL | relLangURL }}" 
+      <a href="{{ .URL | relLangURL }}"
          class="block py-2 hover:text-gray-600 transition {{ if $.IsMenuCurrent "main" . }}text-gray-900 font-medium{{ else }}text-gray-700{{ end }}">
         {{ .Name }}
       </a>
       {{ end }}
-      
+
       <!-- Language Switcher Mobile -->
       <div class="flex items-center space-x-2 mt-4 pt-4 border-t">
         {{ range .Site.Languages }}
         {{ if eq $.Site.Language.Lang .Lang }}
         <span class="text-gray-900 font-medium">{{ .LanguageName }}</span>
         {{ else }}
-        <a href="{{ $.Page.RelPermalink | relLangURL }}" 
+        <a href="{{ $.Page.RelPermalink | relLangURL }}"
            hreflang="{{ .Lang }}"
            class="text-gray-500 hover:text-gray-700 transition">
           {{ .LanguageName }}

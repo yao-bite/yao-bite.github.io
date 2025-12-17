@@ -2,21 +2,21 @@
 date = '2025-12-17T15:45:03+08:00'
 draft = false
 title = 'Who Is the Speaker'
-venue = 'Zone Art, Taoyuan, Taiwan'
+venue = '众藝術，桃園，臺灣'
 image = '/exhibitions/who-is-the-speaker/cover.jpg'
 +++
 
 {{< figure src="cover.jpg" alt="Cover Image" >}}
 
-## About the Exhibition
+## 展覽簡介
 
-When we speak, the voice resonates in the throat—but where does it reside when we think? Speaking is not merely an act of expression, but a dynamic process of perception: how does a voice emerge in the mind, and how is the self divided between speaking and listening?
+說話時，聲音的位置在喉嚨；思考時，聲音的位置在哪裡？「說話」不只是一種表達的結果，而是一個動態的知覺過程：聲音如何在腦中出現？自我如何在說與聽之間被劃分？
 
-Lin Pei-Yao’s solo exhibition Who is the speaker? invites viewers into the internal mechanism of speech, creating shifts in perception along the way. Voice and thought, speaking and listening, the inner and the outer—these dimensions overlap throughout the exhibition. The viewer’s body becomes both a vessel of perception and a site through which sound flows.
+林沛瑤個展《Who is the speaker?》帶領觀眾進入說話這個行為的內部機制，並在其中創造感知的位移。語音與思緒、說話與聆聽、內在與外在，在展覽中彼此交疊。觀者的身體成為感知的容器，也成為聲音流動的場域。 
 
-As words merge into thought and thought becomes word, an indistinct speaker quietly arrives—an invisible guest inhabiting the mind. And if they are willing, the viewer too may become a visitor of voice, drifting between focus and reverie, becoming, for a moment, the one who speaks.
+當話語融入思緒，思緒成為話語，模糊不清的發話者悄悄來訪，在觀眾的腦海中作客；而如果他們願意，觀眾也將能化身「聲音的訪客」，在恍惚與專注中，成為另一位說話者。
 
-## Exhibition Team
+## 展覽團隊
 
 Exhibition Visual Design｜展覽主視覺設計｜舞陽美術（Sunnydance Co.）  
 Marketing Planning & Execution｜行銷企劃與執行｜李思廷（Sydney Lee）  

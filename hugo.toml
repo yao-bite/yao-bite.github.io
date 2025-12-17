@@ -1,5 +1,5 @@
 baseURL = 'https://peiyao.run/'
-title = 'Pei Yao'
+title = 'Pei Yao Lin'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
     languageCode = 'zh-TW'
     languageName = '中文'
     weight = 2
-    title = '裴堯'
+    title = '林沛瑤'
 
 [params]
   description = 'Artist Portfolio'
