@@ -55,7 +55,7 @@
                   </div>
 
                   {{ with .Summary }}
-                  <p class="text-gray-600">{{ . }}</p>
+                  <p class="text-gray-600">{{ . | plainify }}</p>
                   {{ end }}
                 </div>
               </div>

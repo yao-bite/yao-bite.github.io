@@ -21,7 +21,7 @@
 
       <div class="text-lg text-gray-700 space-y-2">
         {{ with .Params.venue }}
-        <p>{{ . }}</p>
+        <p>{{ . | markdownify }}</p>
         {{ end }}
 
         {{ with .Params.location }}
@@ -29,7 +29,11 @@
         {{ end }}
 
         {{ if .Params.date }}
-        <p class="text-gray-600">{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}</p>
+        <p class="text-gray-600">{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}
+          {{ if .Params.endDate }}
+          - {{ time.AsTime .Params.endDate | dateFormat (.Site.Language.Params.dateFormat | default "2006.01.02") }}
+          {{ end }}
+        </p>
         {{ end }}
       </div>
     </div>
