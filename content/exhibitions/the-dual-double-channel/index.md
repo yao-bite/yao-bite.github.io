@@ -1,14 +1,14 @@
 +++
-date = '2024-07-07T03:02:29+08:00'
+date = '2024-08-10'
+endDate = '2024-08-31'
 title = 'The Dual Double-Channel'
 slug = 'the-dual-double-channel-en'
 categories = ['Reviews']
 draft = false
+venue = 'Hong Foundation, Taipei, Taiwan'
+image = '/ghost-images/2024/08/---_FB--.webp'
 +++
 
-![](/ghost-images/2024/08/---_FB--.webp)
-
-[中文](__GHOST_URL__/the-dual-double-channel/)
 #### LIN Pei-Yao Solo Exhibition
 
 **Exhibition Period** | 2024/08/10 (Sat.) - 2024/08/31 (Sat.)  

@@ -1,14 +1,15 @@
 +++
-date = '2024-06-08T16:32:15+08:00'
+date = '2024-08-10'
+endDate = '2024-08-31'
 title = '雙頻道 The Dual Double-Channel'
 slug = 'the-dual-double-channel'
 categories = ['Reviews']
 draft = false
+venue = '洪建全基金會, 臺北, 臺灣'
+image = '/ghost-images/2024/08/---_FB---1.webp'
 +++
 
-![](/ghost-images/2024/08/---_FB---1.webp)
 
-[English Version](__GHOST_URL__/the-dual-double-channel-en/)
 #### 林沛瑤個展 LIN Pei-Yao Solo Exhibition
 
 展期｜2024/08/10（Sat.） - 2024/08/31（Sat.）  

@@ -18,7 +18,7 @@ hasCJKLanguage = true
     languageCode = 'zh-TW'
     languageName = '中文'
     weight = 2
-    title = '林沛瑤'
+    title = 'Lin, Pei Yao 林沛瑤'
     summaryLength = 100
     [languages.tw.params]
       dateFormat = '2006.01.02'
@@ -58,6 +58,9 @@ hasCJKLanguage = true
     name = 'CV'
     url = '/cv/'
     weight = 5
+
+[taxonomies]
+  category = 'categories'
 
 [outputs]
   home = ['HTML', 'RSS']

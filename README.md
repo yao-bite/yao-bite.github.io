@@ -188,3 +188,10 @@ The site uses:
 - Hugo static site generator
 - Tailwind CSS for styling (CDN in development, compiled for production)
 - Responsive design with mobile-first approach
+
+## Content Management
+
+Writings categories:
+
+* Reviews
+* Lyrics
