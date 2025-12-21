@@ -3,7 +3,7 @@ date = '2025-09-06T13:18:40+08:00'
 title = 'Drifting Between Perceptions: How Text Creates Distance in a Work'
 slug = 'howtextcreatesdistance'
 description = 'How can text guide viewers into activating a particular state of thought, and in a reflexive manner, allow them to experience a differentiated self? '
-category = 'Reviews'
+categories = ['Reviews']
 tags = ['藝術評論 art reviews']
 draft = false
 +++

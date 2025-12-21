@@ -3,7 +3,7 @@ date = '2022-06-03T11:25:32+08:00'
 title = 'CV'
 slug = 'about'
 description = '林沛瑤，1998年生，藝術工作者，臺灣臺中人，現就讀北藝大美術學系碩士班。作品以影像及空間裝置為主，經常以一種斷裂而雙生的狀態為核心，揣摩影像及空間中的複合時間性'
-category = 'Reviews'
+categories = ['Reviews']
 tags = ['#Import 2023-01-29 03:01']
 draft = false
 +++

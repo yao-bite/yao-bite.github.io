@@ -3,7 +3,7 @@ date = '2025-03-01T02:21:35+08:00'
 title = '不合時宜的情懷——現場身體與影像的再同步：劉昱廷《走在水上》'
 slug = 'art-review-walkingonthewater'
 description = '影像使得這些理應無人會特意凝視的姿態與行動，被再現於我們面前，而觀者成為見證人的同時，在動作重複或凝結的不間斷綿延時間裡，我們與影像中的人物共情， 並在這「再同步」的過程中產生情懷。'
-category = 'Reviews'
+categories = ['Reviews']
 tags = ['藝術評論 art reviews']
 draft = false
 +++

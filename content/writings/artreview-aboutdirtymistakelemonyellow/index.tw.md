@@ -3,7 +3,7 @@ date = '2022-05-05T13:48:22+08:00'
 title = '睽違已久，如何描述一檔記憶中的展覽？不可能的時態練習：黃點點《關於髒掉的檸檬黃色》'
 slug = 'artreview-aboutdirtymistakelemonyellow'
 description = '一個總是不滿足於當下的創作者，試圖為他鍾愛的（記憶中的或想像中的）物件們在空間中給予時間的厚度，透過註釋般的間接補述而非再現，一一賦予只存在想像中的過去或未來。'
-category = 'Reviews'
+categories = ['Reviews']
 tags = ['藝術評論 art reviews', '#Import 2023-01-29 03:01']
 draft = false
 +++

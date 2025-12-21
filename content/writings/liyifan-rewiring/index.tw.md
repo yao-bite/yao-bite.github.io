@@ -3,7 +3,7 @@ date = '2021-08-18T14:45:45+08:00'
 title = '不可揭露性之揭露：論李亦凡《Rewiring》身體與機器、宗教與科技的互相滲透與模仿'
 slug = 'liyifan-rewiring'
 description = '在李亦凡的《Rewiring》中，執行日常的機器生命體成為人存在的隱喻。而隨時隨地都在觀看影像的世界，在這作品中似乎已不復在⋯⋯'
-category = 'Reviews'
+categories = ['Reviews']
 tags = ['藝術評論 art reviews', '#Import 2023-01-29 03:01']
 draft = false
 +++

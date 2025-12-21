@@ -2,7 +2,7 @@
 date = '2024-07-07T03:02:29+08:00'
 title = 'The Dual Double-Channel'
 slug = 'the-dual-double-channel-en'
-category = 'Reviews'
+categories = ['Reviews']
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 date = '2025-03-10T03:07:10+08:00'
 title = '藝術家的訪談'
 slug = 'interviewofanartist'
-category = 'Reviews'
+categories = ['Reviews']
 draft = false
 +++
 

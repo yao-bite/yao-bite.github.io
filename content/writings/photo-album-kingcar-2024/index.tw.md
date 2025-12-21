@@ -2,7 +2,7 @@
 date = '2024-06-09T09:13:02+08:00'
 title = '《自我測試開始》開幕&座談活動紀錄'
 slug = 'photo-album-kingcar-2024'
-category = 'Reviews'
+categories = ['Reviews']
 draft = false
 +++
 

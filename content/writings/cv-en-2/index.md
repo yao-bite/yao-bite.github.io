@@ -2,7 +2,7 @@
 date = '2023-05-02T09:33:52+08:00'
 title = 'CV (En)'
 slug = 'cv-en-2'
-category = 'Reviews'
+categories = ['Reviews']
 draft = false
 +++
 
