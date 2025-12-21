@@ -13,10 +13,13 @@
       </header>
       
       {{ with .Params.image }}
-      <div class="mb-12">
-        <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full">
-      </div>
+          {{ $imagePath := . }}
+          {{ if not (hasPrefix . "/") }}
+            {{ $imagePath = path.Join $.File.Dir . }}
+          {{ end }}
+          <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full object-cover mb-6">
       {{ end }}
+
       
       <div class="prose prose-lg max-w-none">
         {{ .Content }}

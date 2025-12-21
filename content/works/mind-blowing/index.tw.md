@@ -6,6 +6,7 @@ description = '心動，心靈的活動。除了怦然心動的片刻、外界�
 tags = ['works']
 image = '/ghost-images/2024/11/2023-mindblowing-2024-kingcar_3_70422-mini-Srgb--.webp'
 draft = false
+featured = true
 +++
 
 ### [自我測試開始](__GHOST_URL__/2024-self-testing-starts/)，金車文藝中心承德館，臺北，臺灣  

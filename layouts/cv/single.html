@@ -5,8 +5,16 @@
     
     <div class="max-w-4xl mx-auto">
       
-      <h1 class="text-4xl md:text-5xl font-light mb-12">{{ .Title }}</h1>
+      {{ with .Params.image }}
+          {{ $imagePath := . }}
+          {{ if not (hasPrefix . "/") }}
+            {{ $imagePath = path.Join $.File.Dir . }}
+          {{ end }}
+          <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full object-cover mb-6">
+      {{ end }}
       
+      <h1 class="text-4xl md:text-5xl font-light mb-12">{{ .Title }}</h1>
+
       <!-- Education -->
       {{ with .Params.education }}
       <div class="mb-12">

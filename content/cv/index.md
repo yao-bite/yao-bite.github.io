@@ -1,14 +1,9 @@
 +++
 date = '2023-05-02T09:33:52+08:00'
-title = 'CV (En)'
-slug = 'cv-en-2'
-categories = ['Reviews']
+title = 'CV'
 draft = false
+image = '/ghost-images/2024/11/Self-Portrait_Mind-blowing-1-1.webp'
 +++
-
-![](/ghost-images/2024/11/Self-Portrait_Mind-blowing-1-1.webp)
-
-[中文版](__GHOST_URL__/about/)
 
 **About**
 

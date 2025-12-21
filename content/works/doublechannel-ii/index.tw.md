@@ -6,6 +6,7 @@ description = '我們用自己觀看他人，用他人觀看自己。'
 tags = ['works', 'En']
 image = '/ghost-images/2024/10/1016_MoCA_----_111_L-1.webp'
 draft = false
+featured = true
 +++
 
 ### 反覆演練Re-her-sal：預演，台北當代藝術館，臺北，臺灣

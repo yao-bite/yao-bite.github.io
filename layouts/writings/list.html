@@ -10,7 +10,7 @@
         <a href="{{ "writings" | relLangURL }}" class="px-4 py-2 text-sm border hover:bg-gray-900 hover:text-white transition">All</a>
         {{ $categories := slice "Reviews" "Lyrics" "Research" "Essays" }}
         {{ range $categories }}
-        <a href="{{ printf "writings/%s" (. | urlize) | relLangURL }}" class="px-4 py-2 text-sm border hover:bg-gray-900 hover:text-white transition">{{ . }}</a>
+        <a href="{{ printf "categories/%s" (. | urlize) | relLangURL }}" class="px-4 py-2 text-sm border hover:bg-gray-900 hover:text-white transition">{{ . }}</a>
         {{ end }}
       </div>
     </div>
