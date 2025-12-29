@@ -1,13 +1,16 @@
-+++
-date = '2025-11-28T03:24:45+08:00'
-title = 'Who is the speaker? (2025)'
-slug = 'who-is-the-speaker'
-description = '說話時，聲音的位置在喉嚨；思考時，聲音的位置在哪裡？When we speak, the voice resonates in the throat—but where does it reside when we think?'
-categories = ['Reviews']
-tags = ['exhibitions']
-image = '/ghost-images/2025/11/WKJ_0572.webp'
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2025-11-28T03:24:45+08:00"
+description: 說話時，聲音的位置在喉嚨；思考時，聲音的位置在哪裡？When we speak, the voice resonates in the throat—but
+  where does it reside when we think?
+draft: false
+image: /ghost-images/2025/11/WKJ_0572.webp
+slug: who-is-the-speaker
+tags:
+- exhibitions
+title: Who is the speaker? (2025)
+---
 
 ### 林沛瑤個展 LIN Pei-Yao Solo Exhibition
 

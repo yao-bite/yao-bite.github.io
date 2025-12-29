@@ -1,13 +1,14 @@
-+++
-date = '2023-12-10T16:04:48+08:00'
-title = '心動 Mind-Blowing（2023）'
-slug = 'mind-blowing'
-description = '心動，心靈的活動。除了怦然心動的片刻、外界變化引起的心靈震動，還有一些沈潛許久、來自身體深處的隻字片語閃過腦海。那聲音既熟悉又陌生，像是很久以前的自己。'
-tags = ['works']
-image = '/ghost-images/2024/11/2023-mindblowing-2024-kingcar_3_70422-mini-Srgb--.webp'
-draft = false
-featured = true
-+++
+---
+date: "2023-12-10T16:04:48+08:00"
+description: 心動，心靈的活動。除了怦然心動的片刻、外界變化引起的心靈震動，還有一些沈潛許久、來自身體深處的隻字片語閃過腦海。那聲音既熟悉又陌生，像是很久以前的自己。
+draft: false
+featured: true
+image: /ghost-images/2024/11/2023-mindblowing-2024-kingcar_3_70422-mini-Srgb--.webp
+slug: mind-blowing
+tags:
+- works
+title: 心動 Mind-Blowing（2023）
+---
 
 ### [自我測試開始](__GHOST_URL__/2024-self-testing-starts/)，金車文藝中心承德館，臺北，臺灣  
 

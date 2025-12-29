@@ -1,12 +1,14 @@
-+++
-date = '2023-03-30T14:53:47+08:00'
-title = '鄭文豪、劉書妤《冶煉是水氣》：時空的合成與析出'
-slug = 'artreview-alchemizingmist'
-description = '在這檔展覽中，兩位創作者看似呈現出截然不同的狀態，但卻分別透過時間與空間，來辯證「動」與「靜」之間的關係。'
-categories = ['Reviews']
-tags = ['藝術評論 art reviews']
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2023-03-30T14:53:47+08:00"
+description: 在這檔展覽中，兩位創作者看似呈現出截然不同的狀態，但卻分別透過時間與空間，來辯證「動」與「靜」之間的關係。
+draft: false
+slug: artreview-alchemizingmist
+tags:
+- 藝術評論 art reviews
+title: 鄭文豪、劉書妤《冶煉是水氣》：時空的合成與析出
+---
 
 文／林沛瑤
 

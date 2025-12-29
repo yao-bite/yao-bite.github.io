@@ -1,13 +1,15 @@
-+++
-date = '2024-06-21T08:46:52+08:00'
-title = '自我測試開始 Self-Testing Starts (2024)'
-slug = '2024-self-testing-starts'
-description = '金車文藝中心承德館，臺北，臺灣'
-categories = ['Reviews']
-tags = ['exhibitions']
-image = '/ghost-images/2024/11/2021-road-movie-2024-king-car_8.webp'
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2024-06-21T08:46:52+08:00"
+description: 金車文藝中心承德館，臺北，臺灣
+draft: false
+image: /ghost-images/2024/11/2021-road-movie-2024-king-car_8.webp
+slug: 2024-self-testing-starts
+tags:
+- exhibitions
+title: 自我測試開始 Self-Testing Starts (2024)
+---
 
 #### 林沛瑤個展 LIN Pei-Yao Solo Exhibition
 

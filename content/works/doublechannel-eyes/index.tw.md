@@ -1,12 +1,13 @@
-+++
-date = '2023-04-03T15:15:09+08:00'
-title = '雙頻道 I：眼睛 Double-Channel I: eye(s) (2023)'
-slug = 'doublechannel-eyes'
-description = '「雙頻道（double-channel）」在描述錄像時是作為一個形容詞，已經不以複數型（double channels）的狀態存在'
-tags = ['works']
-image = '/ghost-images/2023/04/double-channel-eye-s-_2023-2-edit.webp'
-draft = false
-+++
+---
+date: "2023-04-03T15:15:09+08:00"
+description: 「雙頻道（double-channel）」在描述錄像時是作為一個形容詞，已經不以複數型（double channels）的狀態存在
+draft: false
+image: /ghost-images/2023/04/double-channel-eye-s-_2023-2-edit.webp
+slug: doublechannel-eyes
+tags:
+- works
+title: '雙頻道 I：眼睛 Double-Channel I: eye(s) (2023)'
+---
 
 ##### 北藝大美術學系碩士班開放工作室，國立臺北藝術大學  
 

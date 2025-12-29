@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/work.md",
+                "file": "content/works/who-is-the-speaker/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "work"
+              "title": "index"
             }
           }
         ]
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,12 +202,15 @@
   },
   "active": "5e50a4792554cf0a",
   "lastOpenFiles": [
-    "templates/writing.md",
+    "content/works/two-faced/index.tw.md",
+    "content/works/who-is-the-speaker/index.md",
+    "content/works/mind-blowing/index.tw.md",
+    "content/works/doublechannel-ii/index.tw.md",
     "templates/work.md",
+    "templates/writing.md",
     "templates/exhibition.md",
     "archetypes/writings/index.md",
     "archetypes/exhibitions/index.md",
-    "content/works/who-is-the-speaker/index.md",
     "public/works/who-is-the-speaker/index.html",
     "public/works/who-is-the-speaker/untitled/index.html",
     "public/works/who-is-the-speaker/untitled",

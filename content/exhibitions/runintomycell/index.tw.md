@@ -1,13 +1,16 @@
-+++
-date = '2022-01-22T13:55:04+08:00'
-title = '遇見100%的我自己  Run into My-Cell（2021）'
-slug = 'runintomycell'
-description = '觀者的影子與影像形成了一不共時的投影平面，影子成為即時影像，而自我的影像／鏡像卻是延遲的。觀者將看見自己一半的影子，與一半的影像融為一體，影子與影像合而為一而成為一個嶄新的人，與觀者自己的身體面對面佇立著'
-categories = ['Reviews']
-tags = ['exhibitions', '#Import 2023-01-29 03:01']
-image = '/ghost-images/2022/01/211201185821-mini-sRGB--_.webp'
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2022-01-22T13:55:04+08:00"
+description: 觀者的影子與影像形成了一不共時的投影平面，影子成為即時影像，而自我的影像／鏡像卻是延遲的。觀者將看見自己一半的影子，與一半的影像融為一體，影子與影像合而為一而成為一個嶄新的人，與觀者自己的身體面對面佇立著
+draft: false
+image: /ghost-images/2022/01/211201185821-mini-sRGB--_.webp
+slug: runintomycell
+tags:
+- exhibitions
+- '#Import 2023-01-29 03:01'
+title: 遇見100%的我自己  Run into My-Cell（2021）
+---
 
 #### 林沛瑤個展 Lin Pei-Yao Solo Exhibition
 

@@ -1,13 +1,17 @@
-+++
-date = '2023-02-28T04:20:59+08:00'
-title = 'On the Ground (2020)'
-slug = 'ontheground-en'
-description = 'The repeated gesture of the carving hands is like sorcery that mediates between the fantasy world and the real world, praying to be disembodied to enter the other world'
-categories = ['Reviews']
-tags = ['works (EN)']
-image = '/ghost-images/2023/02/on-the-ground_2020_6.webp'
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2023-02-28T04:20:59+08:00"
+description: The repeated gesture of the carving hands is like sorcery that mediates
+  between the fantasy world and the real world, praying to be disembodied to enter
+  the other world
+draft: false
+image: /ghost-images/2023/02/on-the-ground_2020_6.webp
+slug: ontheground-en
+tags:
+- works (EN)
+title: On the Ground (2020)
+---
 
 [中文版](__GHOST_URL__/ontheground/)
 ## 2020

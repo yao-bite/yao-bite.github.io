@@ -1,13 +1,14 @@
-+++
-date = '2023-12-15T04:27:14+08:00'
-title = '聽說（向梵谷致意）（2023）'
-slug = 'listen-talk'
-description = '聽說，有些表達雖然無人接收，卻仍是雙向的，既對別人，也對自己說。'
-tags = ['works']
-image = '/ghost-images/2024/05/2023----1-2024---.webp'
-draft = false
-featured = true
-+++
+---
+date: "2023-12-15T04:27:14+08:00"
+description: 聽說，有些表達雖然無人接收，卻仍是雙向的，既對別人，也對自己說。
+draft: false
+featured: true
+image: /ghost-images/2024/05/2023----1-2024---.webp
+slug: listen-talk
+tags:
+- works
+title: 聽說（向梵谷致意）（2023）
+---
 
 ##### 2024高雄獎，高雄市立美術館，高雄，臺灣  
 

@@ -1,10 +1,11 @@
-+++
-date = '2025-03-10T03:07:10+08:00'
-title = '藝術家的訪談'
-slug = 'interviewofanartist'
-categories = ['Reviews']
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2025-03-10T03:07:10+08:00"
+draft: false
+slug: interviewofanartist
+title: 藝術家的訪談
+---
 
 **1**  
 

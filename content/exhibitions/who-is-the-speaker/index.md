@@ -1,11 +1,14 @@
-+++
-date = '2025-10-22T15:45:03+08:00'
-draft = false
-title = 'Who Is the Speaker'
-venue = 'Zone Art, Taoyuan, Taiwan'
-image = 'cover.jpg'
-images = ['cover.jpg', 'cover.jpg', 'cover.jpg']
-+++
+---
+date: "2025-10-22T15:45:03+08:00"
+draft: false
+image: cover.jpg
+images:
+- cover.jpg
+- cover.jpg
+- cover.jpg
+title: Who Is the Speaker
+venue: Zone Art, Taoyuan, Taiwan
+---
 
 ## About the Exhibition
 

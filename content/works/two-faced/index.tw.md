@@ -1,12 +1,14 @@
-+++
-date = '2022-11-02T09:55:24+08:00'
-title = '雙面人 Two-faced（2022）'
-slug = 'two-faced'
-description = '同時在內與外，或同時不在內也不在外。不存在背面的正面，與不存在正面的背面。'
-tags = ['works', '#Import 2023-01-29 03:01']
-image = '/ghost-images/2022/11/221005150716-mini-sRGB---_.webp'
-draft = false
-+++
+---
+date: "2022-11-02T09:55:24+08:00"
+description: 同時在內與外，或同時不在內也不在外。不存在背面的正面，與不存在正面的背面。
+draft: false
+image: /ghost-images/2022/11/221005150716-mini-sRGB---_.webp
+slug: two-faced
+tags:
+- works
+- '#Import 2023-01-29 03:01'
+title: 雙面人 Two-faced（2022）
+---
 
 ### 地下美術館，國立臺北藝術大學，臺北，臺灣
 

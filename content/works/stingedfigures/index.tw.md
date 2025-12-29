@@ -1,12 +1,15 @@
-+++
-date = '2021-09-15T03:22:51+08:00'
-title = '刺像計畫 Stinged Figures（2021）'
-slug = 'stingedfigures'
-description = '信仰的存在鞏固了人們日復一日生活的平衡。而在轉化成實際的行動的同時，信仰被拆解成大大小小截然不同的儀式⋯⋯以刺青文化為切入點，採集並顯影當代青年的自我意識、對獨特性的期待以及自我認同'
-tags = ['exhibitions', 'works', '#Import 2023-01-29 03:01']
-image = '/ghost-images/2022/07/10-1.webp'
-draft = false
-+++
+---
+date: "2021-09-15T03:22:51+08:00"
+description: 信仰的存在鞏固了人們日復一日生活的平衡。而在轉化成實際的行動的同時，信仰被拆解成大大小小截然不同的儀式⋯⋯以刺青文化為切入點，採集並顯影當代青年的自我意識、對獨特性的期待以及自我認同
+draft: false
+image: /ghost-images/2022/07/10-1.webp
+slug: stingedfigures
+tags:
+- exhibitions
+- works
+- '#Import 2023-01-29 03:01'
+title: 刺像計畫 Stinged Figures（2021）
+---
 
 ### 反正我是信了（I Believe It Anyway），新浜碼頭藝術空間，高雄，台灣
 

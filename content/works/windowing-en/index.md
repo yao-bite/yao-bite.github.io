@@ -1,13 +1,17 @@
-+++
-date = '2023-04-23T06:48:59+08:00'
-title = 'Windowing (2020)'
-slug = 'windowing-en'
-description = '"The huge machines that continue to operate in the 3D printing series are neither invasive nor industrial-looking. They are machines of the mind, operating like the subconscious—latent, uninductive, and detached from consciousness."'
-categories = ['Reviews']
-tags = ['works (EN)']
-image = '/ghost-images/2023/04/--_6.webp'
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2023-04-23T06:48:59+08:00"
+description: '"The huge machines that continue to operate in the 3D printing series
+  are neither invasive nor industrial-looking. They are machines of the mind, operating
+  like the subconscious—latent, uninductive, and detached from consciousness."'
+draft: false
+image: /ghost-images/2023/04/--_6.webp
+slug: windowing-en
+tags:
+- works (EN)
+title: Windowing (2020)
+---
 
 [中文版](__GHOST_URL__/windowing/)
 ##### double-channel video, 3D printing   

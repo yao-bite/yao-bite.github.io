@@ -1,13 +1,15 @@
-+++
-date = '2025-03-06T12:28:37+08:00'
-title = '訪問一位藝術家 Inter-View with An Artist (2025)'
-slug = 'interviewwithanartist'
-description = '「觀眾入場」（Entering theAuditorium）源自劇場語彙，指觀眾進場至演出開始的過渡時刻'
-categories = ['Reviews']
-tags = ['exhibitions']
-image = '/ghost-images/2025/03/_NZ_003.webp'
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2025-03-06T12:28:37+08:00"
+description: 「觀眾入場」（Entering theAuditorium）源自劇場語彙，指觀眾進場至演出開始的過渡時刻
+draft: false
+image: /ghost-images/2025/03/_NZ_003.webp
+slug: interviewwithanartist
+tags:
+- exhibitions
+title: 訪問一位藝術家 Inter-View with An Artist (2025)
+---
 
 ### 反覆演練Re-her-sal：觀眾入場
 

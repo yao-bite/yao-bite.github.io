@@ -1,10 +1,10 @@
-+++
-date = '2025-12-17T15:45:03+08:00'
-draft = false
-title = 'Who Is the Speaker'
-venue = '众藝術，桃園，臺灣'
-image = 'cover.jpg'
-+++
+---
+date: "2025-12-17T15:45:03+08:00"
+draft: false
+image: cover.jpg
+title: Who Is the Speaker
+venue: 众藝術，桃園，臺灣
+---
 
 ## 展覽簡介
 

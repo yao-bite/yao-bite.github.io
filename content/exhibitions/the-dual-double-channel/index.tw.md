@@ -1,13 +1,14 @@
-+++
-date = '2024-08-10'
-endDate = '2024-08-31'
-title = '雙頻道 The Dual Double-Channel'
-slug = 'the-dual-double-channel'
-categories = ['Reviews']
-draft = false
-venue = '洪建全基金會, 臺北, 臺灣'
-image = '/ghost-images/2024/08/---_FB---1.webp'
-+++
+---
+categories:
+- Reviews
+date: "2024-08-10"
+draft: false
+endDate: "2024-08-31"
+image: /ghost-images/2024/08/---_FB---1.webp
+slug: the-dual-double-channel
+title: 雙頻道 The Dual Double-Channel
+venue: 洪建全基金會, 臺北, 臺灣
+---
 
 
 #### 林沛瑤個展 LIN Pei-Yao Solo Exhibition

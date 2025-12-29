@@ -1,12 +1,14 @@
-+++
-date = '2022-08-05T10:58:06+08:00'
-title = '遇見100%的我自己 The Apple of My Eye（2022）'
-slug = 'theappleofmyeye'
-description = '觀者的剪影則與身體同步，朝著延遲影像走去。實時的影子與延遲的影像將於此空間中央相遇、交會、融合、短暫消失再分離'
-tags = ['works', '#Import 2023-01-29 03:01']
-image = '/ghost-images/2022/08/220331170034-mini-sRGB--.webp'
-draft = false
-+++
+---
+date: "2022-08-05T10:58:06+08:00"
+description: 觀者的剪影則與身體同步，朝著延遲影像走去。實時的影子與延遲的影像將於此空間中央相遇、交會、融合、短暫消失再分離
+draft: false
+image: /ghost-images/2022/08/220331170034-mini-sRGB--.webp
+slug: theappleofmyeye
+tags:
+- works
+- '#Import 2023-01-29 03:01'
+title: 遇見100%的我自己 The Apple of My Eye（2022）
+---
 
 ### 《漂亮的很好 Pretty Good》國立臺北藝術大學美術學系碩士班109級級展，地下美術館，台北，台灣
 

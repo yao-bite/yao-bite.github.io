@@ -1,13 +1,14 @@
-+++
-date = '2024-08-10'
-endDate = '2024-08-31'
-title = 'The Dual Double-Channel'
-slug = 'the-dual-double-channel-en'
-categories = ['Reviews']
-draft = false
-venue = 'Hong Foundation, Taipei, Taiwan'
-image = '/ghost-images/2024/08/---_FB--.webp'
-+++
+---
+categories:
+- Reviews
+date: "2024-08-10"
+draft: false
+endDate: "2024-08-31"
+image: /ghost-images/2024/08/---_FB--.webp
+slug: the-dual-double-channel-en
+title: The Dual Double-Channel
+venue: Hong Foundation, Taipei, Taiwan
+---
 
 #### LIN Pei-Yao Solo Exhibition
 

@@ -1,12 +1,15 @@
-+++
-date = '2021-08-30T07:24:16+08:00'
-title = '重生 Reborn（music by 林貓 Zeko Lin）'
-slug = 'reborn'
-description = '你有沒有做過重生的夢？夢見自己再也不是原來的自己，枕邊睡了不同的人，原本的傷痕雖然還記得，卻再也沒有任何重量了？'
-categories = ['Lyrics']
-tags = ['歌詞 lyrics (in Chinese only)', '#Import 2023-01-29 03:01']
-draft = false
-+++
+---
+categories:
+- Lyrics
+date: "2021-08-30T07:24:16+08:00"
+description: 你有沒有做過重生的夢？夢見自己再也不是原來的自己，枕邊睡了不同的人，原本的傷痕雖然還記得，卻再也沒有任何重量了？
+draft: false
+slug: reborn
+tags:
+- 歌詞 lyrics (in Chinese only)
+- '#Import 2023-01-29 03:01'
+title: 重生 Reborn（music by 林貓 Zeko Lin）
+---
 
 > 
 

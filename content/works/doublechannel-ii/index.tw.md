@@ -1,13 +1,15 @@
-+++
-date = '2024-11-16T05:53:35+08:00'
-title = '雙頻道II：你(聽)我(説) Double-Channel II: "Listen (to me)."'
-slug = 'doublechannel-ii'
-description = '我們用自己觀看他人，用他人觀看自己。'
-tags = ['works', 'En']
-image = '/ghost-images/2024/10/1016_MoCA_----_111_L-1.webp'
-draft = false
-featured = true
-+++
+---
+date: "2024-11-16T05:53:35+08:00"
+description: 我們用自己觀看他人，用他人觀看自己。
+draft: false
+featured: true
+image: /ghost-images/2024/10/1016_MoCA_----_111_L-1.webp
+slug: doublechannel-ii
+tags:
+- works
+- En
+title: '雙頻道II：你(聽)我(説) Double-Channel II: "Listen (to me)."'
+---
 
 ### 反覆演練Re-her-sal：預演，台北當代藝術館，臺北，臺灣
 

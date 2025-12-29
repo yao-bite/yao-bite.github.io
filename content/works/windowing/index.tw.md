@@ -1,12 +1,14 @@
-+++
-date = '2021-02-07T08:53:09+08:00'
-title = '窗中  Windowing（2020）'
-slug = 'windowing'
-description = '3D列印系列中持續運作著的巨大機器，既不具侵略性，也不像是工業機器——它們是心智的機器，無論是消失的窗戶，或是永遠不會踏上的路，機器的運作像是潛意識的運作，是潛藏的、未經歸納的、與意識抽離的。'
-tags = ['works', '#Import 2023-01-29 03:01']
-image = '/ghost-images/2021/02/-----2020-06-29---1.38.31.webp'
-draft = false
-+++
+---
+date: "2021-02-07T08:53:09+08:00"
+description: 3D列印系列中持續運作著的巨大機器，既不具侵略性，也不像是工業機器——它們是心智的機器，無論是消失的窗戶，或是永遠不會踏上的路，機器的運作像是潛意識的運作，是潛藏的、未經歸納的、與意識抽離的。
+draft: false
+image: /ghost-images/2021/02/-----2020-06-29---1.38.31.webp
+slug: windowing
+tags:
+- works
+- '#Import 2023-01-29 03:01'
+title: 窗中  Windowing（2020）
+---
 
 [English version](__GHOST_URL__/windowing-en/)
 ##### 雙頻道錄像、3D列印、影像輸出  

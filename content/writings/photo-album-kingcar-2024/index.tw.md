@@ -1,10 +1,11 @@
-+++
-date = '2024-06-09T09:13:02+08:00'
-title = '《自我測試開始》開幕&座談活動紀錄'
-slug = 'photo-album-kingcar-2024'
-categories = ['Reviews']
-draft = false
-+++
+---
+categories:
+- Reviews
+date: "2024-06-09T09:13:02+08:00"
+draft: false
+slug: photo-album-kingcar-2024
+title: 《自我測試開始》開幕&座談活動紀錄
+---
 
 #### 2024.04.27｜展覽開幕
 
