@@ -1,13 +1,13 @@
 ---
-date: "2025-12-17T16:31:22+08:00"
+date: 2025-12-17T16:31:22+08:00
 dimensions: 10'43''
-draft: true
+draft: false
 featured: true
 image: cover.webp
 medium: Single channel video
 title: Je suis pas fan
 ---
-
+![](2025-Je%20suis%20pas%20fan-1.jpg)
 A fan blows across the Post-it notes stuck to it, each in a different color and bearing one of two French sentences—“Je suis fan.” (I’m a fan / I like it) or “Je suis pas fan.” (I’m not a fan / I don’t like it). When a note is blown away, its corresponding phrase sounds softly in Chinese as “I like it” or “I don’t like it.”
 
 The word “fan” in English carries two senses: an electric fan and a supporter (or admirer)—and the random falling of the notes borrows from the French folk game effeuiller la marguerite (“she loves me / she loves me not”), in which one plucks daisy petals one by one to divine a beloved’s feelings.
