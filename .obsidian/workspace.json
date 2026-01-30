@@ -1,57 +1,113 @@
 {
   "main": {
-    "id": "341c6195d732c6e5",
+    "id": "f7192075b7be371d",
     "type": "split",
     "children": [
       {
-        "id": "f81db0e4e6bb84b4",
-        "type": "tabs",
+        "id": "837be7a491c36d8f",
+        "type": "split",
         "children": [
           {
-            "id": "5e50a4792554cf0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/works/who-is-the-speaker/index.md",
-                "mode": "source",
-                "source": false
+            "id": "df1d0c0becfcb056",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a2659d7ad2525fe",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal:documentation",
+                  "state": {
+                    "terminal:documentation": {
+                      "data": "# Terminal for Obsidian [![release](https://img.shields.io/github/v/release/polyipseity/obsidian-terminal)][latest release] [![Obsidian downloads](https://img.shields.io/badge/dynamic/json?logo=Obsidian&color=%238b6cef&label=downloads&query=$[\"terminal\"].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json)][community plugin] [![Python](https://img.shields.io/badge/Python-≥3.10-gold?labelColor=blue&logo=Python&logoColor=white)][Python]\n\n[Buy Me a Coffee]: https://buymeacoffee.com/polyipseity\n[Buy Me a Coffee/embed]: https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=polyipseity&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00\n[Obsidian]: https://obsidian.md/\n[Python]: https://python.org/downloads/\n[changelog]: https://github.com/polyipseity/obsidian-terminal/blob/main/CHANGELOG.md\n[community plugin]: https://obsidian.md/plugins?id=terminal\n[latest release]: https://github.com/polyipseity/obsidian-terminal/releases/latest\n[repository]: https://github.com/polyipseity/obsidian-terminal\n[trailer]: https://raw.githubusercontent.com/polyipseity/obsidian-terminal/main/assets/trailer.png\n[related]: https://github.com/polyipseity/obsidian-monorepo\n\nIntegrate consoles, shells, and terminals inside [Obsidian].\n\n[![Buy Me a Coffee/embed]][Buy Me a Coffee]\n\n__[Repository] · [Changelog] · [Community plugin] · [Related] · [Features](#features) · [Installation](#installation) · [Usage](#usage) · [Contributing](#contributing) · [Security](#security)__\n\n![Trailer]\n\nFor first time users, read the [installation](#installation) section first!\n\nThis file is automatically opened on first install. You can reopen it in settings or command palette.\n\n## Features\n\n- Start external terminals from Obsidian.\n- Integrate terminals into Obsidian.\n- Has an emulated developer console usable on all platforms.\n- Supports multiple terminal profiles.\n- Has built-in keyboard shortcuts.\n- Automatically save and restore integrated terminal history.\n- Find in terminal.\n- Save terminal history as file.\n- Customize terminal appearance.\n\n## Installation\n\n1. Install plugin.\n    - Community plugins\n        1. Install the [plugin][community plugin] from community plugins directly.\n    - Manual\n        1. Create directory `terminal` under `.obsidian/plugins` of your vault.\n        2. Place `manifest.json`, `main.js`, and `styles.css` from the [latest release] into the directory.\n    - Building (rolling)\n        1. Clone this repository, including its submodules.\n        2. Install [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).\n        3. Run `npm install` in the root directory.\n        4. Run `npm run obsidian:install <vault directory>` in the root directory.\n    - [Obsidian42 - BRAT](https://obsidian.md/plugins?id=obsidian42-brat) (rolling)\n        - See [their readme](https://github.com/TfTHacker/obsidian42-brat#readme).\n2. (optional for Windows, recommended) Install Python and dependencies.\n    1. Install [Python] 3.10/+.\n    2. (Windows only) Run `pip3 install psutil==5.9.5 pywinctl==0.0.50 typing_extensions==4.7.1`. <!-- Update `README.md`, `magic.ts`, and `requirements.txt` together. -->\n    3. Configure Python executable in profile settings. Press the \"Check\" button to validate the Python configuration. Each profile needs to be configured separately.\n3. Enable plugin.\n4. (optional) Configure plugin settings.\n\n## Usage\n\n- To start a new external or integrated terminal\n  - Ribbon\n      1. Click on the `Open terminal` ribbon.\n      2. Choose the desired profile.\n  - Context menu\n      1. Right-click on files, folders, or tab headers.\n      2. Choose the desired action \\(and profile\\).\n  - Command palette\n      1. Press `Ctrl`+`P` or click on the `Open command palette` ribbon next to the left window border.\n      2. Choose the desired action \\(and profile\\).\n  - Select profile modal\n      1. Choose the desired profile. Press `Ctrl` to edit the profile before use. The item `(Temporary profile)` starts a terminal with a temporary profile.\n- To save and restore integrated terminal history\n    1. Keep the terminal open when exiting Obsidian.\n    2. Terminal history will be restored next time Obsidian is opened.\n- Additional actions\n  - Includes\n    - Clear terminal: \\(1\\), \\(4\\)\n    - Copy terminal: \\(1\\)\n    - Edit terminal: \\(1\\)\n    - Export, import, or edit settings: \\(2\\), \\(3\\)\n    - Find in terminal: \\(1\\), \\(4\\)\n    - Open documentation: \\(2\\), \\(3\\)\n    - Restart terminal: \\(1\\)\n    - Save terminal history: \\(1\\)\n  - Available by\n    - \\(1\\) Right-click on tab header/`More options`\n    - \\(2\\) Open settings\n    - \\(3\\) Open command palette\n    - \\(4\\) Use keyboard shortcuts\n\n### Keyboard shortcuts\n\nThe keyboard shortcuts can be customized in hotkeys settings.\n\n<!-- markdownlint-disable-next-line MD036 -->\n__Global__\n\n- Toggle focus on last terminal: `Ctrl`+`Shift`+`` ` ``\n  - Focus on last terminal: \\(unbound; useful if you want separate keys for focus and unfocus\\)\n\n<!-- markdownlint-disable-next-line MD036 -->\n__Terminal is focused__\n\nWhen a terminal is focused, other keyboard shortcuts \\(including Obsidian and plugin hotkeys\\) are disabled. Only the following keyboard shortcuts work. Thus you can ignore Obsidian complaining about conflicting keys for the following keyboard shortcuts.\n\n- Clear terminal: `Ctrl`+`Shift`+`K`, `Command`+`Shift`+`K` \\(Apple\\)\n- Close terminal: `Ctrl`+`Shift`+`W`, `Command`+`Shift`+`W` \\(Apple\\)\n- Find in terminal: `Ctrl`+`Shift`+`F`, `Command`+`Shift`+`F` \\(Apple\\)\n- Toggle focus on last terminal: `Ctrl`+`Shift`+`` ` `` \\(same as above\\)\n  - Unfocus terminal: \\(unbound; useful if you want separate keys for focus and unfocus\\)\n\n### Theming\n\nTheming is possible. However, there is no user-friendly interface for now.\n\n1. Open the profile editing modal.\n2. Click on the `Edit` button labeled `Data`. It should open up a new modal in which there is a large textbox.\n3. Notice `terminalOptions` in the text area labeled `Data`. Refer to the [`xterm.js` documentation](https://github.com/xtermjs/xterm.js/blob/master/typings/xterm.d.ts#L26) (`ITerminalOptions`) to set the options. Nested objects may need to be used.\n4. Save the profile. Changes should apply immediately.\n\n### Profiles\n\nThis plugin comes with several profile presets that you can reference.\n\nWhen setting up a terminal profile, you need to distinguish between shells and terminal emulators. (Search online if needed.) Generally, integrated profiles only work with shells while external ones only work with terminal emulators.\n\n#### Examples\n\n<!-- markdownlint-disable-next-line MD036 -->\n__Shells__\n\n- Bash: `bash --login`\n- Bourne shell: `sh`\n- Command Prompt: `cmd`\n- Dash: `dash`\n- Git Bash: `<Git installation>\\bin\\bash.exe --login` (e.g. `C:\\Program Files\\Git\\bin\\bash.exe`)\n- PowerShell Core: `pwsh`\n- Windows PowerShell: `powershell`\n- Windows Subsystem for Linux: `wsl` or `wsl -d <distribution name>`\n- Z shell: `zsh --login`\n\n<!-- markdownlint-disable-next-line MD036 -->\n__Terminal emulators__\n\n- Command Prompt: `cmd`\n- GNOME Terminal: `gnome-terminal`\n- Konsole: `konsole`\n- Terminal (macOS): `/System/Applications/Utilities/Terminal.app/Contents/macOS/Terminal \"$PWD\"`\n- Windows Terminal: `wt`\n- iTerm2: `/Applications/iTerm.app/Contents/MacOS/iTerm2 \"$PWD\"`\n- xterm: `xterm`\n\n### Miscellaneous\n\nThis plugin patches `require` so that `require(\"obsidian\")` and other Obsidian modules work in the developer console. It is toggleable as `Expose internal modules` in settings.\n\nIn the developer console, a context variable `$$` is passed into the code, which can be used to dynamically change terminal options.\n\nThe full API is available from [`src/@types/obsidian-terminal.ts`](src/%40types/obsidian-terminal.ts).\n\n### Troubleshooting\n\n- Is the plugin useful on mobile?\n  - Compared to on desktop, it is much less useful. The only use for it for now is opening a developer console on mobile.\n- Why do hotkeys not work?\n  - If the terminal is in focus, all Obsidian hotkeys are disabled so that you can type special characters into the terminal. You can unfocus the terminal by pressing `Ctrl`+`Shift`+`` ` ``, then you can use Obsidian hotkeys again.\n\n## Contributing\n\nContributions are welcome!\n\nThis project uses [`changesets`](https://github.com/changesets/changesets) to manage the changelog. When creating a pull request, please [add a changeset](https://github.com/changesets/changesets/blob/main/docs/intro-to-using-changesets.md#adding-changesets) describing the changes. Add multiple changesets if your pull request changes several things. End each changeset with `([PR number](PR link) by [author username](author link))`. For example, the newly created file under the directory `.changeset` should look like:\n\n```Markdown\n---\n\"example\": patch\n---\n\nThis is an example change. ([GH#1](https://github.com/ghost/example/pull/1) by [@ghost](https://github.com/ghost))\n```\n\n### Todos\n\nThe todos here, ordered alphabetically, are things planned for the plugin. There are no guarantees that they will be completed. However, we are likely to accept contributions for them.\n\n- Connect to remote shells.\n- Detect sandboxed environment and notify users.\n- External link confirmation.\n- Filter console log by severity in the developer console.\n- Indicate that the terminal resizer has crashed or is disabled.\n- Shared terminal tabs.\n- Vim mode switch.\n\n### Translating\n\nSee [`assets/locales/README.md`](assets/locales/README.md).\n\n## Security\n\nWe hope that there will never be any security vulnerabilities, but unfortunately it does happen. Please [report](#reporting-a-vulnerability) them!\n\n### Supported versions\n\n| Version  | Supported |\n| -------- | --------- |\n| rolling  | ✅        |\n| latest   | ✅        |\n| outdated | ❌        |\n\n### Reporting a vulnerability\n\nPlease report a vulnerability by opening an new issue. We will get back to you as soon as possible.\n",
+                      "displayTextI18nKey": "translation:generic.documentations.readme",
+                      "iconI18nKey": "asset:generic.documentations.readme-icon"
+                    }
+                  },
+                  "icon": "lucide-ghost",
+                  "title": "terminal:documentation"
+                }
               },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bf14f572fff0a1d8",
-        "type": "tabs",
-        "children": [
+              {
+                "id": "b9e86e17127bfad4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/exhibitions/who-is-the-speaker/index.tw.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "index.tw"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
           {
-            "id": "31dd29a50deb8061",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Hugo Preview"
-            }
+            "id": "583fd676aad16a10",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b44138c16bd0ae57",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/peiyao.run/src/yao-bite.github.io",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: zsh"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c6eaf8c269dd6e45",
+    "id": "a88b1b5d2bf11b33",
     "type": "split",
     "children": [
       {
-        "id": "54a9d57a7f732de1",
+        "id": "dd802294bd22407d",
         "type": "tabs",
         "children": [
           {
-            "id": "69ddddd498555eae",
+            "id": "e5af3986ce4afab2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +120,7 @@
             }
           },
           {
-            "id": "93e8fee815117084",
+            "id": "1db43f9932477378",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -84,23 +140,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "350b89f1b1316756",
+    "id": "3f5ea11e9edd07f7",
     "type": "split",
     "children": [
       {
-        "id": "085c2bb8a801bec2",
+        "id": "5c55843f959568d3",
         "type": "tabs",
         "children": [
           {
-            "id": "13324eb9ed9cfbf9",
+            "id": "4210d35eea53bd53",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/writings/test-writing/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,25 +165,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "baca26673fba6896",
+            "id": "38698d513291ddd8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/writings/test-writing/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "1ba16b773bf85ec5",
+            "id": "ad18a732164cb565",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,7 +197,7 @@
             }
           },
           {
-            "id": "8366a35b97167e41",
+            "id": "a6300576445454e4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -157,22 +211,21 @@
             }
           },
           {
-            "id": "0907db92575652e6",
+            "id": "03c40a1bce716b29",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/writings/test-writing/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline"
             }
           },
           {
-            "id": "440473d5b2e6d1c5",
+            "id": "ece0cd61acfc7dd2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -191,49 +244,58 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "5e50a4792554cf0a",
+  "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
-    "content/works/two-faced/index.tw.md",
-    "content/works/who-is-the-speaker/index.md",
-    "content/works/mind-blowing/index.tw.md",
-    "content/works/doublechannel-ii/index.tw.md",
-    "templates/work.md",
-    "templates/writing.md",
-    "templates/exhibition.md",
-    "archetypes/writings/index.md",
-    "archetypes/exhibitions/index.md",
-    "public/works/who-is-the-speaker/index.html",
-    "public/works/who-is-the-speaker/untitled/index.html",
-    "public/works/who-is-the-speaker/untitled",
-    "public/works/who-is-the-speaker",
-    "content/works/who-is-the-speaker",
-    "archetypes/works/index.md",
-    "Untitled.md",
-    "templates",
-    "content/exhibitions/who-is-the-speaker/index.md",
-    "README.md",
-    "content/exhibitions/who-is-the-speaker/coverA-1222-colored.png",
-    "content/writings/test-writing/index.md",
-    "Untitled.canvas",
-    "public/exhibitions/who-is-the-speaker/coverA-1222-colored.png",
-    "public/writings/test-writing/index.html",
-    "public/writings/test-writing",
-    "content/writings/art-review-hernia-maniac/index.tw.md",
-    "content/writings/test-writing",
-    "content/writings/Untitled.md",
-    "content/exhibitions/2024-self-testing-starts/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
-    "content/exhibitions/the-dual-double-channel/index.md",
     "content/exhibitions/who-is-the-speaker/index.tw.md",
-    "Untitled.base"
+    "public/ghost-images/2021/01/200526182819-mini-sRGB--.webp",
+    "public/ghost-images/2021/01/200526182819-mini-sRGB--_o.webp",
+    "public/ghost-images/2021/01/200526182952-mini-sRGB--_o.webp",
+    "public/ghost-images/2021/01/200526183512-mini-sRGB--.webp",
+    "public/ghost-images/2021/01/200526183514-mini-sRGB--_o.webp",
+    "public/ghost-images/2021/01/200526183928-mini-sRGB--_o.webp",
+    "public/ghost-images/2021/01/200526183928-mini-sRGB--.webp",
+    "public/ghost-images/2021/01/200526183921-mini-sRGB--_o.webp",
+    "public/ghost-images/2021/01/200526183921-mini-sRGB--.webp",
+    "public/ghost-images/2021/01/200526183912-mini-sRGB--_o.webp",
+    "public/ghost-images/2021/01",
+    "public/ghost-images/2021/08",
+    "public/ghost-images/2021/09",
+    "public/ghost-images/2021/07",
+    "public/ghost-images/2021/02",
+    "public/ghost-images/2021",
+    "public/ghost-images/2023/12",
+    "public/ghost-images/2023/01",
+    "public/ghost-images/2023/02",
+    "public/ghost-images/2023/04",
+    "content/exhibitions/who-is-the-speaker/index.md",
+    "content/works/doublechannel-eyes/index.tw.md",
+    "content/works/givemefive/index.tw.md",
+    "README.md",
+    "CLAUDE.md",
+    "templates/writing.md",
+    "templates/work.md",
+    "templates/exhibition.md",
+    "content/writings/until/index.tw.md",
+    "content/writings/reborn/index.tw.md",
+    "content/writings/photo-album-kingcar-2024/index.tw.md",
+    "content/writings/liyifan-rewiring/index.tw.md",
+    "content/writings/interviewofanartist/index.tw.md",
+    "content/writings/howtextcreatesdistance/index.md",
+    "content/writings/artreview-howtextcreatesdistanceinawork/index.tw.md",
+    "content/writings/artreview-alchemizingmist/index.tw.md",
+    "content/writings/artreview-aboutdirtymistakelemonyellow/index.tw.md",
+    "content/writings/art-review-walkingonthewater/index.tw.md",
+    "content/writings/art-review-hernia-maniac/index.tw.md",
+    "content/works/windowing/index.tw.md",
+    "content/works/windowing-en/index.md",
+    "content/works/who-is-the-speaker/index.md",
+    "content/works/two-faced/index.tw.md",
+    "content/works/theappleofmyeye/index.tw.md"
   ]
 }
