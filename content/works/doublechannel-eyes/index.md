@@ -5,7 +5,7 @@ draft: false
 image: eyes.jpg
 slug: doublechannel-eyes
 tags:
-title: 雙頻道 I：眼睛
+title: "Double-Channel I: eye(s)"
 ---
 single-channel video, mobile phone, 3D printed interactive arms  
 35(H)x70x25cm  
