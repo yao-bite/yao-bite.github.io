@@ -2,6 +2,7 @@
 date: 2023-04-03T15:15:09+08:00
 description: When "double-channel" is used as an adjective, it no longer exists in its plural form ("double channels").
 draft: false
+featured: true
 image: eyes.jpg
 slug: doublechannel-eyes
 tags:

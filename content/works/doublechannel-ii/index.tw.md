@@ -6,8 +6,6 @@ featured: true
 image: /ghost-images/2024/10/1016_MoCA_----_111_L-1.webp
 slug: doublechannel-ii
 tags:
-  - works
-  - En
 title: 雙頻道II：你(聽)我(説)
 ---
 雙頻道影像三聲道裝置  
