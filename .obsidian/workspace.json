@@ -33,7 +33,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "content/exhibitions/interviewwithanartist/index.tw.md",
+                    "file": "content/works/doublechannel-eyes/index.tw.md",
                     "mode": "source",
                     "source": false
                   },
@@ -252,6 +252,9 @@
   },
   "active": "b9e86e17127bfad4",
   "lastOpenFiles": [
+    "content/works/doublechannel-eyes/2023-D-Channel I-eye(s)-2024 kingcar_4.jpg",
+    "content/works/doublechannel-eyes/index.tw.md",
+    "content/exhibitions/interviewwithanartist/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
     "content/exhibitions/_index.md",
@@ -260,7 +263,6 @@
     "content/exhibitions/the-dual-double-channel/index.tw.md",
     "content/exhibitions/the-dual-double-channel/index.md",
     "content/exhibitions/runintomycell/index.tw.md",
-    "content/exhibitions/interviewwithanartist/index.tw.md",
     "content/writings/artreview-alchemizingmist/index.tw.md",
     "content/writings/artreview-aboutdirtymistakelemonyellow/index.tw.md",
     "content/writings/art-review-walkingonthewater/index.tw.md",
@@ -268,7 +270,6 @@
     "content/writings/artreview-howtextcreatesdistanceinawork/index.tw.md",
     "content/writings/howtextcreatesdistance/index.md",
     "content/writings/art-review-hernia-maniac/index.tw.md",
-    "content/works/doublechannel-eyes/index.tw.md",
     "content/works/je-suis-pas-fan/2025-Je suis pas fan-1.jpg",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/je-suis-pas-fan/cover.webp",
@@ -287,7 +288,6 @@
     "public/ghost-images/2021/01/200526183512-mini-sRGB--.webp",
     "public/ghost-images/2021/01/200526183514-mini-sRGB--_o.webp",
     "public/ghost-images/2021/01/200526183928-mini-sRGB--_o.webp",
-    "public/ghost-images/2021/01/200526183928-mini-sRGB--.webp",
     "public/ghost-images/2021/01",
     "public/ghost-images/2021/08",
     "public/ghost-images/2021/09",
@@ -296,7 +296,6 @@
     "public/ghost-images/2021",
     "public/ghost-images/2023/12",
     "public/ghost-images/2023/01",
-    "public/ghost-images/2023/02",
-    "content/works/givemefive/index.tw.md"
+    "public/ghost-images/2023/02"
   ]
 }
