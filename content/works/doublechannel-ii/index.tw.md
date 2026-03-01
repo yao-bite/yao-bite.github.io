@@ -88,7 +88,7 @@ title: 雙頻道II：你(聽)我(説)
 2024-DChannel2-8-hong.webp
 2024-DChannel2-9-hong.webp
 {{< /album >}}
-
+攝影：朱淇宏
 ### 工作名單
 編導｜林沛瑤  
 表演者｜彭葳、周艾萱  
