@@ -11,6 +11,18 @@
             "id": "b9e86e17127bfad4",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "content/works/doublechannel-eyes/2023-DChannel_I-eyes-2-2024kingcar-60845.tw.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "2023-DChannel_I-eyes-2-2024kingcar-60845.tw"
+            }
+          },
+          {
+            "id": "76347b934cf60c85",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "content/works/doublechannel-eyes/index.tw.md",
@@ -79,7 +91,8 @@
               "title": "Terminal: zsh"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 500.5
   },
   "right": {
     "id": "3f5ea11e9edd07f7",
@@ -236,14 +249,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b9e86e17127bfad4",
+  "active": "76347b934cf60c85",
   "lastOpenFiles": [
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-2-2024kingcar-60845.tw.jpg",
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-3-2024kingcar-61302.tw.jpg",
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-4-2024kingcar.tw.jpg",
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-6-2024kingcar.tw.jpg",
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-7-2024kingcar.tw.jpg",
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-8-2024kingcar.tw.jpg",
+    "content/works/doublechannel-eyes/eyes.tw.jpg",
+    "content/works/doublechannel-eyes/index.tw.md",
     "content/works/windowing/index.tw.md",
     "templates/album.md",
     "layouts/_shortcodes/album.html",
     "layouts/_shortcodes",
-    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-3-2024kingcar-61302.tw.jpg",
     "content/works/windowing-en/index.md",
     "content/writings/art-review-walkingonthewater/index.tw.md",
     "content/writings/art-review-hernia-maniac/index.tw.md",
@@ -257,7 +276,6 @@
     "content/writings/reborn/index.tw.md",
     "content/writings/until/index.tw.md",
     "content/works/lionplaza-lightpool/index.tw.md",
-    "content/works/doublechannel-eyes/index.tw.md",
     "conflict-files-obsidian-git.md",
     "layouts/single.html",
     "layouts/list.html",
@@ -267,11 +285,6 @@
     "layouts/_partials/header.html",
     "layouts/_partials/footer.html",
     "layouts/_partials",
-    "content/works/doublechannel-eyes/eyes.tw.jpg",
-    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-8-2024kingcar.jpg",
-    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-7-2024kingcar.jpg",
-    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-6-2024kingcar.jpg",
-    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-4-2024kingcar.jpg",
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-3-2024kingcar-61302.jpg",
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-2-2024kingcar-60845.jpg",
     "content/works/doublechannel-eyes/2023-D-Channel I-eye(s)-2024 kingcar_4.jpg",

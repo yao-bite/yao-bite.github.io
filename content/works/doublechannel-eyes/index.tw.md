@@ -17,6 +17,7 @@ title: 雙頻道 I：眼睛
 
 我希望藉此提供一種分裂又合成的感知經驗，模糊對稱與複製、單數與複數間的相對關係。
 
+![](2023-DChannel_I-eyes-2-2024kingcar-60845.tw.jpg)
 ### 2025《反覆演練Re-her-sal：觀眾入場》
 軟輪畫廊，臺北，臺灣
 
@@ -25,8 +26,10 @@ title: 雙頻道 I：眼睛
 #### 2024《自我測試開始》林沛瑤個展
 金車文藝中心承德館，臺北，臺灣  
 {{< album >}}
-2023-DChannel_I-eyes-2-2024kingcar-60845.jpg
 2023-DChannel_I-eyes-3-2024kingcar-61302.jpg
+2023-DChannel_I-eyes-6-2024kingcar.jpg
+2023-DChannel_I-eyes-7-2024kingcar.jpg
+2023-DChannel_I-eyes-8-2024kingcar.jpg
 {{< /album >}}
 
 #### 〈雙頻道I：眼睛〉工作名單
