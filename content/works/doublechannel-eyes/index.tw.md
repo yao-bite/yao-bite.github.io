@@ -2,7 +2,7 @@
 date: 2023-04-03T15:15:09+08:00
 description: 「雙頻道（double-channel）」在描述錄像時是作為一個形容詞，已經不以複數型（double channels）的狀態存在
 draft: false
-image: /ghost-images/2023/04/double-channel-eye-s-_2023-2-edit.webp
+image: works/doublechannel-eyes/2023-D-Channel I-eye(s)-2024 kingcar_4.jpg
 slug: doublechannel-eyes
 tags:
   - works
@@ -24,22 +24,6 @@ title: 雙頻道 I：眼睛
 洪建全基金會，臺北，臺灣
 #### 2024《自我測試開始》林沛瑤個展
 金車文藝中心承德館，臺北，臺灣 
-#### 2023 北藝大美術學系碩士班：2023春季開放工作室
-國立臺北藝術大學，臺北，臺灣
-
-![](/ghost-images/2023/04/double-channel-eye-s-_2023-1.webp)
-
-![](/ghost-images/2023/04/double-channel-eye-s-_2023-8-edit-2.webp)
-
-![](/ghost-images/2023/04/3mb-double-channel-eye-s-_2023-3.webp)
-
-![](/ghost-images/2023/04/3mb-double-channel-eye-s-_2023-4.webp)
-
-![](/ghost-images/2023/04/double-channel-eye-s-_2023-7.webp)
-
-![](/ghost-images/2023/04/double-channel-eye-s-_2023-6.webp)
-
-![](/ghost-images/2023/04/double-channel-eye-s-_2023-5.webp)
 
 #### 〈雙頻道I：眼睛〉工作名單
 
