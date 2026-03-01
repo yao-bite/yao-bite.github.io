@@ -1,8 +1,8 @@
 ---
 categories:
-- Reviews
-date: "2024-06-09T09:13:02+08:00"
-draft: false
+  - Reviews
+date: 2024-06-09T09:13:02+08:00
+draft: true
 slug: photo-album-kingcar-2024
 title: 《自我測試開始》開幕&座談活動紀錄
 ---

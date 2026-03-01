@@ -33,7 +33,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "content/works/doublechannel-eyes/index.tw.md",
+                    "file": "content/writings/until/index.tw.md",
                     "mode": "source",
                     "source": false
                   },
@@ -252,8 +252,13 @@
   },
   "active": "b9e86e17127bfad4",
   "lastOpenFiles": [
-    "content/works/doublechannel-ii/index.tw.md",
+    "content/writings/reborn/index.tw.md",
+    "content/writings/photo-album-kingcar-2024/index.tw.md",
+    "content/writings/until/index.tw.md",
+    "content/writings/interviewofanartist/index.tw.md",
+    "content/writings/art-review-hernia-maniac/index.tw.md",
     "content/works/doublechannel-eyes/index.tw.md",
+    "content/works/doublechannel-ii/index.tw.md",
     "content/cv/index.md",
     "content/cv/index.tw.md",
     "content/works/je-suis-pas-fan/2025-Je suis pas fan-1.jpg",
@@ -286,17 +291,12 @@
     "templates/writing.md",
     "templates/work.md",
     "templates/exhibition.md",
-    "content/writings/until/index.tw.md",
-    "content/writings/reborn/index.tw.md",
-    "content/writings/photo-album-kingcar-2024/index.tw.md",
     "content/writings/liyifan-rewiring/index.tw.md",
-    "content/writings/interviewofanartist/index.tw.md",
     "content/writings/howtextcreatesdistance/index.md",
     "content/writings/artreview-howtextcreatesdistanceinawork/index.tw.md",
     "content/writings/artreview-alchemizingmist/index.tw.md",
     "content/writings/artreview-aboutdirtymistakelemonyellow/index.tw.md",
     "content/writings/art-review-walkingonthewater/index.tw.md",
-    "content/writings/art-review-hernia-maniac/index.tw.md",
     "content/works/windowing/index.tw.md"
   ]
 }

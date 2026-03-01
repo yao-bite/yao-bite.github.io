@@ -1,13 +1,13 @@
 ---
 categories:
-- Lyrics
-date: "2021-08-02T09:10:57+08:00"
+  - Lyrics
+date: 2021-08-02T09:10:57+08:00
 description: 每天，同一時間，走著同一條路。然而腦內的喧嘩從不眷戀昨天，我們喧嘩著，沿著同一條路告別上一個步伐。
-draft: false
+draft: true
 slug: until
 tags:
-- 歌詞 lyrics (in Chinese only)
-- '#Import 2023-01-29 03:01'
+  - 歌詞 lyrics (in Chinese only)
+  - "#Import 2023-01-29 03:01"
 title: 直到  Until（music by 林貓 Zeko Lin）
 ---
 
