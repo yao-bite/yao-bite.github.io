@@ -45,7 +45,7 @@ King Car Cultural & Art Center (KCCA), Taipei, Taiwan
 {{< /album >}}
 
 {{< youtube "8PDUV0klZjw" >}}
-#### Work List
+#### Credits
 Concept Development & Project Coordination | Lin Pei-Yao  
 Mobile Video Filming & Editing | Lin Pei-Yao  
 3D Model Performer | Lin Pei-Yao  

@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/doublechannel-ii/index.tw.md",
+                "file": "content/works/doublechannel-ii/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           }
         ],
@@ -251,20 +251,29 @@
   },
   "active": "7febed23024e5385",
   "lastOpenFiles": [
-    "content/works/doublechannel-eyes/index.tw.md",
-    "content/works/doublechannel-eyes/index.md",
+    "public/works/doublechannel-ii/index.html",
+    "public/works/doublechannel-ii",
     "content/works/doublechannel-ii/index.tw.md",
+    "content/works/doublechannel-ii/index.md",
+    "content/works/doublechannel-eyes/index.md",
+    "content/works/doublechannel-eyes/index.tw.md",
     "README.md",
-    "content/works/doublechannel-ii/2024-DChannel2-4-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-5-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-6-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-7-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-9-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-8-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-3-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-2-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-1-hong.tw.webp",
-    "content/works/doublechannel-ii/2024-DChannel2-p1-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p9-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p8-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p7-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p6-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p5-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p4-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p3-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p2-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-p1-moca.tw.webp",
+    "public/tw/works/doublechannel-ii/2024-DChannel2-9-moca.tw.webp",
+    "public/tw/works/interviewwithanartist/index.html",
+    "public/tw/works/interviewwithanartist",
+    "public/works/doublechannel-eyes/index.html",
+    "public/works/doublechannel-eyes",
+    "public/works/who-is-the-speaker/index.html",
+    "public/works/who-is-the-speaker",
     "templates/album.md",
     "content/exhibitions/_index.md",
     "content/exhibitions/the-dual-double-channel/index.md",
@@ -287,15 +296,6 @@
     "content/writings/liyifan-rewiring/index.tw.md",
     "content/writings/photo-album-kingcar-2024/index.tw.md",
     "content/writings/reborn/index.tw.md",
-    "content/writings/until/index.tw.md",
-    "content/works/lionplaza-lightpool/index.tw.md",
-    "layouts/single.html",
-    "layouts/list.html",
-    "layouts/baseof.html",
-    "layouts/_partials/navigation.html",
-    "layouts/_partials/image-path.html",
-    "layouts/_partials/header.html",
-    "layouts/_partials/footer.html",
-    "layouts/_partials"
+    "layouts/single.html"
   ]
 }
