@@ -4,14 +4,20 @@
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
 
     <!-- Main Image -->
+    {{ $page := . }}
     {{ with .Params.image }}
     {{ $imagePath := . }}
-    {{ if not (hasPrefix . "/") }}
-      {{ $imagePath = path.Join $.File.Dir . }}
+    {{ with $page.Resources.Get . }}
+      <!--Resource-->
+      <div class="max-w-6xl mx-auto mb-12">
+        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="w-full">
+      </div>
+    {{ else }}
+      <!--External -->
+      <div class="max-w-6xl mx-auto mb-12">
+        <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full">
+      </div>
     {{ end }}
-    <div class="max-w-6xl mx-auto mb-12">
-      <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full">
-    </div>
     {{ end }}
 
     <!-- Work Header -->

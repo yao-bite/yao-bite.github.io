@@ -2,7 +2,7 @@
 date: 2023-04-03T15:15:09+08:00
 description: 「雙頻道（double-channel）」在描述錄像時是作為一個形容詞，已經不以複數型（double channels）的狀態存在
 draft: false
-image: 2023-D-Channel%20I-eye(s)-2024%20kingcar_4.jpg
+image: eyes.jpg
 slug: doublechannel-eyes
 tags:
   - works
@@ -17,6 +17,10 @@ title: 雙頻道 I：眼睛
 
 我希望藉此提供一種分裂又合成的感知經驗，模糊對稱與複製、單數與複數間的相對關係。
 
+<<<<<<< HEAD
+=======
+![](eyes.jpg)
+>>>>>>> origin/main
 #### 2025《反覆演練Re-her-sal：觀眾入場》
 軟輪畫廊，臺北，臺灣
 #### 2024《雙頻道》林沛瑤個展
