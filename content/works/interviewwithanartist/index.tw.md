@@ -6,7 +6,7 @@ draft: false
 image: /ghost-images/2025/03/_NZ_003.webp
 slug: interviewwithanartist
 tags:
-  - exhibitions
+  - works
 title: 訪問一位藝術家 Inter-View with An Artist (2025)
 ---
 
