@@ -20,7 +20,12 @@ title: 雙頻道 I：眼睛
 ![](2023-DChannel_I-eyes-2-2024kingcar-60845.tw.jpg)
 ### 2025《反覆演練Re-her-sal：觀眾入場》
 軟輪畫廊，臺北，臺灣
-
+{{< album >}}
+2023-DChannel_I-eyes-14-202580A.jpg
+2023-DChannel_I-eyes-13-202580A.jpg
+2023-DChannel_I-eyes-12-202580A.jpg
+2023-DChannel_I-eyes-11-202580A.jpg
+{{< /album >}}
 #### 2024《雙頻道》林沛瑤個展
 洪建全基金會，臺北，臺灣
 #### 2024《自我測試開始》林沛瑤個展
