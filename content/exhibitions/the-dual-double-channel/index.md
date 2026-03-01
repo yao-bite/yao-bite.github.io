@@ -1,9 +1,8 @@
 ---
 categories:
-- Reviews
-date: "2024-08-10"
+date: 2024-08-10
 draft: false
-endDate: "2024-08-31"
+endDate: 2024-08-31
 image: /ghost-images/2024/08/---_FB--.webp
 slug: the-dual-double-channel-en
 title: The Dual Double-Channel

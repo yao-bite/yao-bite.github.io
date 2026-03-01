@@ -1,13 +1,12 @@
 ---
 categories:
-- Reviews
-date: "2024-10-06T12:04:10+08:00"
+date: 2024-10-06T12:04:10+08:00
 description: 洪建全基金會，臺北，臺灣
 draft: false
 image: /ghost-images/2024/10/20240813151805-mini-SRGB---.webp
 slug: 2024-the-dual-double-channel
 tags:
-- exhibitions
+  - exhibitions
 title: 雙頻道 The Dual Double-Channel (2024)
 ---
 
