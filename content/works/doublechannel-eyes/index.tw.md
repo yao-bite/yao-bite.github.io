@@ -1,16 +1,13 @@
 ---
-date: "2023-04-03T15:15:09+08:00"
+date: 2023-04-03T15:15:09+08:00
 description: 「雙頻道（double-channel）」在描述錄像時是作為一個形容詞，已經不以複數型（double channels）的狀態存在
 draft: false
 image: /ghost-images/2023/04/double-channel-eye-s-_2023-2-edit.webp
 slug: doublechannel-eyes
 tags:
-- works
-title: '雙頻道 I：眼睛 Double-Channel I: eye(s) (2023)'
+  - works
+title: 雙頻道 I：眼睛
 ---
-
-##### 北藝大美術學系碩士班開放工作室，國立臺北藝術大學  
-
 單頻道錄像互動裝置、3D列印、Google cardboard  
 03’19”
 
@@ -34,16 +31,11 @@ title: '雙頻道 I：眼睛 Double-Channel I: eye(s) (2023)'
 
 ![](/ghost-images/2023/04/double-channel-eye-s-_2023-5.webp)
 
-3D模型掃描 吳奕蓁  
+#### 〈雙頻道I：眼睛〉工作名單
 
-3D模型修模 羅芷婕  
+3D模型掃描｜吳奕蓁  
+3D模型修模｜羅芷婕
+手臂組件設計製作｜羅芷婕
 
-3D列印協助 吳奕蓁  
-
-展覽協力 施力嘉、徐銘謙、朱韻蓉
-
-> 
-
-林沛瑤 作品  
-
-A WORK BY Lin Pei-Yao
+*林沛瑤 作品*
+*A WORK BY Lin Pei-Yao*
