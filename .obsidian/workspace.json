@@ -31,14 +31,14 @@
                 "id": "b9e86e17127bfad4",
                 "type": "leaf",
                 "state": {
-                  "type": "split-diff-view",
+                  "type": "markdown",
                   "state": {
-                    "aFile": "content/works/doublechannel-ii/index.tw.md",
-                    "bFile": "content/works/doublechannel-ii/index.tw.md",
-                    "aRef": ""
+                    "file": "content/works/doublechannel-ii/index.tw.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "diff",
-                  "title": "Diff: index.tw"
+                  "icon": "lucide-file",
+                  "title": "index.tw"
                 }
               }
             ],
