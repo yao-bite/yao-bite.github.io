@@ -38,4 +38,3 @@ title: 雙頻道 I：眼睛
 手臂組件設計製作｜羅芷婕
 
 *林沛瑤 作品*
-*A WORK BY Lin Pei-Yao*
