@@ -101,5 +101,5 @@ Audio-Visual Software & Hardware Integration｜Yuchin Chen
 Rehearsal Footage｜Yun-Rung Chu  
 
 ### Image Credits
-Photo by Wang Shih-Yuan. Courtesy of Museum of Contemporary Art Taipei.
+Photo by Wang Shih-Yuan. Courtesy of Museum of Contemporary Art Taipei.  
 Photo by Chu Chi-Hung. 

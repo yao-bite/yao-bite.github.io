@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/doublechannel-ii/index.tw.md",
+                "file": "content/works/doublechannel-ii/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           },
           {
@@ -251,8 +251,8 @@
   },
   "active": "5a2659d7ad2525fe",
   "lastOpenFiles": [
-    "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-ii/index.tw.md",
+    "content/works/doublechannel-ii/index.md",
     "public/works/doublechannel-ii/index.html",
     "public/works/doublechannel-ii",
     "content/works/doublechannel-eyes/index.md",
