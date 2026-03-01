@@ -23,7 +23,7 @@ title: 雙頻道II：你(聽)我(説)
 策展人｜嚴淳齡  
 參展藝術家｜李秀芬、林沛瑤、程時雍 X 姸青、趙曼君
 
-{{< youtube > "8TN4r2BzLwo"}}
+{{< youtube "8TN4r2BzLwo" >}}
 
 {{< album >}}
 2024-DChannel2-3-moca.webp
@@ -64,7 +64,7 @@ title: 雙頻道II：你(聽)我(説)
 2024-DChannel2-p8-moca.webp
 2024-DChannel2-p9-moca.webp
 {{< /album >}}
-圖片來源：台北當代藝術館／攝影：王士源
+攝影：王士源／圖片來源：台北當代藝術館
 
 ### 2024《雙頻道》林沛瑤個展
 洪建全基金會，臺北，臺灣
