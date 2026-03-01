@@ -98,11 +98,15 @@ HONG Foundation, Taipei, Taiwan
 
 多頻道的身體經由媒介的多重化，個體的自我認知也隨之改變。林沛瑤以身體知覺探索技術中介時代，如何塑造個體與其自身、及個體之間的新型態人我關係。
 
+{{< youtube "gh-UvZkEhOs" >}}
+
 ---
 
 #### 展覽活動
 
 - 08/10 Sat.[開幕導覽表演](https://www.facebook.com/HongFoundation/posts/pfbid04JSs518p66EYaCmQ4qpM4EfZaARsSfJ57caY2zZPvhPpnWAjECMpVcnQ1VL7BxuKl)
+
+{{< vimeo 1010634140 >}}
 
 - 08/17 Sat.展覽座談 ❘ 沈伯丞✕林沛瑤  
 
