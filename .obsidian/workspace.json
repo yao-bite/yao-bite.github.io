@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/works/index.md",
+                "file": "content/works/doublechannel-eyes/index.tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.tw"
             }
           },
           {
@@ -249,21 +249,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e5af3986ce4afab2",
+  "active": "76347b934cf60c85",
   "lastOpenFiles": [
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-15-2024Hong.tw.webp",
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-18-2024Hong.tw.webp",
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-16-2024Hong.tw.webp",
+    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-17-2024Hong.tw.webp",
+    "content/works/doublechannel-eyes/index.tw.md",
+    "archetypes/works/index.md",
     "content/exhibitions/who-is-the-speaker/index.tw.md",
     "content/exhibitions/who-is-the-speaker/index.md",
-    "content/works/doublechannel-eyes/index.tw.md",
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-14-202580A.tw.webp",
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-13-202580A.tw.webp",
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-12-202580A.tw.webp",
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-11-202580A.tw.webp",
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-2-2024kingcar-60845.tw.jpg",
     "content/works/doublechannel-eyes/2023-DChannel_I-eyes-4-2024kingcar.tw.jpg",
-    "content/works/doublechannel-eyes/eyes.tw.jpg",
-    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-3-2024kingcar-61302.tw.jpg",
-    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-6-2024kingcar.tw.jpg",
-    "content/works/doublechannel-eyes/2023-DChannel_I-eyes-7-2024kingcar.tw.jpg",
     "content/works/windowing/index.tw.md",
     "templates/album.md",
     "layouts/_shortcodes/album.html",
@@ -294,8 +295,6 @@
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "templates/vimeo.md",
     "templates/youtube.md",
-    "content/works/je-suis-pas-fan/index.md",
-    "content/exhibitions/2024-self-testing-starts/index.tw.md",
-    "content/exhibitions/_index.md"
+    "content/works/je-suis-pas-fan/index.md"
   ]
 }
