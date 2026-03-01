@@ -1,0 +1,149 @@
+{{- $lines := slice -}}
+{{- range split (trim .Inner "\n\r ") "\n" -}}
+  {{- $line := trim . " \r\t" -}}
+  {{- if $line -}}
+    {{- $lines = $lines | append $line -}}
+  {{- end -}}
+{{- end -}}
+{{- $id := printf "album-%d" .Ordinal -}}
+
+<div id="{{ $id }}" class="relative w-full aspect-[3/2] bg-gray-100 select-none">
+
+  {{/* Left button */}}
+  <button id="{{ $id }}-prev"
+    class="absolute left-0 top-0 z-10 h-full w-12 flex items-center justify-center text-gray-700 hover:text-black bg-white/30 hover:bg-white/60 transition-all disabled:opacity-20 disabled:cursor-default"
+    aria-label="Previous">
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/>
+    </svg>
+  </button>
+
+  {{/* Image viewport — inset by the two button widths (w-12 = 3rem each) */}}
+  <div class="absolute left-12 right-12 top-0 bottom-0 overflow-hidden">
+    <div id="{{ $id }}-strip" class="flex h-full transition-transform duration-300 ease-in-out">
+      {{- range $lines -}}
+        {{- $src := . -}}
+        {{- with $.Page.Resources.Get . -}}
+          {{- $src = .RelPermalink -}}
+        {{- end -}}
+        <div class="w-full h-full shrink-0 flex items-center justify-center">
+          <img src="{{ $src }}" alt="" loading="lazy" class="max-w-full max-h-full object-contain">
+        </div>
+      {{- end -}}
+    </div>
+  </div>
+
+  {{/* Right button */}}
+  <button id="{{ $id }}-next"
+    class="absolute right-0 top-0 z-10 h-full w-12 flex items-center justify-center text-gray-700 hover:text-black bg-white/30 hover:bg-white/60 transition-all disabled:opacity-20 disabled:cursor-default"
+    aria-label="Next">
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+    </svg>
+  </button>
+
+  {{/* Dot indicators */}}
+  {{- if gt (len $lines) 1 -}}
+  <div class="absolute bottom-2 left-12 right-12 flex justify-center gap-2">
+    {{- range $i, $_ := $lines -}}
+    <button id="{{ $id }}-dot-{{ $i }}"
+      class="w-1.5 h-1.5 rounded-full transition-colors"
+      aria-label="Image {{ add $i 1 }}">
+    </button>
+    {{- end -}}
+  </div>
+  {{- end -}}
+
+</div>
+
+<script>
+(function () {
+  var id = '{{ $id }}';
+  var total = {{ len $lines }};
+  var current = 0;
+
+  var strip   = document.getElementById(id + '-strip');
+  var prevBtn = document.getElementById(id + '-prev');
+  var nextBtn = document.getElementById(id + '-next');
+
+  function update() {
+    strip.style.transform = 'translateX(-' + (current * 100) + '%)';
+    prevBtn.disabled = current === 0;
+    nextBtn.disabled = current === total - 1;
+    for (var i = 0; i < total; i++) {
+      var dot = document.getElementById(id + '-dot-' + i);
+      if (dot) dot.className = 'w-1.5 h-1.5 rounded-full transition-colors ' + (i === current ? 'bg-gray-800' : 'bg-gray-300');
+    }
+  }
+
+  prevBtn.addEventListener('click', function () {
+    if (current > 0) { current--; update(); }
+  });
+
+  nextBtn.addEventListener('click', function () {
+    if (current < total - 1) { current++; update(); }
+  });
+
+  for (var i = 0; i < total; i++) {
+    (function (idx) {
+      var dot = document.getElementById(id + '-dot-' + idx);
+      if (dot) dot.addEventListener('click', function () { current = idx; update(); });
+    })(i);
+  }
+
+  update();
+
+  // Drag / swipe — works for mouse, trackpad, and touch
+  var viewport = strip.parentElement;
+  var startX = 0;
+  var dragging = false;
+  var dragDx = 0;
+  var THRESHOLD = 40; // px to commit a slide change
+
+  function dragStart(x) {
+    dragging = true;
+    dragDx = 0;
+    startX = x;
+    strip.style.transition = 'none';
+  }
+
+  function dragMove(x) {
+    if (!dragging) return;
+    dragDx = x - startX;
+    var base = current * viewport.offsetWidth;
+    strip.style.transform = 'translateX(' + (-base + dragDx) + 'px)';
+  }
+
+  function dragEnd() {
+    if (!dragging) return;
+    dragging = false;
+    strip.style.transition = '';
+    if (dragDx < -THRESHOLD && current < total - 1) current++;
+    else if (dragDx > THRESHOLD && current > 0) current--;
+    update();
+  }
+
+  // Mouse
+  viewport.addEventListener('mousedown', function (e) { dragStart(e.clientX); });
+  window.addEventListener('mousemove', function (e) { dragMove(e.clientX); });
+  window.addEventListener('mouseup', dragEnd);
+
+  // Touch
+  viewport.addEventListener('touchstart', function (e) { dragStart(e.touches[0].clientX); }, { passive: true });
+  viewport.addEventListener('touchmove', function (e) { dragMove(e.touches[0].clientX); }, { passive: true });
+  viewport.addEventListener('touchend', dragEnd);
+
+  // Wheel — touchpad two-finger horizontal swipe or Shift+scroll
+  var wheelLocked = false;
+  viewport.addEventListener('wheel', function (e) {
+    var dx = e.shiftKey ? e.deltaY : e.deltaX;
+    if (Math.abs(dx) < 5) return;
+    e.preventDefault();
+    if (wheelLocked) return;
+    if (dx > 0 && current < total - 1) { current++; update(); }
+    else if (dx < 0 && current > 0) { current--; update(); }
+    wheelLocked = true;
+    setTimeout(function () { wheelLocked = false; }, 400);
+  }, { passive: false });
+})();
+</script>
