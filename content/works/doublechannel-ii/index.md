@@ -46,8 +46,8 @@ Artists｜Chao Man-Chun, Cheng Shih-Yung, Genn Lau, Li Shiou-Fen, Lin Pei-Yao
 2024-DChannel2-13-moca.webp
 {{< /album >}}
 
-**Openning Performance** 
-Oct 18
+**Openning Performance**  
+Oct 18  
 
 {{< youtube "PZLqw6IUf84" >}}
 
@@ -65,7 +65,7 @@ Oct 18
 2024-DChannel2-p8-moca.webp
 2024-DChannel2-p9-moca.webp
 {{< /album >}}
-Photo by Wang Shih-Yuan. Courtesy of Museum of Contemporary Art Taipei.
+
 
 ### 2024 The Dual Double-Channel
 HONG Foundation, Taipei, Taiwan
@@ -87,7 +87,7 @@ HONG Foundation, Taipei, Taiwan
 2024-DChannel2-8-hong.webp
 2024-DChannel2-9-hong.webp
 {{< /album >}}
-Photo by Chu Chi-Hung. 
+
 ### Credits
 Director｜LIN Pei-Yao  
 Performers｜Wei Peng, Aihsuan Chou  
@@ -99,3 +99,7 @@ Video Editing & Post-Production｜LIN Pei-Yao
 Sound Design｜Yuchin Chen  
 Audio-Visual Software & Hardware Integration｜Yuchin Chen  
 Rehearsal Footage｜Yun-Rung Chu  
+
+### Image Credits
+Photo by Wang Shih-Yuan. Courtesy of Museum of Contemporary Art Taipei.
+Photo by Chu Chi-Hung. 

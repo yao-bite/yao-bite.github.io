@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,12 +249,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7febed23024e5385",
+  "active": "5a2659d7ad2525fe",
   "lastOpenFiles": [
+    "content/works/doublechannel-ii/index.md",
+    "content/works/doublechannel-ii/index.tw.md",
     "public/works/doublechannel-ii/index.html",
     "public/works/doublechannel-ii",
-    "content/works/doublechannel-ii/index.tw.md",
-    "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-eyes/index.md",
     "content/works/doublechannel-eyes/index.tw.md",
     "README.md",
@@ -295,7 +295,6 @@
     "content/writings/interviewofanartist/index.tw.md",
     "content/writings/liyifan-rewiring/index.tw.md",
     "content/writings/photo-album-kingcar-2024/index.tw.md",
-    "content/writings/reborn/index.tw.md",
-    "layouts/single.html"
+    "content/writings/reborn/index.tw.md"
   ]
 }
