@@ -7,13 +7,10 @@ image: /ghost-images/2025/03/_NZ_003.webp
 slug: interviewwithanartist
 tags:
 title: Inter-View with an Artist
-medium: "interview footage from Re-her-sal: Preview"
+medium: "Interview footage from Re-her-sal: Preview"
 dimensions: 07’49”
 ---
 *A pilot work for Inter-View with a Philosopher*
-
-interview footage from Re-her-sal: Preview  
-07’49”  
 
 ![](2025-80Agallery-11.tw.webp)
 
@@ -33,7 +30,7 @@ This is an experiment using an interview video from a previous exhibition. The n
 
 {{< vimeo 1064155446 >}}
 ### Rehearsal for Re-her-sal: Entering the Auditorium
-Feb 06 - Mar 01, 2025 
+Feb 06 - Mar 01, 2025  
 80A Gallery, Taipei, Taiwan  
 Curator: Chun-Lin Yen  
 Artist: Shiou-Fen Li, Tsong-Tãi Gôo, Pei-Yao Lin, Man-Chun Chao, Pei-Yi Lin, Hao-Yuan Chang    

@@ -7,10 +7,9 @@ image: /ghost-images/2024/10/1016_MoCA_----_111_L-1.webp
 slug: doublechannel-ii
 tags:
 title: 雙頻道II：你(聽)我(説)
+medium: 雙頻道影像三聲道裝置
+dimensions: 08’37”
 ---
-雙頻道影像三聲道裝置  
-08’37”  
-
 ![](2024-DChannel2-2-moca.tw.webp)
 
 當試圖理解他人，我們僅能透過自己來想像，那這樣的他人是不是也是自我的一部份？當思考自我，我們都同時將自己他者化，那這樣的自我是不是也是一種他者？  

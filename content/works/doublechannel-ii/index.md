@@ -7,10 +7,9 @@ image: /ghost-images/2024/10/1016_MoCA_----_111_L-1.webp
 slug: doublechannel-ii
 tags:
 title: "Double-Channel II: “Listen (to me).”"
+medium: Double-channel video, three-channel audio installation
+dimensions: 08’37”
 ---
-Double-channel video, three-channel audio installation  
-08’37”  
-
 ![](2024-DChannel2-2-moca.tw.webp)
 
 When we try to understand others, we can only empathize and imagine what others think or feel. So, does this process of putting “ourselves” in others’ shoes make others part of ourselves? When thinking about the self, we engage in the act of othering. Does this mean that the self is, in a way, an other?

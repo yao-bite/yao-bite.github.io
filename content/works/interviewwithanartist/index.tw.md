@@ -8,11 +8,10 @@ slug: interviewwithanartist
 tags:
   - works
 title: 訪問一位藝術家
+medium: 展覽的訪談影像、逐字稿與錄音
+dimensions: 07’49”
 ---
 *為〈訪問一位哲學家〉實驗的前作*
-
-展覽的訪談影像、逐字稿與錄音  
-07’49”  
 
 ![](2025-80Agallery-11.tw.webp)
 
