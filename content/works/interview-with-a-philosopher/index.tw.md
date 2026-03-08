@@ -1,5 +1,5 @@
 ---
-title: Inter-View with a Philosopher
+title: 訪問一位哲學家
 date: 2025-08-27
 draft: true
 featured: false

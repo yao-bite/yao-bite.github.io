@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "135a2d7a93f557f6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-1.webp"
+              },
+              "icon": "lucide-image",
+              "title": "2025-Philosopher-ZoneArt-1"
+            }
+          },
+          {
             "id": "efd168523ae10f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/je-suis-pas-fan/index.tw.md",
+                "file": "content/works/interview-with-a-philosopher/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,35 +247,39 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b7cdcb6df7e2cbc3",
+  "active": "efd168523ae10f31",
   "lastOpenFiles": [
+    "public/tw/works/interview-with-a-philosopher/index.html",
+    "public/tw/works/interview-with-a-philosopher",
     "content/works/interview-with-a-philosopher/index.md",
+    "content/works/interview-with-a-philosopher/index.tw.md",
+    "content/works/interview-with-an-artist/index.md",
     "content/works/je-suis-pas-fan/index.tw.md",
+    "content/works/je-suis-pas-fan/index.md",
+    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-1.webp",
+    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-2.webp",
+    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-3.webp",
+    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-4.webp",
+    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-10.webp",
+    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-9.webp",
+    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-8.webp",
+    "templates/youtube.md",
+    "templates/album.md",
+    "README.md",
     "content/exhibitions/who-is-the-speaker/index.md",
     "content/exhibitions/who-is-the-speaker/index.tw.md",
-    "content/works/je-suis-pas-fan/index.md",
     "public/tw/works/je-suis-pas-fan/index.html",
     "public/tw/works/je-suis-pas-fan",
-    "README.md",
-    "content/works/interview-with-an-artist/index.md",
     "content/works/interview-with-an-artist/index.tw.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
     "content/works/who-is-the-speaker/index.md",
-    "templates/album.md",
     "content/works/je-suis-pas-fan/cover.webp",
     "content/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-10.webp",
     "public/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-8.webp",
-    "public/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-10.webp",
-    "content/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-8.webp",
     "public/works/interview-with-a-philosopher/index.html",
     "public/works/interview-with-a-philosopher/work-1/index.html",
     "public/works/interview-with-a-philosopher/work-1",
     "templates/work.md",
-    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-9.webp",
-    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-8.webp",
-    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-4.webp",
-    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-3.webp",
-    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-2.webp",
     "content/works/interview-with-a-philosopher/未命名.md",
     "public/works/interview-with-a-philosopher/未命名/index.html",
     "public/works/interview-with-a-philosopher/未命名",
@@ -271,7 +287,6 @@
     "content/works/interview-with-a-philosopher",
     "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-ii/index.tw.md",
-    "public/works/interviewwithanartist/index.html",
     "templates/vimeo.md",
     "CLAUDE.md",
     "MIGRATION_SUMMARY.md",
@@ -279,8 +294,6 @@
     "content/works/doublechannel-eyes/index.md",
     "content/works/doublechannel-eyes/index.tw.md",
     "content/exhibitions/_index.md",
-    "content/exhibitions/the-dual-double-channel/index.md",
-    "content/exhibitions/the-dual-double-channel/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md"
+    "content/exhibitions/the-dual-double-channel/index.md"
   ]
 }
