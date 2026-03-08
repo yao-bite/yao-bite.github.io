@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/interviewwithanartist/index.tw.md",
+                "file": "content/works/interviewwithanartist/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           },
           {
@@ -235,8 +235,8 @@
   },
   "active": "5a2659d7ad2525fe",
   "lastOpenFiles": [
-    "content/works/interviewwithanartist/index.md",
     "content/works/interviewwithanartist/index.tw.md",
+    "content/works/interviewwithanartist/index.md",
     "content/works/interviewwithanartist/2025-80Agallery-2.tw.webp",
     "content/works/interviewwithanartist/2025-80Agallery-3.tw.webp",
     "content/works/interviewwithanartist/2025-80Agallery-11.tw.webp",
@@ -279,7 +279,6 @@
     "content/writings/art-review-walkingonthewater/index.tw.md",
     "content/writings/art-review-hernia-maniac/index.tw.md",
     "content/writings/artreview-aboutdirtymistakelemonyellow/index.tw.md",
-    "content/writings/artreview-alchemizingmist/index.tw.md",
-    "content/writings/artreview-howtextcreatesdistanceinawork/index.tw.md"
+    "content/writings/artreview-alchemizingmist/index.tw.md"
   ]
 }

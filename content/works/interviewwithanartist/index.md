@@ -6,12 +6,11 @@ draft: false
 image: /ghost-images/2025/03/_NZ_003.webp
 slug: interviewwithanartist
 tags:
-  - works
-title: 訪問一位藝術家 Inter-View with An Artist (2025)
+title: Inter-View with An Artist
 ---
-*Demo for Inter-View with a Philosopher*
+*A pilot work for Inter-View with a Philosopher*
 
-the records of interview from Re-her-sal  
+interview footage from Re-her-sal: Preview  
 07’49”  
 
 ![](2025-80Agallery-11.tw.webp)
@@ -37,11 +36,11 @@ Feb 06 - Mar 01, 2025
 Curator: Chun-Lin Yen  
 Artist: Shiou-Fen Li, Tsong-Tãi Gôo, Pei-Yao Lin, Man-Chun Chao, Pei-Yi Lin, Hao-Yuan Chang    
 ### Credits
-Editing & Audio Mixing: Pei-Yao Lin
+Editing & Audio Mixing: Pei-Yao Lin  
 Programming: Justin Lin  
 
 **Interview Materials**  
-Exhibition: Rehearsal for Re-her-sal: Entering the Auditorium  
+Exhibition: Rehearsal for Re-her-sal: Preview  
 Curator: Chun-Lin Yen  
 Interviewer: Chun-Lin Yen  
 Videographer: I-Shun Chen
