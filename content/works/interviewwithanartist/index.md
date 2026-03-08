@@ -6,7 +6,9 @@ draft: false
 image: /ghost-images/2025/03/_NZ_003.webp
 slug: interviewwithanartist
 tags:
-title: Inter-View with An Artist
+title: Inter-View with an Artist
+medium: "interview footage from Re-her-sal: Preview"
+dimensions: 07’49”
 ---
 *A pilot work for Inter-View with a Philosopher*
 
