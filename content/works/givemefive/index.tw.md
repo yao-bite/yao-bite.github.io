@@ -1,12 +1,12 @@
 ---
-date: "2021-02-09T08:03:33+08:00"
+date: 2021-02-09T08:03:33+08:00
 description: 有時候凝視窗外並不是在凝視景象，而只是在思索著什麼，或回想著什麼。半透明的窗簾，隨著風的每一次飄動，似乎都在恍惚之間剪輯著記憶
-draft: false
+draft: true
 image: /ghost-images/2021/02/PC290206.webp
 slug: givemefive
 tags:
-- works
-- '#Import 2023-01-29 03:01'
+  - works
+  - "#Import 2023-01-29 03:01"
 title: Give Me Five（2020）
 ---
 
