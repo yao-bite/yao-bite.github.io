@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76347b934cf60c85",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "content/works/interviewwithanartist/2025-80Agallery-2.tw.webp"
-              },
-              "icon": "lucide-image",
-              "title": "2025-80Agallery-2.tw"
-            }
-          },
-          {
-            "id": "5a2659d7ad2525fe",
+            "id": "efd168523ae10f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/doublechannel-ii/index.md",
+                "file": "content/exhibitions/who-is-the-speaker/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -89,8 +77,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,52 +234,52 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5a2659d7ad2525fe",
+  "active": "efd168523ae10f31",
   "lastOpenFiles": [
-    "content/works/doublechannel-ii/index.tw.md",
-    "content/works/interviewwithanartist/index.tw.md",
-    "README.md",
-    "content/works/interviewwithanartist/index.md",
-    "public/works/interviewwithanartist/index.html",
-    "public/works/interviewwithanartist",
-    "public/tw/works/interviewwithanartist/2025-80Agallery-3.tw.webp",
-    "public/tw/works/interviewwithanartist/2025-80Agallery-2.tw.webp",
-    "public/tw/works/interviewwithanartist/2025-80Agallery-15.tw.webp",
-    "public/tw/works/interviewwithanartist/2025-80Agallery-14.tw.webp",
-    "public/tw/works/interviewwithanartist/2025-80Agallery-13.tw.webp",
-    "public/tw/works/interviewwithanartist/2025-80Agallery-12.tw.webp",
-    "public/tw/works/interviewwithanartist/2025-80Agallery-11.tw.webp",
+    "content/exhibitions/who-is-the-speaker/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
-    "content/works/interviewwithanartist/2025-80Agallery-2.tw.webp",
-    "content/works/interviewwithanartist/2025-80Agallery-3.tw.webp",
-    "content/works/interviewwithanartist/2025-80Agallery-11.tw.webp",
-    "templates/vimeo.md",
+    "content/exhibitions/who-is-the-speaker/index.md",
+    "content/works/je-suis-pas-fan/index.tw.md",
+    "public/tw/works/je-suis-pas-fan/index.html",
+    "public/tw/works/je-suis-pas-fan",
+    "README.md",
+    "content/works/interview-with-an-artist/index.md",
+    "content/works/interview-with-an-artist/index.tw.md",
+    "content/exhibitions/2024-self-testing-starts/index.tw.md",
+    "content/works/who-is-the-speaker/index.md",
+    "templates/album.md",
+    "content/works/je-suis-pas-fan/cover.webp",
+    "content/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-10.webp",
+    "public/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-8.webp",
+    "public/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-10.webp",
+    "content/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-8.webp",
+    "content/works/interview-with-a-philosopher/index.md",
+    "public/works/interview-with-a-philosopher/index.html",
+    "public/works/interview-with-a-philosopher/work-1/index.html",
+    "public/works/interview-with-a-philosopher/work-1",
+    "templates/work.md",
+    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-9.webp",
+    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-8.webp",
+    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-4.webp",
+    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-3.webp",
+    "public/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-2.webp",
+    "content/works/interview-with-a-philosopher/未命名.md",
+    "public/works/interview-with-a-philosopher/未命名/index.html",
+    "public/works/interview-with-a-philosopher/未命名",
+    "public/works/interview-with-a-philosopher",
+    "content/works/interview-with-a-philosopher",
     "content/works/doublechannel-ii/index.md",
+    "content/works/doublechannel-ii/index.tw.md",
+    "public/works/interviewwithanartist/index.html",
+    "templates/vimeo.md",
     "CLAUDE.md",
     "MIGRATION_SUMMARY.md",
     "content/works/givemefive/index.tw.md",
-    "public/works/doublechannel-ii/index.html",
-    "public/works/doublechannel-ii",
     "content/works/doublechannel-eyes/index.md",
     "content/works/doublechannel-eyes/index.tw.md",
-    "public/tw/works/interviewwithanartist/index.html",
-    "public/tw/works/interviewwithanartist",
-    "public/works/doublechannel-eyes/index.html",
-    "public/works/doublechannel-eyes",
-    "public/works/who-is-the-speaker/index.html",
-    "public/works/who-is-the-speaker",
-    "templates/album.md",
     "content/exhibitions/_index.md",
     "content/exhibitions/the-dual-double-channel/index.md",
     "content/exhibitions/the-dual-double-channel/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
-    "archetypes/works/index.md",
-    "content/exhibitions/who-is-the-speaker/index.tw.md",
-    "content/exhibitions/who-is-the-speaker/index.md",
-    "content/works/windowing/index.tw.md",
-    "content/works/windowing-en/index.md",
-    "content/writings/art-review-walkingonthewater/index.tw.md",
-    "content/writings/art-review-hernia-maniac/index.tw.md",
-    "content/writings/artreview-aboutdirtymistakelemonyellow/index.tw.md"
+    "content/exhibitions/2024-the-dual-double-channel/index.tw.md"
   ]
 }
