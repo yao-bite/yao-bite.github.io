@@ -1,8 +1,8 @@
 ---
 title:
 date: "{{date}}"
-draft: "true"
-featured: "false"
+draft: true
+featured: false
 image:
 medium:
 dimension:
