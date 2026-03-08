@@ -11,12 +11,14 @@
             "id": "135a2d7a93f557f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-1.webp"
+                "file": "content/works/je-suis-pas-fan/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "2025-Philosopher-ZoneArt-1"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -89,8 +91,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,17 +248,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b44138c16bd0ae57",
+  "active": "135a2d7a93f557f6",
   "lastOpenFiles": [
-    "README.md",
+    "content/works/je-suis-pas-fan/index.tw.md",
+    "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
+    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-1.webp",
+    "README.md",
     "public/tw/works/interview-with-a-philosopher/index.html",
     "public/tw/works/interview-with-a-philosopher",
-    "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-an-artist/index.md",
-    "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
-    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-1.webp",
     "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-2.webp",
     "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-3.webp",
     "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-4.webp",
