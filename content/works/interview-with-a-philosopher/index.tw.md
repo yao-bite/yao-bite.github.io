@@ -4,7 +4,7 @@ date: 2025-08-27
 draft: true
 featured: false
 image: 2025-Philosopher-ZoneArt-4.webp
-medium: Three-channel audio spatial installation with video
+medium: 三聲道影像空間裝置
 dimension: 21’12”
 ---
 {{< album >}}
@@ -12,9 +12,9 @@ dimension: 21’12”
 2025-Philosopher-ZoneArt-10.webp
 {{< /album >}}
 
-One evening, I was listening to a philosopher speak at length. As the sun set and the light suddenly dimmed, the conversation from moments before began to feel like a dream. I’ve long wanted to recreate that experience—when thought gets lost in the forest of consciousness, and a continuous stream of speech unfolds like a winding path, fleeting and narrow, with no clear destination and no way back.
+有一天傍晚，我聽著一位哲學家滔滔不絕地説話。當太陽落下、光線突然變暗時，先前的談話在恍惚之間，變得像一場夢。我一直想要重新創造當時的經驗，思緒在意識的森林中迷走，綿延的語音鋪陳出轉瞬即逝的羊腸小徑，看不清目的地、亦沒有回頭路。
 
-Inspired by this experience, and drawing from the format of interview videos as well as cinematic techniques that render a protagonist’s inner voice as voice-over, _Inter-View with a Philosopher_ portrays a philosopher speaking alone—at times as if addressing someone else, at others as though merely speaking to herself.
+以前述經驗為發想，並受訪談影片的形式、以及電影呈現主角思緒的畫外音手法啟發，《訪問一位哲學家》拍攝一位哲學家獨自說話，有時彷彿有一個說話對象，有時又好像只是在自言自語。
 
 {{< album >}}
 2025-Philosopher-ZoneArt-1.webp
@@ -22,38 +22,35 @@ Inspired by this experience, and drawing from the format of interview videos as 
 2025-Philosopher-ZoneArt-3.webp
 {{< /album >}}
 
-This project was created in collaboration with philosopher of mind Ying-Tung Lin, who co-wrote the script and also appears as the “philosopher” in the video. It brings together her research interests and the project’s central inquiry—an exploration of mind-wandering within mental phenomena. The result is a performance that becomes a language about language, a stream of consciousness reflecting on consciousness itself.
-
-The work invites viewers into a space designed to trigger mind-wandering: within the philosopher’s flowing voice, suspended between the present and the imaginary, between speech and thought, the viewer drifts between roles—listener, thinker, perhaps even speaker. In this hazy oscillation of focus and blur, one "experiences" language through losing and regaining attention.
-
+本計畫與心智哲學學者林映彤合作，除了共創拍攝腳本，作品中的「哲學家」也由其出演，結合自身研究旨趣與計畫核心提問的共通點——對於心智現象中「思緒漫遊」(mind-wandering)狀態的探問——並將思考的過程捕捉下來，進一步發展成一份探討語言的語言、關於意識的意識流表演。期望為觀者打造一個能夠啟動思緒漫遊的情境：在哲學家的語音流轉中，在當下與想像、語音與思緒之間，觀者的角色徘徊在聆聽者、思索者、甚至是說話者之間，惚兮恍兮，恍兮惚兮，反覆聚焦又失焦地「體驗」語言。
 
 {{< youtube "CTOmMn235gI" >}}
 
 ---
 
-**About the Philosopher — Ying-Tung Lin**
+### **哲學家簡介｜林映彤**
 
-Associate Professor and Director of the Institute of Philosophy of Mind and Cognition, National Yang Ming Chiao Tung University. Ph.D. in Philosophy, Johannes Gutenberg University Mainz, Germany.
+國立陽明交通大學心智哲學研究所副教授／所長，德國古騰堡大學哲學博士。專長領域為心智哲學、意識研究、應用倫理學。
 
-Her research focuses on philosophy of mind, consciousness studies, and applied ethics, particularly on self-experience in memory and imagination, the philosophical understanding of pain and suffering, and the impact of technology on human cognition and epistemic practices.
+當前的研究大致聚焦於透過檢視記憶與想像中的自我經驗，從心智哲學的角度研究疼痛與受苦經驗，並關注各種人與科技之間的關係，試圖了解科技如何影響和塑造我們的心智、自我和知識上的活動。
 
 ![](2025-Philosopher-ZoneArt-9.webp)
-### Credits
+### 製作名單
 
-Program Host / Director / Editor: Pei-Yao Lin  
-Script Development / Performer: Ying-Tung Lin  
-Sound Design: Ching-Chun Hsieh  
-Director of Photography / Cinematography: Hsiang-Yun Cheng  
-Cinematography: bawnay a lahi’ baba:i’  
-Sound Recording: Yi-Shiou Li  
-Production Assistant: CCwen  
-Special Appearance: Lîm A-sim  
-Audio-visual Programming: Justin Lin
-Wireless Clock Design: Wilson Wu  
+計劃主持／導演／剪輯：林沛瑤  
+腳本創作／演出：林映彤  
+聲音設計：謝青㚬  
+攝影指導／攝影：程詳芸  
+攝影：風宗廷  
+收音：李宜修  
+製片助理：張瀞文  
+友情客串：林阿心  
+影音程式設計：林宏信  
+無線同步時鐘軟硬體設計：吳宇森  
 
 ---
 
-### *Who is the speaker?* Pei-Yao Lin Solo Exhibition
-Oct 22 - Nov 19 2025  
-Zone Art, Taoyuan, Taiwan  
-(*See more documentation of the exhibition*)
+### *Who is the speaker?* 林沛瑤個展
+2025.10.22 - 2025.11.19  
+众藝術，桃園，臺灣  
+(*看更多展覽紀錄*)

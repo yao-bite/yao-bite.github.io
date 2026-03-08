@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,12 +247,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "efd168523ae10f31",
+  "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
+    "README.md",
+    "content/works/interview-with-a-philosopher/index.tw.md",
     "public/tw/works/interview-with-a-philosopher/index.html",
     "public/tw/works/interview-with-a-philosopher",
     "content/works/interview-with-a-philosopher/index.md",
-    "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/interview-with-an-artist/index.md",
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
@@ -265,7 +266,6 @@
     "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-8.webp",
     "templates/youtube.md",
     "templates/album.md",
-    "README.md",
     "content/exhibitions/who-is-the-speaker/index.md",
     "content/exhibitions/who-is-the-speaker/index.tw.md",
     "public/tw/works/je-suis-pas-fan/index.html",
@@ -284,7 +284,6 @@
     "public/works/interview-with-a-philosopher/未命名/index.html",
     "public/works/interview-with-a-philosopher/未命名",
     "public/works/interview-with-a-philosopher",
-    "content/works/interview-with-a-philosopher",
     "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-ii/index.tw.md",
     "templates/vimeo.md",
