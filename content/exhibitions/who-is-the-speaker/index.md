@@ -22,15 +22,15 @@ As words merge into thought and thought becomes word, an indistinct speaker quie
 Exhibition Visual Design: Sunnydance Co.   
 Marketing Planning & Execution: Sydney Lee  
 Exhibition Installation Design & Production: Sam Yong, William Hou  
-Installation Assistance: Li-Yun Chien, Chia-Huang Kuo, Sam Yong, En-Shuo Kuo, Wilson Wu  
-Computer Environment Setup: Justin Lin, Wilson Wu  
+Installation Assistance: Chien Li-Yun, Kuo Chia-Huang, Sam Yong, Kuo En-Shuo, Wilson WU  
+Computer Environment Setup: Justin LIN, Wilson WU  
 
 **Photo & Video Documentation**  
 Exhibition View (Photo): dulub_studio  
-Exhibition View (Video): Hsiang Yun Cheng, Pei-Yao Lin  
-Video Documentation Editing: Pei-Yao Lin    
-Opening Photo Documentation: Yi-Ching Sun  
-Opening Video Documentation: Hsiang Yun Cheng  
+Exhibition View (Video): Cheng Hsiang Yun, LIN Pei-Yao  
+Video Documentation Editing: LIN Pei-Yao    
+Opening Photo Documentation: Sun Yi-Ching  
+Opening Video Documentation: Cheng Hsiang Yun  
 
 **Sponsors & Co-organizers**  
 Sponsor: National Culture and Arts Foundation  

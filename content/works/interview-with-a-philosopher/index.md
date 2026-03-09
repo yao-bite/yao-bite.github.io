@@ -40,20 +40,20 @@ Her research focuses on philosophy of mind, consciousness studies, and applied e
 ![](2025-Philosopher-ZoneArt-9.webp)
 ### Credits
 
-Program Host / Director / Editor: Pei-Yao Lin  
+Program Host / Director / Editor:  LIN Pei-Yao  
 Script Development / Performer: Ying-Tung Lin  
-Sound Design: Ching-Chun Hsieh  
-Director of Photography / Cinematography: Hsiang-Yun Cheng  
+Sound Design: HSIEH Ching-Chun  
+Director of Photography / Cinematography: Cheng Hsiang Yun  
 Cinematography: bawnay a lahi’ baba:i’  
-Sound Recording: Yi-Shiou Li  
+Sound Recording: LI YI SHIOU  
 Production Assistant: CCwen  
 Special Appearance: Lîm A-sim  
-Audio-visual Programming: Justin Lin
-Wireless Clock Design: Wilson Wu  
+Audio-visual Programming: Justin LIN
+Wireless Clock Design: Wilson WU  
 
 ---
 
-### *Who is the speaker?* Pei-Yao Lin Solo Exhibition
+### *Who is the speaker?* LIN Pei-Yao Solo Exhibition
 Oct 22 - Nov 19 2025  
 Zone Art, Taoyuan, Taiwan  
 (*See more documentation of the exhibition*)
