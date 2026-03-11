@@ -1,7 +1,7 @@
 ---
 categories:
 date: 2024-08-10
-draft: true
+draft: false
 endDate: 2024-08-31
 image: /ghost-images/2024/08/---_FB--.webp
 slug: the-dual-double-channel-en

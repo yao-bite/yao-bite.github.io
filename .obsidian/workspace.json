@@ -8,29 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "135a2d7a93f557f6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "content/exhibitions/who-is-the-speaker/2025-ZoneArt-8.webp"
-              },
-              "icon": "lucide-image",
-              "title": "2025-ZoneArt-8"
-            }
-          },
-          {
-            "id": "6dd7af3adb3adfbc",
+            "id": "15271c4774576848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/who-is-the-speaker/index.md",
+                "file": "templates/vimeo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "vimeo"
+            }
+          },
+          {
+            "id": "391542e6cf59f02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/works/lionplaza-lightpool/index.tw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index.tw"
             }
           },
           {
@@ -90,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,9 +249,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b44138c16bd0ae57",
+  "active": "391542e6cf59f02c",
   "lastOpenFiles": [
+    "content/works/je-suis-pas-fan/index.tw.md",
+    "content/works/lionplaza-lightpool/index.tw.md",
+    "templates/vimeo.md",
     "content/exhibitions/who-is-the-speaker/index.md",
+    "README.md",
+    "content/works/ontheground/index.md",
+    "content/works/windowing/index.md",
+    "content/works/windowing/index.tw.md",
+    "content/writings/photo-album-kingcar-2024/index.tw.md",
+    "templates/writing.md",
+    "content/exhibitions/the-dual-double-channel/index.md",
+    "content/exhibitions/the-dual-double-channel/index.tw.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/exhibitions/who-is-the-speaker/index.tw.md",
     "content/exhibitions/who-is-the-speaker/index-2.tw.md",
     "content/exhibitions/who-is-the-speaker/ghost.md",
@@ -264,7 +278,6 @@
     "content/exhibitions/who-is-the-speaker/2025-ZoneArt-25-1820.webp",
     "content/exhibitions/who-is-the-speaker/2025-ZoneArt-29-2034.webp",
     "content/exhibitions/who-is-the-speaker/2025-ZoneArt-28-1937.webp",
-    "README.md",
     "content/exhibitions/_index.md",
     "templates/album.md",
     "content/works/interview-with-a-philosopher/index.md",
@@ -272,28 +285,17 @@
     "content/works/je-suis-pas-fan/index.md",
     "content/works/doublechannel-eyes/index.md",
     "content/works/doublechannel-ii/index.md",
-    "content/exhibitions/the-dual-double-channel/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
-    "content/works/je-suis-pas-fan/index.tw.md",
     "public/tw/works/interview-with-a-philosopher/index.html",
     "public/tw/works/interview-with-a-philosopher",
     "public/tw/works/je-suis-pas-fan/index.html",
     "public/tw/works/je-suis-pas-fan",
     "content/works/interview-with-an-artist/index.tw.md",
-    "content/exhibitions/2024-self-testing-starts/index.tw.md",
-    "content/works/who-is-the-speaker/index.md",
     "public/works/interview-with-a-philosopher/index.html",
     "public/works/interview-with-a-philosopher/work-1/index.html",
     "public/works/interview-with-a-philosopher/work-1",
-    "templates/work.md",
-    "content/works/interview-with-a-philosopher/未命名.md",
     "public/works/interview-with-a-philosopher/未命名/index.html",
     "public/works/interview-with-a-philosopher/未命名",
-    "public/works/interview-with-a-philosopher",
-    "content/works/doublechannel-ii/index.tw.md",
-    "templates/vimeo.md",
-    "CLAUDE.md",
-    "MIGRATION_SUMMARY.md",
-    "content/works/givemefive/index.tw.md"
+    "public/works/interview-with-a-philosopher"
   ]
 }
