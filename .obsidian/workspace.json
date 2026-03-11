@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cv/index.md",
+                "file": "content/exhibitions/the-dual-double-channel/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -251,6 +251,9 @@
   },
   "active": "391542e6cf59f02c",
   "lastOpenFiles": [
+    "content/exhibitions/the-dual-double-channel/index.tw.md",
+    "content/exhibitions/the-dual-double-channel/index.md",
+    "content/cv/index.md",
     "content/works/lionplaza-lightpool/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
     "content/works/mind-blowing/index.tw.md",
@@ -266,8 +269,6 @@
     "content/works/windowing/index.tw.md",
     "content/writings/photo-album-kingcar-2024/index.tw.md",
     "templates/writing.md",
-    "content/exhibitions/the-dual-double-channel/index.md",
-    "content/exhibitions/the-dual-double-channel/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/exhibitions/who-is-the-speaker/index.tw.md",
     "content/exhibitions/who-is-the-speaker/index-2.tw.md",
@@ -288,7 +289,6 @@
     "content/works/interview-with-an-artist/index.md",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/doublechannel-eyes/index.md",
-    "content/works/doublechannel-ii/index.md",
     "public/tw/works/interview-with-a-philosopher/index.html",
     "public/tw/works/interview-with-a-philosopher",
     "public/tw/works/je-suis-pas-fan/index.html",
