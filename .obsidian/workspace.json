@@ -13,19 +13,19 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-9.webp"
+                "file": "content/exhibitions/who-is-the-speaker/2025-ZoneArt-11.webp"
               },
               "icon": "lucide-image",
-              "title": "2025-Philosopher-ZoneArt-9"
+              "title": "2025-ZoneArt-11"
             }
           },
           {
-            "id": "efd168523ae10f31",
+            "id": "6dd7af3adb3adfbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/interview-with-an-artist/index.md",
+                "file": "content/exhibitions/who-is-the-speaker/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 503.5
   },
   "right": {
     "id": "3f5ea11e9edd07f7",
@@ -247,38 +247,41 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "efd168523ae10f31",
+  "active": "6dd7af3adb3adfbc",
   "lastOpenFiles": [
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-11.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-24-0999.webp",
+    "content/exhibitions/who-is-the-speaker/index.md",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-23-0921.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-22-0877.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-26-1921.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-25-1820.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-29-2034.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-28-1937.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-27-1923.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-21-0666.webp",
+    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-20-0646.webp",
+    "README.md",
+    "content/exhibitions/who-is-the-speaker/ghost.md",
+    "content/exhibitions/who-is-the-speaker/index.tw.md",
+    "content/exhibitions/_index.md",
+    "templates/album.md",
+    "content/works/interview-with-a-philosopher/index.md",
+    "content/works/interview-with-an-artist/index.md",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/doublechannel-eyes/index.md",
     "content/works/doublechannel-ii/index.md",
     "content/exhibitions/the-dual-double-channel/index.md",
-    "content/exhibitions/who-is-the-speaker/index.md",
-    "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
-    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-9.webp",
-    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-1.webp",
     "content/works/je-suis-pas-fan/index.tw.md",
-    "README.md",
     "public/tw/works/interview-with-a-philosopher/index.html",
     "public/tw/works/interview-with-a-philosopher",
-    "content/works/interview-with-an-artist/index.md",
-    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-2.webp",
-    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-3.webp",
-    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-4.webp",
-    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-10.webp",
-    "content/works/interview-with-a-philosopher/2025-Philosopher-ZoneArt-8.webp",
     "templates/youtube.md",
-    "templates/album.md",
-    "content/exhibitions/who-is-the-speaker/index.tw.md",
     "public/tw/works/je-suis-pas-fan/index.html",
     "public/tw/works/je-suis-pas-fan",
     "content/works/interview-with-an-artist/index.tw.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
     "content/works/who-is-the-speaker/index.md",
-    "content/works/je-suis-pas-fan/cover.webp",
-    "content/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-10.webp",
-    "public/works/je-suis-pas-fan/2025-Philosopher-ZoneArt-8.webp",
     "public/works/interview-with-a-philosopher/index.html",
     "public/works/interview-with-a-philosopher/work-1/index.html",
     "public/works/interview-with-a-philosopher/work-1",
@@ -291,8 +294,6 @@
     "templates/vimeo.md",
     "CLAUDE.md",
     "MIGRATION_SUMMARY.md",
-    "content/works/givemefive/index.tw.md",
-    "content/works/doublechannel-eyes/index.tw.md",
-    "content/exhibitions/_index.md"
+    "content/works/givemefive/index.tw.md"
   ]
 }

@@ -48,7 +48,7 @@ Cinematography: bawnay a lahi’ baba:i’
 Sound Recording: LI YI SHIOU  
 Production Assistant: CCwen  
 Special Appearance: Lîm A-sim  
-Audio-visual Programming: Justin LIN
+Audio-visual Programming: Justin LIN  
 Wireless Clock Design: Wilson WU  
 
 ---
