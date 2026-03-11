@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,10 +249,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "391542e6cf59f02c",
+  "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
-    "content/exhibitions/the-dual-double-channel/index.tw.md",
     "content/exhibitions/the-dual-double-channel/index.md",
+    "public/tw/exhibitions/2025-who-is-the-speaker/index.html",
+    "public/tw/exhibitions/2025-who-is-the-speaker",
+    "public/exhibitions/2025-who-is-the-speaker/index.html",
+    "public/exhibitions/2025-who-is-the-speaker/cover.jpg",
+    "public/exhibitions/2025-who-is-the-speaker/2025-speaker-3-0569.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-9.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-8.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-7.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-6.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-5.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-4.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-3.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-29-2034.webp",
+    "public/exhibitions/2025-who-is-the-speaker",
+    "content/exhibitions/the-dual-double-channel/index.tw.md",
     "content/cv/index.md",
     "content/works/lionplaza-lightpool/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
@@ -262,7 +276,7 @@
     "templates/album.md",
     "templates/vimeo.md",
     "content/works/je-suis-pas-fan/index.tw.md",
-    "content/exhibitions/who-is-the-speaker/index.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "README.md",
     "content/works/ontheground/index.md",
     "content/works/windowing/index.md",
@@ -270,32 +284,17 @@
     "content/writings/photo-album-kingcar-2024/index.tw.md",
     "templates/writing.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
-    "content/exhibitions/who-is-the-speaker/index.tw.md",
-    "content/exhibitions/who-is-the-speaker/index-2.tw.md",
-    "content/exhibitions/who-is-the-speaker/ghost.md",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-8.webp",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-7.webp",
+    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
+    "content/exhibitions/2025-who-is-the-speaker/index-2.tw.md",
+    "content/exhibitions/2025-who-is-the-speaker/ghost.md",
     "templates/youtube.md",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-11.webp",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-24-0999.webp",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-23-0921.webp",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-22-0877.webp",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-26-1921.webp",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-25-1820.webp",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-29-2034.webp",
-    "content/exhibitions/who-is-the-speaker/2025-ZoneArt-28-1937.webp",
     "content/exhibitions/_index.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-an-artist/index.md",
     "content/works/je-suis-pas-fan/index.md",
-    "content/works/doublechannel-eyes/index.md",
     "public/tw/works/interview-with-a-philosopher/index.html",
     "public/tw/works/interview-with-a-philosopher",
     "public/tw/works/je-suis-pas-fan/index.html",
-    "public/tw/works/je-suis-pas-fan",
-    "public/works/interview-with-a-philosopher/index.html",
-    "public/works/interview-with-a-philosopher/work-1/index.html",
-    "public/works/interview-with-a-philosopher/work-1",
-    "public/works/interview-with-a-philosopher/未命名/index.html"
+    "public/tw/works/je-suis-pas-fan"
   ]
 }
