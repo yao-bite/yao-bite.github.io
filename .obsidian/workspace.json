@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/vimeo.md",
+                "file": "templates/album.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vimeo"
+              "title": "album"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/lionplaza-lightpool/index.tw.md",
+                "file": "content/cv/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           },
           {
@@ -251,9 +251,14 @@
   },
   "active": "391542e6cf59f02c",
   "lastOpenFiles": [
-    "content/works/je-suis-pas-fan/index.tw.md",
+    "content/works/lionplaza-lightpool/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
+    "content/works/mind-blowing/index.tw.md",
+    "public/works/lionplaza-lightpool/index.html",
+    "public/works/lionplaza-lightpool",
+    "templates/album.md",
     "templates/vimeo.md",
+    "content/works/je-suis-pas-fan/index.tw.md",
     "content/exhibitions/who-is-the-speaker/index.md",
     "README.md",
     "content/works/ontheground/index.md",
@@ -279,23 +284,18 @@
     "content/exhibitions/who-is-the-speaker/2025-ZoneArt-29-2034.webp",
     "content/exhibitions/who-is-the-speaker/2025-ZoneArt-28-1937.webp",
     "content/exhibitions/_index.md",
-    "templates/album.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-an-artist/index.md",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/doublechannel-eyes/index.md",
     "content/works/doublechannel-ii/index.md",
-    "content/works/interview-with-a-philosopher/index.tw.md",
     "public/tw/works/interview-with-a-philosopher/index.html",
     "public/tw/works/interview-with-a-philosopher",
     "public/tw/works/je-suis-pas-fan/index.html",
     "public/tw/works/je-suis-pas-fan",
-    "content/works/interview-with-an-artist/index.tw.md",
     "public/works/interview-with-a-philosopher/index.html",
     "public/works/interview-with-a-philosopher/work-1/index.html",
     "public/works/interview-with-a-philosopher/work-1",
-    "public/works/interview-with-a-philosopher/未命名/index.html",
-    "public/works/interview-with-a-philosopher/未命名",
-    "public/works/interview-with-a-philosopher"
+    "public/works/interview-with-a-philosopher/未命名/index.html"
   ]
 }
