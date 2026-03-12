@@ -24,4 +24,4 @@ Photo by dulub_studio.
 ### *Who is the speaker?* Pei-Yao Lin Solo Exhibition  
 Zone Art, Taoyuan, Taiwan  
 2025  
-(*See more documentation of the exhibition*)
+(See more [about the exhibition](/exhibitions/who-is-the-speaker/))

@@ -56,4 +56,4 @@ Wireless Clock Design: Wilson WU
 ### *Who is the speaker?* LIN Pei-Yao Solo Exhibition
 Zone Art, Taoyuan, Taiwan  
 2025
-(*See more documentation of the exhibition*)
+(See more [about the exhibition](/exhibitions/who-is-the-speaker/))
