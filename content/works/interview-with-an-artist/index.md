@@ -30,10 +30,9 @@ This is an experiment using an interview video from a previous exhibition. The n
 
 {{< vimeo 1064155446 >}}
 ### *Rehearsal for Re-her-sal: Entering the Auditorium*
-Feb 06 - Mar 01, 2025  
 80A Gallery, Taipei, Taiwan  
-Curator: Chun-Lin Yen  
-Artist: Li Shiou-Fen, Gôo Tsong-Tãi, LIN Pei-Yao, Chao Man-Chun, Lin Pei-Yi, Chang Hao-Yuan  
+Group exhibition, 2025
+Curated by Chun-Lin Yen  
 
 This exhibition is part of the *Re-her-sal* series, exploring repetition and
 rehearsal. The word rehearsal is deliberately misspelled as re-her-sal, emphasizing the feminine pronoun "her" and the provocation of the alteration. "Re" suggests both repetition and repair, linking gender performance with artistic experimentation. “Performance” plays on its dual meaning—gender expression and exhibition—while “repetition” connects to daily life, learning, and artistic practice.

@@ -20,7 +20,8 @@ Through this multilayered language game, the fan transforms into a flower, rever
 2025-Philosopher-ZoneArt-8.webp
 2025-Philosopher-ZoneArt-10.webp
 {{< /album >}}
-### *Who is the speaker?* Pei-Yao Lin Solo Exhibition
-Oct 22 - Nov 19 2025  
+Photo by dulub_studio.
+### *Who is the speaker?* Pei-Yao Lin Solo Exhibition  
 Zone Art, Taoyuan, Taiwan  
+2025  
 (*See more documentation of the exhibition*)

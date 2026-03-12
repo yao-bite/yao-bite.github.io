@@ -17,11 +17,10 @@ When we try to understand others, we can only empathize and imagine what others 
 We see others through ourselves and ourselves through others.
 
 This work starts with one performer whispering a monologue. When the second performer joins, they reenact the first performer’s act together, creating an impression of mirroring each other’s solo performance. The work delves into different facets of self-awareness, such as what others might represent in our imagination, what we might appear in others’  imagination, and the image of “myself” that we envision.
-### [2024 Rehearsal for Re-her-sal: Preview](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94?ref=peiyao.run)
+### [Rehearsal for Re-her-sal: Preview](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94?ref=peiyao.run)
 Museum of Contemporary Art Taipei, Taipei, Taiwan  
-Oct 19 - Dec 15  
-Curator | Yen Chun-Lin  
-Artists｜Chao Man-Chun, Cheng Shih-Yung, Genn Lau, Li Shiou-Fen, Lin Pei-Yao
+Group exhibition, 2024
+Curated by Chun-Lin Yen  
 
 {{< youtube "8TN4r2BzLwo" >}}
 
@@ -46,7 +45,6 @@ Artists｜Chao Man-Chun, Cheng Shih-Yung, Genn Lau, Li Shiou-Fen, Lin Pei-Yao
 {{< /album >}}
 
 **Openning Performance**  
-Oct 18  
 
 {{< youtube "PZLqw6IUf84" >}}
 
@@ -64,10 +62,11 @@ Oct 18
 2024-DChannel2-p8-moca.webp
 2024-DChannel2-p9-moca.webp
 {{< /album >}}
+Photo by Wang Shih-Yuan. Courtesy of Museum of Contemporary Art Taipei. 
 
-
-### 2024 The Dual Double-Channel
+### The Dual Double-Channel
 HONG Foundation, Taipei, Taiwan
+2024
 
 {{< album >}}
 2024-DChannel2-1-hong.webp
@@ -86,19 +85,16 @@ HONG Foundation, Taipei, Taiwan
 2024-DChannel2-8-hong.webp
 2024-DChannel2-9-hong.webp
 {{< /album >}}
-
-### Credits
-Director｜LIN Pei-Yao  
-Performers｜Wei Peng, Aihsuan Chou  
-Cinematography｜KO LAIHE  
-Art Design｜LIN Pei-Yao  
-Shooting Assistant｜Yun-Rung Chu  
-On-Site and Post-Production Sound Recording｜Justin Lin  
-Video Editing & Post-Production｜LIN Pei-Yao  
-Sound Design｜Yuchin Chen  
-Audio-Visual Software & Hardware Integration｜Yuchin Chen  
-Rehearsal Footage｜Yun-Rung Chu  
-
-### Image Credits
-Photo by Wang Shih-Yuan. Courtesy of Museum of Contemporary Art Taipei.  
 Photo by Chu Chi-Hung. 
+### Credits
+Director: LIN Pei-Yao  
+Performers: Wei Peng, Aihsuan Chou  
+Cinematography: KO LAIHE  
+Art Design: LIN Pei-Yao  
+Shooting Assistant: Yun-Rung Chu  
+On-Site and Post-Production Sound Recording: Justin Lin  
+Video Editing & Post-Production: LIN Pei-Yao  
+Sound Design: Yuchin Chen  
+Audio-Visual Software & Hardware Integration: Yuchin Chen  
+Rehearsal Footage: Yun-Rung Chu  
+ 

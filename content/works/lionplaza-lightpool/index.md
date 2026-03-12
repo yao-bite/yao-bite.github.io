@@ -25,8 +25,7 @@ In this site-specific work, I wandered through the building wearing a wedding dr
 {{< vimeo 704448072 >}}
 ### I traveled 14km just to close the door for you
 Lion Plaza, Taipei, Taiwan  
-Group show  
-2022  
+Group exhibition, 2022  
 
 ---
 ### Credits

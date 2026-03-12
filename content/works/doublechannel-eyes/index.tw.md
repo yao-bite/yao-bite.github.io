@@ -28,6 +28,7 @@ title: 雙頻道 I：眼睛
 2023-DChannel_I-eyes-14-202580A.webp
 2023-DChannel_I-eyes-13-202580A.webp
 {{< /album >}}
+攝影：蔡之凡  
 ### 2024《雙頻道》林沛瑤個展
 洪建全基金會，臺北，臺灣
 {{< album >}}
@@ -36,6 +37,7 @@ title: 雙頻道 I：眼睛
 2023-DChannel_I-eyes-16-2024Hong.webp
 2023-DChannel_I-eyes-15-2024Hong.webp
 {{< /album >}}
+攝影：朱淇宏  
 ### 2024《自我測試開始》林沛瑤個展
 金車文藝中心承德館，臺北，臺灣  
 {{< album >}}
@@ -44,6 +46,7 @@ title: 雙頻道 I：眼睛
 2023-DChannel_I-eyes-7-2024kingcar.jpg
 2023-DChannel_I-eyes-8-2024kingcar.jpg
 {{< /album >}}
+攝影：朱淇宏  
 
 {{< youtube "8PDUV0klZjw" >}}
 ### 製作名單
