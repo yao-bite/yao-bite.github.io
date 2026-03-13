@@ -50,7 +50,7 @@ dimension: 21’12”
 
 ---
 
-### *Who is the speaker?* 林沛瑤個展  
+### *Who is the speaker?*   
 众藝術，桃園，臺灣  
 2025
 (看更多[展覽紀錄](/tw/exhibitions/who-is-the-speaker/))
