@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "391542e6cf59f02c",
+            "id": "30d06a7cb4f4f7d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
+                "file": "templates/youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "youtube"
+            }
+          },
+          {
+            "id": "96b4547c0620ea30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/works/mind-blowing/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -77,7 +91,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 455.5
   },
   "right": {
     "id": "3f5ea11e9edd07f7",
@@ -140,8 +155,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -149,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "README 的反向連結"
             }
           },
           {
@@ -234,39 +250,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "391542e6cf59f02c",
+  "active": "ece0cd61acfc7dd2",
   "lastOpenFiles": [
-    "content/works/listen-talk/2023-listentalk-2024kmfa-1.tw.webp",
+    "content/works/mind-blowing/index.md",
+    "templates/youtube.md",
+    "content/works/mind-blowing/P0097697.tw.webp",
+    "content/works/listen-talk/index.md",
+    "content/works/mind-blowing/index.tw.md",
+    "public/works/mind-blowing/index.html",
+    "public/works/mind-blowing",
+    "public/tw/works/mind-blowing/P0097718.tw.webp",
+    "public/tw/works/mind-blowing/P0097711.tw.webp",
+    "public/tw/works/mind-blowing/P0097697.tw.webp",
+    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-9.tw.webp",
+    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-8.tw.webp",
+    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-7.tw.webp",
+    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-6.tw.webp",
+    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-5.tw.webp",
+    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-4.tw.webp",
+    "README.md",
+    "content/works/listen-talk/index.tw.md",
+    "content/works/doublechannel-ii/index.md",
+    "content/works/lionplaza-lightpool/index.md",
+    "templates/album.md",
+    "content/works/je-suis-pas-fan/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
-    "content/works/je-suis-pas-fan/index.md",
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/interview-with-a-philosopher/index.md",
-    "content/works/listen-talk/index.tw.md",
-    "content/works/listen-talk/index.md",
-    "content/works/mind-blowing/index.tw.md",
     "content/works/lionplaza-lightpool/index.tw.md",
     "content/works/doublechannel-eyes/index.tw.md",
     "content/works/doublechannel-eyes/index.md",
-    "content/works/doublechannel-ii/index.md",
     "content/works/interview-with-an-artist/index.md",
     "content/works/doublechannel-ii/index.tw.md",
     "content/works/interview-with-an-artist/index.tw.md",
-    "content/works/lionplaza-lightpool/index.md",
     "public/works/listen-talk/index.html",
     "public/works/listen-talk",
-    "content/works/listen-talk/2023-listentalk-2024kmfa-3.tw.webp",
-    "content/works/listen-talk/2023-listentalk-2024kmfa-2.tw.webp",
-    "content/works/listen-talk/2023-listentalk-2024kingcar-combine.tw.webp",
-    "content/works/listen-talk/2023-listentalk-2024kingcar-5.tw.webp",
-    "content/works/listen-talk/2023-listentalk-2024kingcar-4.tw.webp",
-    "content/works/listen-talk/2023-listentalk-2024kingcar-3.tw.webp",
-    "content/works/listen-talk/2023-listentalk-2024kingcar-2.tw.webp",
-    "content/works/listen-talk/2023-listentalk-2024kingcar-1.tw.webp",
-    "public/tw/works/listen-talk/2023-listentalk-2024kingcar-1.tw.webp",
-    "templates/album.md",
-    "README.md",
     "ghost-images/2023/12/DSC_0313-2.webp.md",
     "ghost-images/2023/12",
     "ghost-images/2023",
@@ -277,9 +297,6 @@
     "public/tw/exhibitions/2025-who-is-the-speaker/index.html",
     "public/tw/exhibitions/2025-who-is-the-speaker",
     "public/exhibitions/2025-who-is-the-speaker/index.html",
-    "public/exhibitions/2025-who-is-the-speaker",
-    "content/exhibitions/the-dual-double-channel/index.tw.md",
-    "public/works/lionplaza-lightpool/index.html",
-    "templates/vimeo.md"
+    "content/exhibitions/the-dual-double-channel/index.tw.md"
   ]
 }
