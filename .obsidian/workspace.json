@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e668d077a9cf4e5d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/works/ontheground/2020-OnTheGround-1-2024kingcar-65824.webp"
+              },
+              "icon": "lucide-image",
+              "title": "2020-OnTheGround-1-2024kingcar-65824"
+            }
+          },
+          {
             "id": "96b4547c0620ea30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/mind-blowing/index.md",
+                "file": "content/exhibitions/2025-who-is-the-speaker/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -75,20 +87,6 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "e668d077a9cf4e5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/works/mind-blowing/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
             }
           }
         ],
@@ -250,38 +248,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b44138c16bd0ae57",
+  "active": "96b4547c0620ea30",
   "lastOpenFiles": [
-    "README.md",
-    "content/works/mind-blowing/index.md",
-    "content/works/mind-blowing/index.tw.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
+    "content/works/ontheground/index.tw.md",
+    "content/works/ontheground/index.md",
+    "content/works/who-is-the-speaker/index.md",
+    "content/works/ontheground/2020-OnTheGround-1-2024kingcar-65824.webp",
     "templates/youtube.md",
-    "content/works/mind-blowing/P0097697.tw.webp",
+    "content/works/ontheground/2020-OnTheGround-screenshot-1.webp",
+    "templates/album.md",
+    "content/works/ontheground/2020-OnTheGround-2-2024kingcar-65902.webp",
+    "content/works/ontheground/2020-OnTheGround-screenshot-3.webp",
+    "content/works/ontheground/2020-OnTheGround-screenshot-2.webp",
+    "public/works/ontheground/2020-OnTheGround-screenshot-5.webp",
+    "public/works/ontheground/2020-OnTheGround-screenshot-4.webp",
+    "public/works/ontheground/2020-OnTheGround-screenshot-3.webp",
+    "public/works/ontheground/2020-OnTheGround-screenshot-2.webp",
+    "public/works/ontheground/2020-OnTheGround-screenshot-1.webp",
+    "content/works/doublechannel-eyes/index.md",
+    "content/works/mind-blowing/index.md",
+    "public/works/ontheground/index.html",
+    "public/works/ontheground",
+    "content/works/mind-blowing/index.tw.md",
+    "README.md",
     "content/works/listen-talk/index.md",
     "public/works/mind-blowing/index.html",
     "public/works/mind-blowing",
-    "public/tw/works/mind-blowing/P0097718.tw.webp",
-    "public/tw/works/mind-blowing/P0097711.tw.webp",
-    "public/tw/works/mind-blowing/P0097697.tw.webp",
-    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-9.tw.webp",
-    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-8.tw.webp",
-    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-7.tw.webp",
-    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-6.tw.webp",
-    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-5.tw.webp",
-    "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-4.tw.webp",
     "content/works/listen-talk/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/lionplaza-lightpool/index.md",
-    "templates/album.md",
     "content/works/je-suis-pas-fan/index.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
     "content/works/doublechannel-eyes/index.tw.md",
-    "content/works/doublechannel-eyes/index.md",
     "content/works/interview-with-an-artist/index.md",
     "content/works/doublechannel-ii/index.tw.md",
     "content/works/interview-with-an-artist/index.tw.md",
@@ -291,12 +294,6 @@
     "ghost-images/2023/12",
     "ghost-images/2023",
     "ghost-images",
-    "content/cv/index.tw.md",
-    "content/cv/index.md",
-    "content/exhibitions/the-dual-double-channel/index.md",
-    "public/tw/exhibitions/2025-who-is-the-speaker/index.html",
-    "public/tw/exhibitions/2025-who-is-the-speaker",
-    "public/exhibitions/2025-who-is-the-speaker/index.html",
-    "content/exhibitions/the-dual-double-channel/index.tw.md"
+    "public/tw/exhibitions/2025-who-is-the-speaker/index.html"
   ]
 }

@@ -1,53 +1,57 @@
 ---
+title: On the Ground
 categories:
-date: 2023-02-28T04:20:59+08:00
+date: 2020-02-01T15:15:09+08:00
 description: The repeated gesture of the carving hands is like sorcery that mediates between the fantasy world and the real world, praying to be disembodied to enter the other world
 draft: false
-image: /ghost-images/2023/02/on-the-ground_2020_6.webp
-slug: ontheground-en
+image: 2020-OnTheGround-screenshot-3.webp
 tags:
-title: On the Ground (2020)
+medium: single-channel video
+dimensions: 03’26”
 ---
+I appropriated a scene from Disney’s _Alice in Wonderland_ (1951), in which Alice falls down the rabbit hole, and projected it onto the cross-section of a tree stump. Meanwhile, I carved into the stump’s surface, as if trying to carve out a hole for her.  
 
-[中文版](__GHOST_URL__/ontheground/)
-## 2020
+During the fall, Alice appears both amazed and excited, with no trace of fear in her voice. She speaks to herself as if two selves were in dialogue—one reminding her that what she is doing is improper, while the other remains fascinated by the unknown. Standing outside the image and gazing at her, we participate in the fall through our imagination. At the same time, we seem to inhabit two bodies: one inside and one outside the rabbit hole.  
 
-### double-channel video installation, TNCAA, Underground Gallery, Taipei, Taiwan
+{{< youtube "Y7dlGuN0NYE" >}}
 
-![None](/ghost-images/2023/02/on-the-ground_2020_3.webp)
+{{< album >}}
+2020-OnTheGround-screenshot-1.webp
+2020-OnTheGround-screenshot-2.webp
+2020-OnTheGround-screenshot-4.webp
+2020-OnTheGround-screenshot-5.webp
+{{< /album >}}
 
-![None](/ghost-images/2023/02/on-the-ground_2020_4.webp)
+### Self-Testing Starts
+King Car Cultural & Art Center, Taipei, Taiwan  
+2024
 
-![None](/ghost-images/2023/02/on-the-ground_2020_5.webp)
+{{< album >}}
+2020-OnTheGround-1-2024kingcar-65824.webp
+2020-OnTheGround-2-2024kingcar-65902.webp
+{{< /album >}}
+Photo by CHU Chi-Hung.  
 
-This clip is repeatedly projected onto a tree trunk. When Alice from Alice in Wonderland discovered the rabbit hole underneath a tree, she crawled and fell into it. At the same time, a pair of hands were trying to carve into the tree trunk during the projection.
+### Undergraduate Degree Show
+Taipei National University of the Arts, Taipei, Taiwan  
+2020  
 
-Alice was very excited during the fall and without any fear. She talked to herself as if her two egos were talking. On the one hand, she reminded herself that she was impolite and not invited. On the other hand, she felt fascinated by the new things that were about to happen.
+{{< album >}}
+/ghost-images/2023/02/on-the-ground_2020_3.webp
+/ghost-images/2023/02/on-the-ground_2020_4.webp
+/ghost-images/2023/02/on-the-ground_2020_5.webp
+{{< /album >}}
 
-The second voice, whispering without emotion at first, repeated Alice's words but became intense and frightened as the clip repeated for the second time. Right next to the trunk, the girl in a black dress, holding a telescope (or a small projector), seems to be wandering on the ground or trying to find an entrance to "Wonderland". However, as she seemed to find a "hole", we couldn't be sure whether there was a real entrance or if it was only an image the girl projected.
+{{< album >}}
+/ghost-images/2021/02/200526183912-mini-sRGB--.webp
+/ghost-images/2023/02/on-the-ground_2020_1.webp
+/ghost-images/2023/02/on-the-ground_2020_7.webp
+/ghost-images/2023/02/on-the-ground_2020_8.webp
+/ghost-images/2023/02/on-the-ground_2020_9.webp
+{{< /album >}}
+Photo by CHU Chi-Hung.  
 
-![None](/ghost-images/2023/02/on-the-ground_2020_7.webp)
-
-![None](/ghost-images/2023/02/on-the-ground_2020_8.webp)
-
-![None](/ghost-images/2023/02/on-the-ground_2020_9.webp)
-
-![None](/ghost-images/2023/02/on-the-ground_2020_1.webp)
-
-## video/03’26”/2020
-
-The repeated gesture of the carving hands is like sorcery that mediates between the fantasy world and the real world, praying to be disembodied to enter the other world, transforming the imagination of *Alice in Wonderland*, from the crossing physical body to a conscious body that is duplicated while gazing at the image.
-
-Featuring   TSAI Yun-Ju  
-
-Video Synchronization   Wancat LIN  
-
-Photo records   CHU Chi-Hung  
-
-Video records   LIN Yan-Xiang
-
-> 
-
-林沛瑤   作品  
-
-A WORK BY Lin Pei-Yao
+**Double-channel video installation version**  
+Featuring: Tsai Yun-Ju  
+Video Synchronization: Justin LIN  
+Video documentation: LIN Yan-Xiang  

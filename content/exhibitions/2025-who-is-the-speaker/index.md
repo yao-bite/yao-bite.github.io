@@ -53,7 +53,7 @@ Performed on Oct 26 opening reception
 ### Credits 
 **Exhibition Team**  
 Exhibition Visual Design: Sunnydance Co.  
-Marketing Planning & Execution: Sydney Lee  
+Event Promotion Plan & Execution: Sydney Lee  
 Exhibition Installation Design & Production: Sam Yong, William Hou  
 Installation Assistance: Chien Li-Yun, Kuo Chia-Huang, Sam Yong, Kuo En-Shuo, Wilson WU  
 Computer Environment Setup: Justin LIN, Wilson WU  

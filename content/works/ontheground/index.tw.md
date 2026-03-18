@@ -1,54 +1,57 @@
 ---
-date: "2021-01-20T15:54:33+08:00"
-description: 在墜落的過程中愛麗絲既驚奇又興奮、聲調感受不到絲毫恐懼，而她念著的話語也極有意思，彷彿有兩個她的自我在彼此對話，提醒自己這樣做並不恰當，卻又對未知感到著迷
+title: 離開地球表面
+categories:
+date: 2020-02-01T15:15:09+08:00
+description: The repeated gesture of the carving hands is like sorcery that mediates between the fantasy world and the real world, praying to be disembodied to enter the other world
 draft: false
-image: /ghost-images/2021/02/200526183912-mini-sRGB--.webp
-slug: ontheground
+image: 2020-OnTheGround-screenshot-3.webp
 tags:
-- works
-- '#Import 2023-01-29 03:01'
-title: 離開地球表面  On the Ground（2020）
+medium: 單頻道錄像
+dimensions: 03’26”
 ---
+我挪用了迪士尼動畫《愛麗絲漫遊奇境》（1951）中愛麗絲掉入兔子洞的片段，將這段影像投影在一棵樹墩剖面上，並同時以雕刻刀對著影像鑿刻，彷彿試著為愛麗絲挖出一個洞。
 
-[ENGLISH VERSION](__GHOST_URL__/ontheground-en/)
-### 2020
+在墜落的過程中，愛麗絲既驚奇又興奮，喃喃自語的聲調感受不到絲毫恐懼。她一面提醒自己這樣做並不恰當，卻又對未知的世界感到好奇，彷彿有兩個自我在對話。站在影像外的我們一面凝視著她，同時透過心智的參與，想像自己與她一齊墜落。與此同時，我們好像也獲得了兩個身體，一個在洞內而一個在洞外。  
 
-##### 雙頻道錄像裝置，台北國際當代一年展，地下美術館，台北，台灣
+{{< youtube "Y7dlGuN0NYE" >}}
 
-![None](/ghost-images/2021/01/200526183431-mini-sRGB--.webp)
+{{< album >}}
+2020-OnTheGround-screenshot-1.webp
+2020-OnTheGround-screenshot-2.webp
+2020-OnTheGround-screenshot-4.webp
+2020-OnTheGround-screenshot-5.webp
+{{< /album >}}
 
-![None](/ghost-images/2021/01/200526183511-mini-sRGB--.webp)
+### 自我測試開始
+金車文藝中心承德館，臺北，臺灣  
+2024
 
-![None](/ghost-images/2021/02/200526183357-mini-sRGB--.webp)
+{{< album >}}
+2020-OnTheGround-1-2024kingcar-65824.webp
+2020-OnTheGround-2-2024kingcar-65902.webp
+{{< /album >}}
+Photo by CHU Chi-Hung.  
 
-《愛麗絲漫遊奇境》中，愛麗絲發現樹洞並墜入樹洞的過程，一邊被重複循環地投影在樹墩的剖面上，一邊則有一雙雕刻的手，用雕刻刀試著在上面挖一個洞。
+### 美術系大學部畢業展
+國立臺北藝術大學，臺北，臺灣  
+2020  
 
-在墜落的過程中愛麗絲既驚奇又興奮、聲調感受不到絲毫恐懼，而她念著的話語也極有意思，彷彿有兩個她的自我在彼此對話，提醒自己這樣做並不恰當，卻又對未知感到著迷。
+{{< album >}}
+/ghost-images/2023/02/on-the-ground_2020_3.webp
+/ghost-images/2023/02/on-the-ground_2020_4.webp
+/ghost-images/2023/02/on-the-ground_2020_5.webp
+{{< /album >}}
 
-第二個聲音，如同重複看著同一部童年常看的卡通，無意識地呢喃著爛熟的台詞；然而隨著愛麗絲再次進入洞內，聲音卻逐漸變得高昂而恐懼。另一頻道中身穿黑衣的女孩，手上拿著一台望遠鏡（或一台投影機），像是在地表上無目的地漫遊，也像在找尋地下奇境的入口；最終，似乎真的找到了一個洞口，卻分不清是現實，還是只是女孩所投出的另一個影像。
+{{< album >}}
+/ghost-images/2021/02/200526183912-mini-sRGB--.webp
+/ghost-images/2023/02/on-the-ground_2020_1.webp
+/ghost-images/2023/02/on-the-ground_2020_7.webp
+/ghost-images/2023/02/on-the-ground_2020_8.webp
+/ghost-images/2023/02/on-the-ground_2020_9.webp
+{{< /album >}}
+攝影：朱淇宏 
 
-![None](/ghost-images/2021/01/200526183921-mini-sRGB--.webp)
-
-![None](/ghost-images/2021/01/200526183928-mini-sRGB--.webp)
-
-![None](/ghost-images/2021/02/200526184005-mini-sRGB--.webp)
-
-![None](/ghost-images/2021/02/200526182956-mini-sRGB--.webp)
-
-### 離開地球表面／單頻道錄像／03’26”／2020
-
-手對影像的反覆鑿刻，彷彿是中介幻想中的異世界與現實世界的巫術，祈求著將自己的肉身「去肉身化」以進入異世界，將《愛麗絲漫遊奇境》對身體穿越的想像，轉化爲凝視著影像複生而出的意識身體。
-
-演出 蔡昀儒  
-
-影像同步 林宏信  
-
-靜態紀錄攝影 朱淇宏  
-
-動態紀錄攝影 林彥翔
-
-> 
-
-林沛瑤 作品  
-
-A WORK BY Lin Pei-Yao
+**雙頻道影像裝置版（2020）**  
+演出｜蔡昀儒  
+影像同步｜林宏信  
+動態紀錄攝影｜林彥翔 
