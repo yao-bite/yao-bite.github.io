@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d06a7cb4f4f7d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/youtube.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "youtube"
-            }
-          },
-          {
             "id": "96b4547c0620ea30",
             "type": "leaf",
             "state": {
@@ -90,9 +76,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "e668d077a9cf4e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/works/mind-blowing/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/works/mind-blowing/index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向連結"
+              "title": "index 的反向連結"
             }
           },
           {
@@ -250,13 +250,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ece0cd61acfc7dd2",
+  "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
+    "README.md",
     "content/works/mind-blowing/index.md",
+    "content/works/mind-blowing/index.tw.md",
     "templates/youtube.md",
     "content/works/mind-blowing/P0097697.tw.webp",
     "content/works/listen-talk/index.md",
-    "content/works/mind-blowing/index.tw.md",
     "public/works/mind-blowing/index.html",
     "public/works/mind-blowing",
     "public/tw/works/mind-blowing/P0097718.tw.webp",
@@ -268,7 +269,6 @@
     "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-6.tw.webp",
     "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-5.tw.webp",
     "public/tw/works/mind-blowing/2023-mindblowing-2024kingcar-4.tw.webp",
-    "README.md",
     "content/works/listen-talk/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/lionplaza-lightpool/index.md",
