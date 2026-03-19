@@ -56,4 +56,4 @@ Wireless Clock Design: Wilson WU
 ### *Who is the speaker?* 
 Zone Art, Taoyuan, Taiwan  
 2025
-(See more [about the exhibition](/exhibitions/who-is-the-speaker/))
+(See more [about the exhibition](/exhibitions/2025-who-is-the-speaker/))
