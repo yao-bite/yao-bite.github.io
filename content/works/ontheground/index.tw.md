@@ -30,7 +30,7 @@ dimensions: 03’26”
 2020-OnTheGround-1-2024kingcar-65824.webp
 2020-OnTheGround-2-2024kingcar-65902.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.  
+攝影：朱淇宏  
 
 ### 美術系大學部畢業展
 國立臺北藝術大學，臺北，臺灣  

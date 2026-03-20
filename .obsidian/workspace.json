@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2025-who-is-the-speaker/index.md",
+                "file": "content/works/ontheground/index.tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.tw"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,14 +262,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fd45bee26a6d2588",
+  "active": "96b4547c0620ea30",
   "lastOpenFiles": [
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
+    "README.md",
+    "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
-    "README.md",
     "content/works/ontheground/index.tw.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/works/ontheground/index.md",
     "content/works/who-is-the-speaker/index.md",
@@ -296,7 +297,6 @@
     "content/works/listen-talk/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/lionplaza-lightpool/index.md",
-    "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/lionplaza-lightpool/index.tw.md",
     "content/works/doublechannel-eyes/index.tw.md",
     "content/works/interview-with-an-artist/index.md",
