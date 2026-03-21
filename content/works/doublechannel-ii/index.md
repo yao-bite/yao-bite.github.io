@@ -91,13 +91,11 @@ Photo by Chu Chi-Hung.
 
 ---
 ### Credits
-Director: LIN Pei-Yao  
+Writer, Director, Art Designer, Editor: LIN Pei-Yao  
 Performers: Wei Peng, Aihsuan Chou  
 Cinematography: KO LAIHE  
-Art Design: LIN Pei-Yao  
 Shooting Assistant: Yun-Rung Chu  
 On-Site and Post-Production Sound Recording: Justin Lin  
-Video Editing & Post-Production: LIN Pei-Yao  
 Sound Design: Yuchin Chen  
 Audio-Visual Software & Hardware Integration: Yuchin Chen  
 Rehearsal Footage: Yun-Rung Chu  

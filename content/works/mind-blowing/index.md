@@ -19,9 +19,9 @@ This is a theater of interaction between oneself and one's own body, playing bet
 
 Hello, friend. Talk to me. Listen to me. In this era, everyone speaks alone to the countless absent others.
 
-### Self-Testing Starts
-King Car Cultural & Art Center, Taipei, Taiwan  
-2024  
+---
+###  2024 *Self-Testing Starts*
+King Car Cultural & Art Center, Taipei, Taiwan    
 {{< album >}}
 2023-mindblowing-2024kingcar-1.webp
 2023-mindblowing-2024kingcar-4.webp
@@ -41,9 +41,9 @@ King Car Cultural & Art Center, Taipei, Taiwan
 {{< /album >}}
 Photo by Chu Chi-Hung. 
 
+---
 ### 2024 Kaohsiung Award
 Kaohsiung Museum of Fine Arts, Kaohsiung, Taiwan
-2024
 {{< album >}}
 P0097718.webp
 P0097697.webp
@@ -52,12 +52,11 @@ P0097711.webp
 Photo by Studio Millspace. Courtesy of Kaohsiung Museum of Fine Arts.
 
 {{< youtube "ym2zG9nvxvI" >}}
+Filmed by KO LAIHE. Edited by LIN Pei-Yao.
+
+---
 ### Credits
 Writer, Director, Performer & Editor: LIN Pei-Yao  
 Cinematography: KO LAIHE  
 3D model scanning: WU Yi-Jhen  
 3D scanning clip shooting: SHIH Li-Jia  
-
-### Exhibition View
-Video Documentation: KO LAIHE  
-Editing: LIN Pei-Yao
