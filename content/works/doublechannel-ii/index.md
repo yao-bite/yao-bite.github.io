@@ -16,13 +16,14 @@ When we try to understand others, we can only empathize and imagine what others 
 
 We see others through ourselves and ourselves through others.
 
-This work starts with one performer whispering a monologue. When the second performer joins, they reenact the first performer’s act together, creating an impression of mirroring each other’s solo performance. The work delves into different facets of self-awareness, such as what others might represent in our imagination, what we might appear in others’  imagination, and the image of “myself” that we envision.
-### [Rehearsal for Re-her-sal: Preview](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94?ref=peiyao.run)
-Museum of Contemporary Art Taipei, Taipei, Taiwan  
-Group exhibition, 2024
-Curated by Chun-Lin Yen  
+This work starts with one performer whispering a monologue. When the second performer joins, they reenact the first performer’s act together, creating an impression of mirroring each other’s solo performance. The work delves into different facets of self-awareness, such as what others might represent in our imagination, what we might appear in others’  imagination, and the image of “myself” that we envision.  
 
+---
+#### 2024 [Rehearsal for Re-her-sal: Preview](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94?ref=peiyao.run)
+Museum of Contemporary Art Taipei, Taipei, Taiwan (group exhibition)  
+Curated by Chun-Lin Yen. 
 {{< youtube "8TN4r2BzLwo" >}}
+Filmed & Edited by LIN Pei-Yao.
 
 {{< album >}}
 2024-DChannel2-3-moca.webp
@@ -47,6 +48,7 @@ Curated by Chun-Lin Yen
 **Openning Performance**  
 
 {{< youtube "PZLqw6IUf84" >}}
+Filmed & Edited by I-Shun Chen.
 
 {{< album >}}
 2024-DChannel2-p1-moca.webp
@@ -64,9 +66,9 @@ Curated by Chun-Lin Yen
 {{< /album >}}
 Photo by Wang Shih-Yuan. Courtesy of Museum of Contemporary Art Taipei. 
 
-### The Dual Double-Channel
-HONG Foundation, Taipei, Taiwan
-2024
+---
+### 2024 The Dual Double-Channel
+HONG Foundation, Taipei, Taiwan  
 
 {{< album >}}
 2024-DChannel2-1-hong.webp
@@ -86,6 +88,8 @@ HONG Foundation, Taipei, Taiwan
 2024-DChannel2-9-hong.webp
 {{< /album >}}
 Photo by Chu Chi-Hung. 
+
+---
 ### Credits
 Director: LIN Pei-Yao  
 Performers: Wei Peng, Aihsuan Chou  

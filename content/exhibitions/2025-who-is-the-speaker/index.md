@@ -30,7 +30,7 @@ As words merge into thought and thought becomes word, an indistinct speaker quie
 2025-ZoneArt-1.webp
 2025-ZoneArt-4.webp
 {{< /album >}}
-*Inter-View with a Philosopher* (three-channel audio spatial installation with video)
+*[Inter-View with a Philosopher](/works/interview-with-a-philosopher/)* (Photo by Sun Yi-Ching, dulub_studio)
 
 {{< album >}}
 2025-ZoneArt-17-0538.webp
@@ -38,8 +38,7 @@ As words merge into thought and thought becomes word, an indistinct speaker quie
 2025-ZoneArt-19-0598.webp
 2025-ZoneArt-23-0921.webp
 {{< /album >}}
-*Who is the speaker?* Guided Tour Performance (speech-recognition interactive program, live performance, microphone, smart lighting, afternoon tea)  
-Performed on Oct 26 opening reception
+*Who is the speaker?* Guided Tour Performance (Performed on Oct 26 opening reception. Photo by Sun Yi-Ching.)
 
 {{< album >}}
 2025-ZoneArt-6.webp
@@ -47,9 +46,10 @@ Performed on Oct 26 opening reception
 2025-PasFan-ZoneArt-3-1873.webp
 2025-PasFan-ZoneArt-4-1805.webp
 {{< /album >}}
-*Je suis pas fan* (single-channel video)
+*[Je suis pas fan](tw/works/je-suis-pas-fan/)* (Photo by dulub_studio, Sun Yi-Ching)
 
 {{< youtube "mKmAC1MVB6E" >}}
+Filmed by Cheng Hsiang Yun, LIN Pei-Yao. Edited by LIN Pei-Yao.  
 ### Credits 
 **Exhibition Team**  
 Exhibition Visual Design: Sunnydance Co.  
@@ -58,13 +58,6 @@ Exhibition Installation Design & Production: Sam Yong, William Hou
 Installation Assistance: Chien Li-Yun, Kuo Chia-Huang, Sam Yong, Kuo En-Shuo, Wilson WU  
 Computer Environment Setup: Justin LIN, Wilson WU  
 
-**Photo & Video Documentation**  
-Exhibition View (Photo): dulub_studio  
-Exhibition View (Video): Cheng Hsiang Yun, LIN Pei-Yao  
-Video Documentation Editing: LIN Pei-Yao  
-Opening Photo Documentation: Sun Yi-Ching  
-Opening Video Documentation: Cheng Hsiang Yun  
-
 **Sponsors & Co-Organizers**  
 Sponsor: National Culture and Arts Foundation  
 Co-organizers: Zone Art, Taoyuan Department of Cultural Affairs  
@@ -72,6 +65,6 @@ Co-organizers: Zone Art, Taoyuan Department of Cultural Affairs
 ---
 ### Links
 * [Press Release](https://docs.google.com/document/d/e/2PACX-1vQbybB6bAqqFeAhEPxodH5Clo1vXYTsMKSrO70s1HmmWUblPo0ln1YjEVj564o_QvqqnvS_OMp9X7rK/pub)  
-* [霧，話語，我活的所在──關於I╱AI：台灣當代藝術情境，2025年一篇局部的年度觀察（線上節錄版）](https://artist-magazine.com/edcontent_d.php?lang=tw&tb=8&id=30356)by Taisung Chen (陳泰松)
+* [霧，話語，我活的所在──關於I╱AI：台灣當代藝術情境，2025年一篇局部的年度觀察 (excerpt)](https://artist-magazine.com/edcontent_d.php?lang=tw&tb=8&id=30356) by Taisung Chen (陳泰松)
 * [喝杯茶吧！或許我們(看展)不需強迫自己如此專注：《Who is the speaker?》觀後雜談](https://www.instagram.com/p/DQq2N2-Ec_m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) by Ke Siao Ru (柯曉如)
 * [Visit Moments (hankdopaint)](https://www.instagram.com/reel/DQ15OhdDuZm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)

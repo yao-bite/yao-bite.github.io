@@ -10,13 +10,16 @@ title: Inter-View with an Artist
 medium: "Interview footage from Re-her-sal: Preview"
 dimensions: 07’49”
 ---
-*A pilot work for Inter-View with a Philosopher*
-
 ![](2025-80Agallery-11.tw.webp)
 
 When watching interview videos without subtitles, I often find myself lost in the expressions and body language of the speakers, occasionally missing parts of their speech. Interestingly, these interviews not only exclude the interviewer from the frame but also remove their questions, leaving the interviewee seemingly speaking to themselves.
 
 When only the answers remain, what were the questions?  
+This is an experiment using an interview video from a previous exhibition. The next interviewee will be a philosopher.
+
+### 2025 *Rehearsal for Re-her-sal: Entering the Auditorium*
+80A Gallery, Taipei, Taiwan (group exhibition)  
+Curated by Chun-Lin Yen.  
 
 {{< album >}}
 2025-80Agallery-15.webp
@@ -25,20 +28,12 @@ When only the answers remain, what were the questions?
 2025-80Agallery-13.webp
 2025-80Agallery-2.webp
 {{< /album >}}
-
-This is an experiment using an interview video from a previous exhibition. The next interviewee will be a philosopher.
+Photo by Tsai Chih-Fan.
 
 {{< vimeo 1064155446 >}}
-### *Rehearsal for Re-her-sal: Entering the Auditorium*
-80A Gallery, Taipei, Taiwan  
-Group exhibition, 2025
-Curated by Chun-Lin Yen  
+Filmed by  I-Shun Chen. Edited by LIN Pei-Yao.
 
-This exhibition is part of the *Re-her-sal* series, exploring repetition and
-rehearsal. The word rehearsal is deliberately misspelled as re-her-sal, emphasizing the feminine pronoun "her" and the provocation of the alteration. "Re" suggests both repetition and repair, linking gender performance with artistic experimentation. “Performance” plays on its dual meaning—gender expression and exhibition—while “repetition” connects to daily life, learning, and artistic practice.
-
-The subtitle *Entering the Auditorium* references the theater moment when audiences enter before a performance begins. This waiting period highlights how an artwork is not just viewed but activated through participation.
-
+---
 ### Credits
 Editing & Audio Mixing: LIN Pei-Yao    
 Programming: Justin LIN  
@@ -48,8 +43,3 @@ Exhibition: *Rehearsal for Re-her-sal: Preview*
 Curator: Chun-Lin Yen  
 Interviewer: Chun-Lin Yen  
 Videographer: I-Shun Chen
-
-**Exhibition Documentation**  
-Photography: Tsai Chih-Fan  
-Video Documentation: I-Shun Chen
-Editing: LIN Pei-Yao  

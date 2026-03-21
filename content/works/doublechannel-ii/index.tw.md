@@ -17,12 +17,14 @@ dimensions: 08’37”
 我們用自己觀看他人，用他人觀看自己。  
 
 本作由一位表演者喃喃自語的獨白展開，隨著第二位表演者進場，兩人再次演繹先前的動作，使得雙人表演就像是單人表演的鏡像反饋，藉此探索個體自我意識的多重層面：我想像中的他人，想像中他人眼中的我，以及「我」想像中的我。
-### [反覆演練Re-her-sal：預演](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94?ref=peiyao.run)
-台北當代藝術館，臺北，臺灣  
-聯展，2024  
-策展人｜嚴淳齡  
+
+---
+### 2024 [反覆演練Re-her-sal：預演](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94?ref=peiyao.run)
+台北當代藝術館，臺北，臺灣（聯展）  
+策展：嚴淳齡  
 
 {{< youtube "8TN4r2BzLwo" >}}
+拍攝與剪輯：林沛瑤
 
 {{< album >}}
 2024-DChannel2-3-moca.webp
@@ -47,6 +49,7 @@ dimensions: 08’37”
 **開幕演出**   
 
 {{< youtube "PZLqw6IUf84" >}}
+拍攝與剪輯：陳儀勳
 
 {{< album >}}
 2024-DChannel2-p1-moca.webp
@@ -64,9 +67,9 @@ dimensions: 08’37”
 {{< /album >}}
 攝影：王士源／圖片來源：台北當代藝術館
 
-### 雙頻道
-洪建全基金會，臺北，臺灣
-2024
+---
+### 2024 雙頻道
+洪建全基金會，臺北，臺灣  
 
 {{< album >}}
 2024-DChannel2-1-hong.webp
@@ -86,9 +89,11 @@ dimensions: 08’37”
 2024-DChannel2-9-hong.webp
 {{< /album >}}
 攝影：朱淇宏
+
+---
 ### 製作名單
 編導｜林沛瑤  
-表演者｜彭葳、周艾萱  
+表演者｜彭葳 周艾萱  
 攝影｜高來河  
 美術｜林沛瑤  
 拍攝助理｜朱韻蓉  

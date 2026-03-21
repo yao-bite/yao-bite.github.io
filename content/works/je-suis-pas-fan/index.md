@@ -21,7 +21,5 @@ Through this multilayered language game, the fan transforms into a flower, rever
 2025-Philosopher-ZoneArt-10.webp
 {{< /album >}}
 Photo by dulub_studio.
-### *Who is the speaker?* 
+### 2025 *[Who is the speaker?](/exhibitions/2025-who-is-the-speaker/)* 
 Zone Art, Taoyuan, Taiwan  
-2025  
-(See more [about the exhibition](/exhibitions/2025-who-is-the-speaker/))
