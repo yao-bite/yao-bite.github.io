@@ -44,7 +44,7 @@ Underground Gallery, TNUA, Taipei, Taiwan
 Photo by CHU Chi-Hung.
 
 {{< youtube "wI4_Z2AdpzA" >}}
-Filmed by KO LAIHE. Edited by LIN Pei-Yao.
+Exhibition View (filmed by KO LAIHE; edited by LIN Pei-Yao)
 
 ---
 ### Credits

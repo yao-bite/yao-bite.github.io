@@ -28,7 +28,7 @@ Zone Art, Taoyuan, Taiwan
 Photo by dulub_studio.
 
 {{< youtube "CTOmMn235gI" >}}
-Exhibition View (Filmed by Cheng Hsiang Yun, LIN Pei-Yao. Edited by LIN Pei-Yao)
+Exhibition view (filmed by Cheng Hsiang Yun, LIN Pei-Yao; edited by LIN Pei-Yao)
 
 ---
 
