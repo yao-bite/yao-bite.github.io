@@ -11,12 +11,14 @@
             "id": "e668d077a9cf4e5d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/works/roadmovie/2021-roadmovie-2024kingcar-14.tw.webp"
+                "file": "templates/vimeo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "2021-roadmovie-2024kingcar-14.tw"
+              "icon": "lucide-file",
+              "title": "vimeo"
             }
           },
           {
@@ -25,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/roadmovie/index.md",
+                "file": "content/works/stingedfigures/index.tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.tw"
             }
           },
           {
@@ -264,11 +266,17 @@
   },
   "active": "96b4547c0620ea30",
   "lastOpenFiles": [
+    "content/works/stingedfigures/index.md",
+    "content/works/stingedfigures/index.tw.md",
+    "public/works/stingedfigures/index.html",
+    "public/works/stingedfigures",
+    "templates/vimeo.md",
+    "templates/album.md",
+    "content/works/roadmovie/2021-roadmovie-2024kingcar-14.tw.webp",
+    "content/works/roadmovie/index.md",
     "public/works/roadmovie/index.html",
     "public/works/roadmovie",
     "content/works/roadmovie/index.tw.md",
-    "content/works/roadmovie/index.md",
-    "content/works/roadmovie/2021-roadmovie-2024kingcar-14.tw.webp",
     "content/works/roadmovie/2021-roadmovie-2024kingcar-8.tw.webp",
     "content/works/roadmovie/2021-roadmovie-2024kingcar-9.tw.webp",
     "content/works/roadmovie/2021-roadmovie-2024kingcar-10.tw.webp",
@@ -278,7 +286,6 @@
     "content/works/roadmovie/2021-roadmovie-2024kingcar-2.tw.webp",
     "content/works/roadmovie/2021-roadmovie-2024kingcar-3.tw.webp",
     "content/works/roadmovie/2021-roadmovie-2024kingcar-5.tw.webp",
-    "templates/album.md",
     "templates/youtube.md",
     "content/works/ontheground/index.md",
     "content/works/ontheground/index.tw.md",
@@ -298,17 +305,11 @@
     "content/exhibitions/2021-run-into-my-cell/index.tw.md",
     "content/works/interview-with-an-artist/index.tw.md",
     "content/works/interview-with-an-artist/index.md",
-    "tw/exhibitions/2025-who-is-the-speaker.md",
     "tw/exhibitions",
     "tw",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
-    "content/works/givemefive/index.tw.md",
     "public/works/ontheground/index.html",
     "public/works/ontheground",
     "public/works/mind-blowing/index.html",
-    "public/works/mind-blowing",
-    "public/works/listen-talk/index.html",
-    "public/works/listen-talk",
-    "ghost-images/2023/12"
+    "public/works/mind-blowing"
   ]
 }
