@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/vimeo.md",
+                "file": "templates/youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vimeo"
+              "title": "youtube"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/stingedfigures/index.tw.md",
+                "file": "content/cv/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -266,11 +266,17 @@
   },
   "active": "96b4547c0620ea30",
   "lastOpenFiles": [
+    "content/cv/index.md",
+    "content/cv/index.tw.md",
+    "__GHOST_URL__/2024-self-testing-starts.md",
+    "__GHOST_URL__",
+    "I Believe It Anyway.md",
     "content/works/stingedfigures/index.md",
     "content/works/stingedfigures/index.tw.md",
+    "templates/youtube.md",
+    "templates/vimeo.md",
     "public/works/stingedfigures/index.html",
     "public/works/stingedfigures",
-    "templates/vimeo.md",
     "templates/album.md",
     "content/works/roadmovie/2021-roadmovie-2024kingcar-14.tw.webp",
     "content/works/roadmovie/index.md",
@@ -286,7 +292,6 @@
     "content/works/roadmovie/2021-roadmovie-2024kingcar-2.tw.webp",
     "content/works/roadmovie/2021-roadmovie-2024kingcar-3.tw.webp",
     "content/works/roadmovie/2021-roadmovie-2024kingcar-5.tw.webp",
-    "templates/youtube.md",
     "content/works/ontheground/index.md",
     "content/works/ontheground/index.tw.md",
     "content/works/mind-blowing/index.tw.md",
@@ -302,14 +307,10 @@
     "content/works/interview-with-a-philosopher/index.md",
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
-    "content/exhibitions/2021-run-into-my-cell/index.tw.md",
-    "content/works/interview-with-an-artist/index.tw.md",
-    "content/works/interview-with-an-artist/index.md",
     "tw/exhibitions",
     "tw",
     "public/works/ontheground/index.html",
     "public/works/ontheground",
-    "public/works/mind-blowing/index.html",
-    "public/works/mind-blowing"
+    "public/works/mind-blowing/index.html"
   ]
 }
