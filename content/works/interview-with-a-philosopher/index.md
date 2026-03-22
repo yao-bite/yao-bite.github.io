@@ -17,7 +17,7 @@ This project was created in collaboration with philosopher of mind Ying-Tung Lin
 The work invites viewers into a space designed to trigger mind-wandering: within the philosopher’s flowing voice, suspended between the present and the imaginary, between speech and thought, the viewer drifts between roles—listener, thinker, perhaps even speaker. In this hazy oscillation of focus and blur, one "experiences" language through losing and regaining attention.
 
 ---
-#### 2025 [*Who is the speaker?*](/exhibitions/2025-who-is-the-speaker/) 
+### 2025 [*Who is the speaker?*](/exhibitions/2025-who-is-the-speaker/) 
 Zone Art, Taoyuan, Taiwan  
 {{< album >}}
 2025-Philosopher-ZoneArt-1.webp
@@ -28,19 +28,20 @@ Zone Art, Taoyuan, Taiwan
 Photo by dulub_studio.
 
 {{< youtube "CTOmMn235gI" >}}
-Filmed by Cheng Hsiang Yun, LIN Pei-Yao. Edited by LIN Pei-Yao.
+Exhibition View (Filmed by Cheng Hsiang Yun, LIN Pei-Yao. Edited by LIN Pei-Yao)
 
 ---
 
-**About the Philosopher — Ying-Tung Lin**
+### About the Philosopher — Ying-Tung Lin
 
 Associate Professor and Director of the Institute of Philosophy of Mind and Cognition, National Yang Ming Chiao Tung University. Ph.D. in Philosophy, Johannes Gutenberg University Mainz, Germany.
 
 Her research focuses on philosophy of mind, consciousness studies, and applied ethics, particularly on self-experience in memory and imagination, the philosophical understanding of pain and suffering, and the impact of technology on human cognition and epistemic practices.
 
 ![](2025-Philosopher-ZoneArt-9.webp)
-### Credits
 
+---
+### Credits
 Program Host / Director / Editor:  LIN Pei-Yao  
 Script Development / Performer: Ying-Tung Lin  
 Sound Design: HSIEH Ching-Chun  

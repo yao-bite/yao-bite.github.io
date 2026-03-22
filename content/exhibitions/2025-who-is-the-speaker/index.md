@@ -51,16 +51,13 @@ As words merge into thought and thought becomes word, an indistinct speaker quie
 {{< youtube "mKmAC1MVB6E" >}}
 Filmed by Cheng Hsiang Yun, LIN Pei-Yao. Edited by LIN Pei-Yao.  
 ### Credits 
-**Exhibition Team**  
 Exhibition Visual Design: Sunnydance Co.  
 Event Promotion Plan & Execution: Sydney Lee  
 Exhibition Installation Design & Production: Sam Yong, William Hou  
 Installation Assistance: Chien Li-Yun, Kuo Chia-Huang, Sam Yong, Kuo En-Shuo, Wilson WU  
 Computer Environment Setup: Justin LIN, Wilson WU  
-
-**Sponsors & Co-Organizers**  
 Sponsor: National Culture and Arts Foundation  
-Co-organizers: Zone Art, Taoyuan Department of Cultural Affairs  
+Co-Organizers: Zone Art, Taoyuan Department of Cultural Affairs  
 
 ---
 ### Links
