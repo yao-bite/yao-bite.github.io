@@ -11,12 +11,14 @@
             "id": "e668d077a9cf4e5d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/works/run-into-100percent-selves/2024-projectseek-10-44252.tw.webp"
+                "file": "templates/work.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "2024-projectseek-10-44252.tw"
+              "icon": "lucide-file",
+              "title": "work"
             }
           },
           {
@@ -25,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/run-into-100percent-selves/index.tw.md",
+                "file": "content/works/seasons-change/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           },
           {
@@ -89,8 +91,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,8 +249,32 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "96b4547c0620ea30",
+  "active": "e668d077a9cf4e5d",
   "lastOpenFiles": [
+    "templates/credits - exhibition view.md",
+    "content/works/seasons-change/index.md",
+    "content/works/seasons-change/index.tw.md",
+    "content/works/mind-blowing/index.md",
+    "content/works/ontheground/index.tw.md",
+    "content/works/ontheground/index.md",
+    "templates/youtube.md",
+    "public/tw/works/seasons-change/index.html",
+    "public/tw/works/seasons-change",
+    "public/works/seasons-change/index.html",
+    "public/works/seasons-change/2023-SeasonsChange-screenshot-1.webp",
+    "public/works/seasons-change/2023-SeasonsChange-2-2024kingcar-55432.webp",
+    "public/works/seasons-change/2023-SeasonsChange-1-2024kingcar-54750.webp",
+    "public/works/seasons-change",
+    "README.md",
+    "templates/vimeo.md",
+    "templates/album.md",
+    "content/works/seasons-change/2023-SeasonsChange-1-2024kingcar-54750.webp",
+    "content/works/seasons-change/2023-SeasonsChange-2-2024kingcar-55432.webp",
+    "content/works/run-into-100percent-selves/2024-projectseek-10-44252.tw.webp",
+    "content/works/seasons-change/2023-SeasonsChange-screenshot-1.webp",
+    "content/works/seasons-change/未命名.md",
+    "templates/work.md",
+    "content/works/run-into-100percent-selves/index.tw.md",
     "content/works/roadmovie/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/works/infinity",
@@ -261,39 +286,16 @@
     "content/works/roadmovie/index.md",
     "public/works/run-into-100percent-selves/index.html",
     "public/works/run-into-100percent-selves",
-    "content/works/run-into-100percent-selves/index.tw.md",
-    "content/works/run-into-100percent-selves/2024-projectseek-10-44252.tw.webp",
     "content/works/run-into-100percent-selves/2024-projectseek-11-44513.tw.webp",
     "content/works/run-into-100percent-selves/2024-projectseek-15-44815.tw.webp",
     "content/works/run-into-100percent-selves/2024-projectseek-14-44802.tw.webp",
-    "content/works/run-into-100percent-selves/2024-projectseek-13-44702.tw.webp",
-    "content/works/run-into-100percent-selves/2024-projectseek-9-44245.tw.webp",
-    "content/works/run-into-100percent-selves/2024-projectseek-8-42015.tw.webp",
-    "public/tw/works/run-into-100percent-selves/2024-projectseek-15-44815.tw.webp",
-    "public/tw/works/run-into-100percent-selves/2024-projectseek-14-44802.tw.webp",
-    "public/tw/works/run-into-100percent-selves/2024-projectseek-13-44702.tw.webp",
-    "templates/vimeo.md",
-    "templates/album.md",
-    "templates/youtube.md",
-    "README.md",
     "content/works/je-suis-pas-fan/index.tw.md",
     "public/tw/works/run-into-100percent-selves/index.html",
-    "public/tw/works/run-into-100percent-selves",
-    "public/tw/works/run-into-100selves/index.html",
-    "public/tw/works/run-into-100selves",
-    "public/tw/works/run-into-100-selves/index.html",
     "content/works/stingedfigures/index.tw.md",
-    "content/works/ontheground/index.md",
-    "content/works/ontheground/index.tw.md",
     "content/works/mind-blowing/index.tw.md",
     "content/works/listen-talk/index.tw.md",
     "content/works/lionplaza-lightpool/index.tw.md",
     "content/works/interview-with-an-artist/index.md",
-    "content/works/interview-with-an-artist/index.tw.md",
-    "content/works/interview-with-a-philosopher/index.md",
-    "content/works/interview-with-a-philosopher/index.tw.md",
-    "content/works/doublechannel-ii/index.tw.md",
-    "content/works/doublechannel-eyes/index.md",
-    "content/works/doublechannel-eyes/index.tw.md"
+    "content/works/interview-with-an-artist/index.tw.md"
   ]
 }

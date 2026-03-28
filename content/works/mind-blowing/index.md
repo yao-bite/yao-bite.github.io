@@ -20,7 +20,7 @@ This is a theater of interaction between oneself and one's own body, playing bet
 Hello, friend. Talk to me. Listen to me. In this era, everyone speaks alone to the countless absent others.
 
 ---
-###  2024 *Self-Testing Starts*
+### 2024 *Self-Testing Starts*
 King Car Cultural & Art Center, Taipei, Taiwan    
 {{< album >}}
 2023-mindblowing-2024kingcar-1.webp

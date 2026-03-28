@@ -5,5 +5,5 @@ draft: "true"
 featured: "false"
 image:
 medium:
-dimension:
+dimensions:
 ---
