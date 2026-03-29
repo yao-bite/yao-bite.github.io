@@ -51,6 +51,8 @@ Exhibition View (filmed by KO LAIHE; edited by LIN Pei-Yao)
 Writer, Director, Videographer & Editor: LIN Pei-Yao  
 Sound Design: Justin Lin, LIN Pei-Yao  
 Voice-Over: LIN Pei-Yao  
+Car Seat Base Design: Sam Yong  
+Projection Film Mounting: WU Yi-Jhen, Sam Yong  
 ### Music Credits
 **Piano Sonata No. 14, Op. 27 No. 2 — Ludwig van Beethoven**  
 Performed by Paul Pitman (piano)  
