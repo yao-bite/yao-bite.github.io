@@ -44,7 +44,7 @@ dimensions: 14'56"
 攝影：朱淇宏
 
 {{< youtube "wI4_Z2AdpzA" >}}
-2024／2021展場紀錄（拍攝：高來河／剪輯：林沛瑤）
+展場紀錄（拍攝：高來河／剪輯：林沛瑤）
 
 ---
 ### Credits
@@ -52,6 +52,8 @@ dimensions: 14'56"
 拍攝與剪輯｜林沛瑤  
 聲音設計｜林宏信 林沛瑤  
 畫外音｜林沛瑤  
+汽車座椅底座設計｜楊健生  
+投影膜裱貼｜吳奕蓁、楊健生  
 ### 音樂來源
 **Piano Sonata No. 14, Op. 27 No. 2 — Ludwig van Beethoven**  
 演奏｜Paul Pitman（piano）  
