@@ -1,12 +1,11 @@
 ---
 categories:
-- Reviews
-date: "2024-10-21T07:52:15+08:00"
+  - Reviews
+date: 2024-10-21T07:52:15+08:00
 description: 文字如何能引導觀者啟動特定思緒狀態，以一種反身性的姿態，使觀者體驗差異化的自我？發話者「我」與對話對象「你」，在什麼樣的情境下，可以跟觀者的自我產生交疊，使其將自身想像為說話者、成為文字腳本中的角色之一，而不只是被動的聆聽者，內容的傳達則成為其次？
 draft: false
 slug: artreview-howtextcreatesdistanceinawork
 tags:
-- 藝術評論 art reviews
 title: 感與知的間隙：文字如何在作品中創造距離
 ---
 

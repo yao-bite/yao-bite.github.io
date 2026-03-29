@@ -1,12 +1,11 @@
 ---
 categories:
-- Reviews
-date: "2025-02-27T16:14:08+08:00"
+  - Reviews
+date: 2025-02-27T16:14:08+08:00
 description: 在這齣獨角戲的倒敘手法中，演員以第一人稱自述，並在同一當下重演。他一邊身歷其境一邊自我陳述，同時在當下也在過去；或者也可以說，過去「上身」並成為了當下。
 draft: false
 slug: art-review-hernia-maniac
 tags:
-- 藝術評論 art reviews
 title: 當過去上身當下：四把椅子劇團《獨疝其身》
 ---
 

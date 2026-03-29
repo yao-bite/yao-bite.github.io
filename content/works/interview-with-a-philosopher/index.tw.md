@@ -2,7 +2,7 @@
 title: 訪問一位哲學家
 date: 2025-08-27
 draft: false
-featured: false
+featured: true
 image: 2025-Philosopher-ZoneArt-4.webp
 medium: 三聲道影像空間裝置
 dimension: 21’12”

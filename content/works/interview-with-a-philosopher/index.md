@@ -2,7 +2,7 @@
 title: Inter-View with a Philosopher
 date: 2025-08-27
 draft: false
-featured: false
+featured: true
 image: 2025-Philosopher-ZoneArt-4.webp
 medium: Three-channel audio spatial installation with video
 dimension: 21’12”

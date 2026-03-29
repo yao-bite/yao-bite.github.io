@@ -2,7 +2,7 @@
 date: 2025-06-07T16:31:22+08:00
 dimensions: 10'43''
 draft: false
-featured: true
+featured: false
 image: cover.webp
 medium: Single channel video
 title: Je suis pas fan

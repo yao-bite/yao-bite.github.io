@@ -2,7 +2,7 @@
 date: 2023-12-15T04:27:14+08:00
 description: It is said that some expressions, although received by no one, are still two-way, spoken both to others and to oneself.
 draft: false
-featured: true
+featured: false
 image: 2023-listentalk-2024kingcar-combine.webp
 tags:
 title: Listen, talk. (My Tribute to Vincent van Gogh)
