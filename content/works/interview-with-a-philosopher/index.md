@@ -5,7 +5,7 @@ draft: false
 featured: true
 image: 2025-Philosopher-ZoneArt-4.webp
 medium: Three-channel audio spatial installation with video
-dimension: 21’12”
+dimensions: 21’12”
 ---
 ![](2025-Philosopher-ZoneArt-8.webp)
 One evening, I was listening to a philosopher speak at length. As the sun set and the light suddenly dimmed, the conversation from moments before began to feel like a dream. I’ve long wanted to recreate that experience—when thought gets lost in the forest of consciousness, and a continuous stream of speech unfolds like a winding path, fleeting and narrow, with no clear destination and no way back.
@@ -52,4 +52,4 @@ Production Assistant: CCwen
 Special Appearance: Lîm A-sim  
 Audio-visual Programming: Justin LIN  
 Wireless Clock Design: Wilson WU  
-Sponsor: National Culture and Arts Foundation  
+Sponsor: National Culture and Arts Foundation

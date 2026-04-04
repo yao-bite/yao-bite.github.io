@@ -5,7 +5,7 @@ draft: false
 featured: true
 image: 2025-Philosopher-ZoneArt-4.webp
 medium: 三聲道影像空間裝置
-dimension: 21’12”
+dimensions: 21’12”
 ---
 ![](2025-Philosopher-ZoneArt-8.webp)
 
