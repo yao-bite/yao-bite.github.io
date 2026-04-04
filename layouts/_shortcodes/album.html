@@ -11,7 +11,7 @@
 
   {{/* Left button */}}
   <button id="{{ $id }}-prev"
-    class="absolute left-0 top-0 z-10 h-full w-12 flex items-center justify-center text-gray-700 hover:text-black bg-white/30 hover:bg-white/60 transition-all disabled:opacity-20 disabled:cursor-default"
+    class="absolute left-0 top-0 z-10 h-full w-12 flex items-center justify-center text-white opacity-0 hover:opacity-100 bg-transparent hover:bg-black/20 transition-all disabled:opacity-0 disabled:cursor-default"
     aria-label="Previous">
     <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
       <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/>
@@ -19,7 +19,7 @@
   </button>
 
   {{/* Image viewport — inset by the two button widths (w-12 = 3rem each) */}}
-  <div class="absolute left-12 right-12 top-0 bottom-0 overflow-hidden">
+  <div class="absolute left-0 right-0 top-0 bottom-0 overflow-hidden">
     <div id="{{ $id }}-strip" class="flex h-full transition-transform duration-300 ease-in-out">
       {{- range $lines -}}
         {{- $src := . -}}
@@ -27,7 +27,7 @@
           {{- $src = .RelPermalink -}}
         {{- end -}}
         <div class="w-full h-full shrink-0 flex items-center justify-center">
-          <img src="{{ $src }}" alt="" loading="lazy" class="max-w-full max-h-full object-contain">
+          <img src="{{ $src }}" alt="" loading="lazy" class="w-full h-full object-contain">
         </div>
       {{- end -}}
     </div>
@@ -35,7 +35,7 @@
 
   {{/* Right button */}}
   <button id="{{ $id }}-next"
-    class="absolute right-0 top-0 z-10 h-full w-12 flex items-center justify-center text-gray-700 hover:text-black bg-white/30 hover:bg-white/60 transition-all disabled:opacity-20 disabled:cursor-default"
+    class="absolute right-0 top-0 z-10 h-full w-12 flex items-center justify-center text-white opacity-0 hover:opacity-100 bg-transparent hover:bg-black/20 transition-all disabled:opacity-0 disabled:cursor-default"
     aria-label="Next">
     <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
       <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
@@ -44,7 +44,7 @@
 
   {{/* Dot indicators */}}
   {{- if gt (len $lines) 1 -}}
-  <div class="absolute bottom-2 left-12 right-12 flex justify-center gap-2">
+  <div class="absolute bottom-2 left-0 right-0 flex justify-center gap-2">
     {{- range $i, $_ := $lines -}}
     <button id="{{ $id }}-dot-{{ $i }}"
       class="w-1.5 h-1.5 rounded-full transition-colors"

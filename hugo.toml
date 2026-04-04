@@ -1,5 +1,5 @@
 baseURL = 'https://peiyao.run/'
-title = 'Lin, Pei Yao'
+title = 'LIN Pei-Yao'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
@@ -9,7 +9,7 @@ hasCJKLanguage = true
     languageCode = 'en-US'
     languageName = 'English'
     weight = 1
-    title = 'Lin, Pei Yao'
+    title = 'LIN Pei-Yao'
     summaryLength = 50
     [languages.en.params]
       dateFormat = 'Jan 2, 2006'
