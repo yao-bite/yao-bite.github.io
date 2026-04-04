@@ -92,18 +92,6 @@
     @apply bg-transparent px-0 py-0;
   }
 
-  .prose img {
-    @apply w-full my-6;
-  }
-
-  .prose figure {
-    @apply my-6;
-  }
-
-  .prose figcaption {
-    @apply text-sm text-gray-600 text-center mt-2;
-  }
-
   .prose hr {
     @apply border-t border-gray-300 my-8;
   }

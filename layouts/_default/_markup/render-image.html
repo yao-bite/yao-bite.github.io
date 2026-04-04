@@ -1,25 +1,11 @@
-{{- $image := .Page.Resources.Get .Destination -}}
-{{- if $image -}}
-  {{- $alt := .Text | default .Page.Title -}}
-  {{- $caption := .Title -}}
-
-  {{- /* Determine size based on context */ -}}
-  {{- $class := "w-full h-auto" -}}
-
-  <figure class="my-8">
-    <img
-      src="{{ $image.RelPermalink }}"
-      alt="{{ $alt }}"
-      loading="lazy"
-      class="{{ $class }} rounded-lg"
-    >
-    {{- with $caption -}}
-    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
-      {{ . }}
-    </figcaption>
-    {{- end -}}
-  </figure>
-{{- else -}}
-  {{- /* Fallback for external images */ -}}
-  <img src="{{ .Destination }}" alt="{{ .Text }}" loading="lazy" class="w-full h-auto rounded-lg">
-{{- end -}}
+<figure class="my-8">
+  <img
+    src="{{ .Destination }}"
+    alt="{{ .Text }}"
+    loading="lazy"
+    class="w-full h-auto"
+  >
+  {{- with .Text -}}
+  <figcaption class="text-center text-sm text-gray-500 mt-2">{{ . }}</figcaption>
+  {{- end -}}
+</figure>

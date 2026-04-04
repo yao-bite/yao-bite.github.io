@@ -21,14 +21,13 @@ This is an experiment using an interview video from a previous exhibition. The n
 80A Gallery, Taipei, Taiwan (group exhibition)  
 Curated by Chun-Lin Yen.  
 
-{{< album >}}
+{{< album "Photo by Tsai Chih-Fan." >}}
 2025-80Agallery-15.webp
 2025-80Agallery-12.webp
 2025-80Agallery-14.webp
 2025-80Agallery-13.webp
 2025-80Agallery-2.webp
 {{< /album >}}
-Photo by Tsai Chih-Fan.
 
 {{< vimeo 1064155446 >}}
 Filmed by  I-Shun Chen. Edited by LIN Pei-Yao.

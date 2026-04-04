@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  
+
   {{ if hugo.IsProduction }}
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
   {{ else }}
@@ -69,15 +69,6 @@
       }
       .prose pre code {
         @apply bg-transparent px-0 py-0;
-      }
-      .prose img {
-        @apply w-full my-6;
-      }
-      .prose figure {
-        @apply my-6;
-      }
-      .prose figcaption {
-        @apply text-sm text-gray-600 text-center mt-2;
       }
       .prose hr {
         @apply border-t border-gray-300 my-8;
