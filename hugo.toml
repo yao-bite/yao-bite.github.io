@@ -18,7 +18,7 @@ hasCJKLanguage = true
     languageCode = 'zh-TW'
     languageName = '中文'
     weight = 2
-    title = 'Lin, Pei Yao 林沛瑤'
+    title = 'LIN Pei-Yao 林沛瑤'
     summaryLength = 100
     [languages.tw.params]
       dateFormat = '2006.01.02'

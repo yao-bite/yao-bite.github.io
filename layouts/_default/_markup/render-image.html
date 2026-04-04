@@ -1,6 +1,10 @@
+{{- $src := .Destination -}}
+{{- with .Page.Resources.Get .Destination -}}
+  {{- $src = .RelPermalink -}}
+{{- end -}}
 <figure class="my-8">
   <img
-    src="{{ .Destination }}"
+    src="{{ $src }}"
     alt="{{ .Text }}"
     loading="lazy"
     class="w-full h-auto"
