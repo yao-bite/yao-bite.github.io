@@ -1,3 +1,4 @@
+{{- $caption := .Get 0 }}
 {{- $lines := slice -}}
 {{- range split (trim .Inner "\n\r ") "\n" -}}
   {{- $line := trim . " \r\t" -}}
@@ -55,6 +56,11 @@
   {{- end -}}
 
 </div>
+
+{{- if $caption -}}
+<!--<p class="text-sm text-gray-500 mt-2">{{ $caption }}</p>-->
+<p class="text-center text-sm text-gray-500 mt-2">{{ $caption }}</p>
+{{- end -}}
 
 <script>
 (function () {
