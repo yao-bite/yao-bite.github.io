@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/je-suis-pas-fan/index.tw.md",
+                "file": "content/works/doublechannel-eyes/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 361.5
   },
   "right": {
     "id": "3f5ea11e9edd07f7",
@@ -252,7 +252,20 @@
   },
   "active": "96b4547c0620ea30",
   "lastOpenFiles": [
+    "content/about/index.tw.md",
+    "content/cv/index.tw.md",
+    "content/about/index.md",
+    "content/cv/index.md",
+    "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
+    "content/works/je-suis-pas-fan/2025-PasFan-ZoneArt-5.webp",
+    "public/tw/about/index.html",
+    "public/tw/about",
+    "README.md",
+    "layouts/_default/_markup/render-image.html",
+    "layouts/_default/_markup",
+    "layouts/_default",
+    "content/about",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/writings/art-review-hernia-maniac/index.tw.md",
@@ -266,7 +279,6 @@
     "content/writings/artreview-howtextcreatesdistanceinawork/index.tw.md",
     "content/writings/interviewofanartist/index.tw.md",
     "content/writings/art-review-walkingonthewater/index.tw.md",
-    "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/listen-talk/index.tw.md",
     "content/works/listen-talk/index.md",
     "content/works/run-into-100percent-selves/index.tw.md",
@@ -274,11 +286,8 @@
     "content/works/roadmovie/index.tw.md",
     "content/works/roadmovie/index.md",
     "content/works/set-interval/index.tw.md",
-    "templates/credits - exhibition view.md",
     "public/tw/works/set-interval/index.html",
     "public/tw/works/set-interval",
-    "content/works/set-interval/index.md",
-    "templates/youtube.md",
     "content/works/set-interval/2024-setInterval-1-62812.webp",
     "content/works/set-interval/2024-setInterval-2-62823.webp",
     "content/works/set-interval/2024-setInterval-3-63409.webp",
@@ -287,16 +296,7 @@
     "content/works/set-interval/2024-setInterval-5.webp",
     "content/works/set-interval/2024-setInterval-11.webp",
     "content/works/set-interval/2024-setInterval-7-62933.webp",
-    "content/works/set-interval/2024-setInterval-9-65335.webp",
-    "templates/album.md",
-    "content/works/seasons-change/index.md",
     "public/works/set-interval/index.html",
-    "public/works/set-interval/work-1/index.html",
-    "public/works/set-interval/work-1",
-    "public/works/set-interval",
-    "public/tw/works/seasons-change/index.html",
-    "public/tw/works/seasons-change",
-    "public/works/seasons-change/index.html",
-    "public/works/seasons-change"
+    "public/works/set-interval/work-1/index.html"
   ]
 }

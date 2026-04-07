@@ -8,7 +8,7 @@ medium: Single channel video
 title: Je suis pas fan
 description: A fan blows across the Post-it notes stuck to it, each in a different color and bearing one of two French sentences—“Je suis fan” or “Je suis pas fan.”
 ---
-![Your dear caption](2025-PasFan-ZoneArt-5%201.webp)
+![Photo by dulub_studio.](2025-PasFan-ZoneArt-5%201.webp)
 
 A fan blows across the Post-it notes stuck to it, each in a different color and bearing one of two French sentences—“Je suis fan.” (I’m a fan / I like it) or “Je suis pas fan.” (I’m not a fan / I don’t like it). When a note is blown away, its corresponding phrase sounds softly in Chinese as “I like it” or “I don’t like it.”
 
@@ -16,10 +16,10 @@ The word “fan” in English carries two senses: an electric fan and a supporte
 
 Through this multilayered language game, the fan transforms into a flower, reversing others’ feelings toward it (does she love me or not) into its own preference (do I like it or not), while simultaneously embarking on its own existential inquiry (Am I / am I not a fan?). Thus, in a playful gesture, the fan dialectically engages with love and the self, treating both as philosophical questions.
 
+### 2025 *[Who is the speaker?](/exhibitions/2025-who-is-the-speaker/)* 
+Zone Art, Taoyuan, Taiwan
+
 {{< album "Photo by dulub_studio." >}}
 2025-Philosopher-ZoneArt-8.webp
 2025-Philosopher-ZoneArt-10.webp
 {{< /album >}}
-
-### 2025 *[Who is the speaker?](/exhibitions/2025-who-is-the-speaker/)* 
-Zone Art, Taoyuan, Taiwan
