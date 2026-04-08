@@ -1,75 +1,67 @@
 ---
-date: "2022-11-02T09:55:24+08:00"
+title: 雙面人
+date: 2022-11-02T09:55:24+08:00
 description: 同時在內與外，或同時不在內也不在外。不存在背面的正面，與不存在正面的背面。
 draft: false
-image: /ghost-images/2022/11/221005150716-mini-sRGB---_.webp
-slug: two-faced
+image: 2022-twofaced-2024kingcar-2.webp
 tags:
-- works
-- '#Import 2023-01-29 03:01'
-title: 雙面人 Two-faced（2022）
+medium: 單頻道錄像裝置
+dimensions: 05’32”
 ---
+![攝影：朱淇宏](2022-twofaced-2024kingcar-7.tw.webp)
 
-### 地下美術館，國立臺北藝術大學，臺北，臺灣
-
-單頻道錄像裝置、木作、壓克力／05’32”／2022
-
-![](/ghost-images/2022/11/221005150550-mini-sRGB---_ok.webp)
-
-![](/ghost-images/2022/11/221005150614-mini-sRGB---_.webp)
-
-![](/ghost-images/2022/11/221005150625-mini-sRGB---_.webp)
-
-影像是一層薄紗。
-
+影像是一層薄紗。  
 一直以來，我思考著如何使用單個頻道的影像，給予觀者複數軸線的時間感知。
 
-![](/ghost-images/2022/11/221005144941-mini-sRGB---_ok.webp)
-
-![](/ghost-images/2022/11/221005144958-mini-sRGB---_ok.webp)
-
-![](/ghost-images/2022/11/221005145035-mini-sRGB---_ok.webp)
-
 他成為了一個雙面人或雙背人，同時在窗內又在窗外；而當他隱沒入窗簾後頭，則既不在內也不在外。  
-
 他所應該在的位置，透過想像形成了向內凹折的負空間：一個「nowhere」、一個不存在的地方、影像的「厚度」之中。
 
-同時在內與外，或同時不在內也不在外。
+同時在內與外，或同時不在內也不在外。  
+不存在背面的正面，與不存在正面的背面。  
+離開的同時，沒有前往任何地方。  
 
-不存在背面的正面，與不存在正面的背面。
+---
+### 2024 自我測試開始
+金車文藝中心承德館，臺北，臺灣  
 
-離開的同時，沒有前往任何地方。
+{{< album "攝影：朱淇宏" >}}
+2022-twofaced-2024kingcar-1.webp
+2022-twofaced-2024kingcar-3.webp
+2022-twofaced-2024kingcar-4.webp
+2022-twofaced-2024kingcar-5.webp
+{{< /album >}}
 
-![](/ghost-images/2022/11/221005145627-mini-sRGB---_ok.webp)
+{{< album "攝影：朱淇宏" >}}
+2022-twofaced-2024kingcar-6.webp
+2022-twofaced-2024kingcar-8.webp
+2022-twofaced-2024kingcar-9.webp
+{{< /album >}}
+### 2022 地下美術館
+國立臺北藝術大學，臺北，臺灣
+{{< album "攝影：朱淇宏" >}}
+2022-Two-faced-8.webp
+2022-Two-faced-9.webp
+2022-Two-faced-b.webp
+2022-Two-faced-1.webp
+2022-Two-faced-3.webp
+{{< /album >}}
 
-![](/ghost-images/2022/11/221005145631-mini-sRGB---_ok.webp)
+---
+{{< youtube "N68QV7lDmek" >}}
+拍攝：高來河／剪輯：林沛瑤
 
-![](/ghost-images/2022/11/221005145634-mini-sRGB---_ok.webp)
-
-![](/ghost-images/2022/11/221005145711-mini-sRGB---_ok.webp)
-
-![](/ghost-images/2022/11/221005151354-mini-sRGB---_.webp)
-
-![](/ghost-images/2022/11/221005151240-mini-sRGB---_.webp)
-
-![](/ghost-images/2022/11/221005151258-mini-sRGB---_.webp)
-
-![](/ghost-images/2022/11/P1001490.webp)
-
+---
+### Credits
+**錄像拍攝**  
+演出｜王薪語  
+拍攝｜林沛瑤
+拍攝協助｜施力嘉  
 佈景搭設協力｜吳奕蓁 簡莉芸  
 
-表演｜王薪語  
+**2024展覽**  
+木作｜楊健生 劉昱廷 左晉文 邱育昇  
+布展協力｜吳奕蓁 徐銘謙 簡莉芸
 
-拍攝協助｜施力嘉  
-
+**2022展覽**  
 木作｜楊健生 劉昱廷  
-
-布展協力｜吳奕蓁 徐銘謙  
-
-平面攝影｜朱淇宏
-
-> 
-
-林沛瑤 作品  
-
-A WORK BY Lin Pei-Yao
+布展協力｜吳奕蓁 徐銘謙    
