@@ -7,6 +7,11 @@
   body {
     @apply antialiased;
   }
+
+  html[lang="zh-TW"] {
+    font-family:
+      "Noto Sans TC", "Funnel Sans", ui-sans-serif, system-ui, sans-serif;
+  }
 }
 
 @layer components {

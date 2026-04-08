@@ -6,6 +6,10 @@
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&family=Noto+Sans+TC:wght@300..700&display=swap" rel="stylesheet">
+
   {{ if hugo.IsProduction }}
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
   {{ else }}
@@ -93,11 +97,19 @@
         extend: {
           colors: {
             'light-gray': '#f5f5f5',
-          }
+          },
+          fontFamily: {
+            sans: ['"Funnel Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+          },
         }
       }
     }
   </script>
+  <style>
+    html[lang="zh-TW"] {
+      font-family: "Noto Sans TC", "Funnel Sans", ui-sans-serif, system-ui, sans-serif;
+    }
+  </style>
   {{ end }}
 </head>
 <body class="bg-light-gray text-gray-900">
