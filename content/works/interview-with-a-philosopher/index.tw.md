@@ -4,10 +4,10 @@ date: 2025-08-27
 draft: false
 featured: true
 image: 2025-Philosopher-ZoneArt-4.webp
-medium: 三聲道影像空間裝置
+medium: 三聲道影像、語音辨識互動程式、智慧燈光
 dimensions: 21’12”
 ---
-![](2025-Philosopher-ZoneArt-8.webp)
+![攝影：嘟嚕影像 dulub_studio](2025-Philosopher-ZoneArt-8.webp)
 
 有一天傍晚，我聽著一位哲學家滔滔不絕地説話。當太陽落下、光線突然變暗時，先前的談話在恍惚之間，變得像一場夢。我一直想要重新創造當時的經驗，思緒在意識的森林中迷走，綿延的語音鋪陳出轉瞬即逝的羊腸小徑，看不清目的地、亦沒有回頭路。
 
@@ -18,13 +18,12 @@ dimensions: 21’12”
 ---
 ### 2025 [Who is the speaker?](/tw/exhibitions/2025-who-is-the-speaker/) 
 众藝術，桃園，臺灣  
-{{< album >}}
+{{< album "攝影：嘟嚕影像 dulub_studio" >}}
 2025-Philosopher-ZoneArt-1.webp
 2025-Philosopher-ZoneArt-3.webp
 2025-Philosopher-ZoneArt-2.webp
 2025-Philosopher-ZoneArt-10.webp
 {{< /album >}}
-攝影：嘟嚕影像（dulub_studio）
 
 {{< youtube "CTOmMn235gI" >}}
 展出紀錄（拍攝：程詳芸、林沛瑤／剪輯：林沛瑤）
@@ -36,7 +35,7 @@ dimensions: 21’12”
 
 當前的研究大致聚焦於透過檢視記憶與想像中的自我經驗，從心智哲學的角度研究疼痛與受苦經驗，並關注各種人與科技之間的關係，試圖了解科技如何影響和塑造我們的心智、自我和知識上的活動。
 
-![](2025-Philosopher-ZoneArt-9.webp)
+![攝影：嘟嚕影像 dulub_studio](2025-Philosopher-ZoneArt-9.webp)
 
 ---
 ### Credits
@@ -49,6 +48,6 @@ dimensions: 21’12”
 收音｜李宜修  
 製片助理｜張瀞文  
 友情客串｜林阿心  
-影音程式設計｜林宏信  
+影音同步與語音互動程式設計｜林宏信  
 無線同步時鐘軟硬體設計｜吳宇森  
 贊助單位｜國家文化藝術基金會

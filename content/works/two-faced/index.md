@@ -55,9 +55,9 @@ Shooting Assistance: Shih Li-Jia
 Scene Setting: WU Yi-Jhen, Chien Li-Yun  
 
 **2024 Exhibition**  
-木作｜楊健生 劉昱廷 左晉文 邱育昇  
+Woodworking: Sam Yong, 劉昱廷 左晉文 邱育昇  
 布展協力｜吳奕蓁 徐銘謙 簡莉芸
 
 **2022 Exhibition**  
-木作｜Sam Yong 劉昱廷  
+Woodworking: Sam Yong 劉昱廷  
 Installation Assistance: WU Yi-Jhen, 徐銘謙    

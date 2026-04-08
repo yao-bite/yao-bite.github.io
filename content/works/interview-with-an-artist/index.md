@@ -35,7 +35,7 @@ Filmed by  I-Shun Chen. Edited by LIN Pei-Yao.
 ---
 ### Credits
 Editing & Audio Mixing: LIN Pei-Yao    
-Programming: Justin LIN  
+Programming: Justin Lin  
 
 **Interview Materials**  
 Exhibition: *Rehearsal for Re-her-sal: Preview*  

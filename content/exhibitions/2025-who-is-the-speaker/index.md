@@ -24,38 +24,47 @@ When we speak, the voice resonates in the throat—but where does it reside when
 
 As words merge into thought and thought becomes word, an indistinct speaker quietly arrives—an invisible guest inhabiting the mind. And if they are willing, the viewer too may become a visitor of voice, drifting between focus and reverie, becoming, for a moment, the one who speaks.
 
-{{< album >}}
+---
+
+#### *[Inter-View with a Philosopher](/works/interview-with-a-philosopher/)* 
+Three-channel audio spatial installation, video, speech-recognition interactive program, smart lighting
+{{< album "Photo by Sun Yi-Ching, dulub_studio." >}}
 2025-ZoneArt-16-0425.webp
 2025-ZoneArt-28-1937.webp
 2025-ZoneArt-1.webp
 2025-ZoneArt-4.webp
 {{< /album >}}
-*[Inter-View with a Philosopher](/works/interview-with-a-philosopher/)* (Photo by Sun Yi-Ching, dulub_studio)
 
-{{< album >}}
+#### *Who is the speaker?* Guided Tour Performance
+Live performance, afternoon tea
+{{< album "Performed on Oct 26 opening reception. Photo by Sun Yi-Ching." >}}
 2025-ZoneArt-17-0538.webp
 2025-speaker-3-0569.webp
 2025-ZoneArt-19-0598.webp
 2025-ZoneArt-23-0921.webp
 {{< /album >}}
-*Who is the speaker?* Guided Tour Performance (Performed on Oct 26 opening reception. Photo by Sun Yi-Ching.)
 
-{{< album >}}
+#### *[Je suis pas fan](/works/je-suis-pas-fan/)*
+Single channel video
+{{< album "Photo by dulub_studio, Sun Yi-Ching" >}}
 2025-ZoneArt-6.webp
 2025-ZoneArt-5.webp
 2025-PasFan-ZoneArt-3-1873.webp
 2025-PasFan-ZoneArt-4-1805.webp
 {{< /album >}}
-*[Je suis pas fan](tw/works/je-suis-pas-fan/)* (Photo by dulub_studio, Sun Yi-Ching)
+
+---
 
 {{< youtube "mKmAC1MVB6E" >}}
 Filmed by Cheng Hsiang Yun, LIN Pei-Yao. Edited by LIN Pei-Yao.  
+
+---
 ### Credits 
 Exhibition Visual Design: Sunnydance Co.  
 Event Promotion Plan & Execution: Sydney Lee  
 Exhibition Installation Design & Production: Sam Yong, William Hou  
-Installation Assistance: Chien Li-Yun, Kuo Chia-Huang, Sam Yong, Kuo En-Shuo, Wilson WU  
-Computer Environment Setup: Justin LIN, Wilson WU  
+Installation Assistance: Chien Li-Yun, Kuo Chia-Huang, Sam Yong, Kuo En-Shuo, Wilson Wu  
+Computer Environment Setup: Justin Lin, Wilson Wu  
 Sponsor: National Culture and Arts Foundation  
 Co-Organizers: Zone Art, Taoyuan Department of Cultural Affairs  
 
