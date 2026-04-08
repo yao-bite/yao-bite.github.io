@@ -90,14 +90,14 @@ Single-channel video／04’55”／2024
 
 ---
 
-{{< youtube "gh-UvZkEhOs" >}}
+{{< youtube "gh-UvZkEhOs" Good >}}
 Exhibition view (filmed by KO LAIHE; edited by LIN Pei-Yao)
 
 ---
 
 ### Opening Guided Tour Performance
 Live performance, audio recording, mobile display, headphones
-{{< vimeo 1010634140 >}}
+{{< vimeo 1010634140 Hello >}}
 Filmed by Zhuang Ya-Ting. Edited by LIN Pei-Yao.
 
 ---
@@ -117,4 +117,3 @@ Co-organizer: HONG Foundation
 * [About the Exhibition—Hong Foundation](https://www.hongfoundation.org.tw/canopy-project-item/the-dual-double-channel)
 * [給影子的告白ー「雙頻道」林沛瑤個展](https://talks.taishinart.org.tw/talks/84/38752) by Chen Yu-Jen (陳譽仁)
 * [Artist Conversation Recap](https://www.facebook.com/HongFoundation/posts/pfbid0JhuPXQri7rPiSehcP8SpYZsNzqKBR8nHaPvzEhfhoebjKgJUCF6UzFy5cSfYVByal)
-
