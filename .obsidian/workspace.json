@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2024-self-testing-starts/index.tw.md",
+                "file": "content/exhibitions/2024-the-dual-double-channel/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           },
           {
@@ -260,8 +260,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ece0cd61acfc7dd2",
+  "active": "96b4547c0620ea30",
   "lastOpenFiles": [
+    "content/exhibitions/2024-self-testing-starts/index.tw.md",
     "content/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
     "content/exhibitions/2024-self-testing-starts/DSC04818.tw.jpg",
     "content/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
@@ -270,10 +271,8 @@
     "public/tw/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
     "public/tw/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
     "public/tw/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
-    "content/exhibitions/2024-self-testing-starts/index.tw.md",
     "public/tw/exhibitions/2024-self-testing-starts/DSC04818.tw.jpg",
     "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
-    "content/exhibitions/2024-self-testing-starts/P1050045.tw.jpeg",
     "templates/album.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.md",

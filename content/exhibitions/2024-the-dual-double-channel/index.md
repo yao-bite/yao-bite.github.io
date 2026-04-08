@@ -16,6 +16,7 @@ images:
   - /ghost-images/2024/10/20240813150119-mini-SRGB---.webp
   - /ghost-images/2024/10/20240813150709-mini-SRGB---.webp
   - /ghost-images/2024/10/P1013636--.webp
+  - P1013677.webp
 ---
 ### About the Exhibition
 
