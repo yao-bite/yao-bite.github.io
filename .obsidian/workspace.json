@@ -37,40 +37,14 @@
             "id": "b44138c16bd0ae57",
             "type": "leaf",
             "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "/Users/peiyao.run/src/yao-bite.github.io",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "/bin/zsh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "darwin": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
+                "file": "content/cv/index.tw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "terminal",
-              "title": "終端：zsh"
+              "icon": "lucide-file",
+              "title": "index.tw"
             }
           },
           {
@@ -274,6 +248,7 @@
   },
   "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
+    "content/cv/index.md",
     "content/works/two-faced/index.md",
     "content/works/two-faced/index.tw.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
@@ -293,7 +268,6 @@
     "content/about/index.tw.md",
     "content/about/index.md",
     "content/cv/index.tw.md",
-    "content/cv/index.md",
     "templates/vimeo.md",
     "content/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
     "layouts/_shortcodes/youtube.html",

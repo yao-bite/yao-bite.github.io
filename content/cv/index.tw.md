@@ -43,4 +43,4 @@ draft: false
 2025 金車文藝中心藝術家海外參訪計劃  
 2024 《自我測試開始》獲第23屆台新藝術獎第二季提名入圍  
 2024 [〈心動〉，高雄獎，影像暨科技媒體藝術類優選](https://www.youtube.com/watch?v=0VrT8c6MK4Q&t=51s)  
-2024 〈公路電影：月球之旅〉，美國Arch Mission基金會「月面藝術典藏庫」計畫（Arch Lunar Art Archive）
+2022 〈公路電影：月球之旅〉，美國Arch Mission基金會「月面藝術典藏庫」計畫（Arch Lunar Art Archive）
