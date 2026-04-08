@@ -50,7 +50,7 @@ Filmed by KO LAIHE. Edited by LIN Pei-Yao.
 ### Credits
 **Video Production**  
 Performance: Wang Xin-Yu  
-Videography & Editing: LIN Pei-Yao
+Videography & Editing: LIN Pei-Yao  
 Shooting Assistance: Shih Li-Jia
 Set Construction Assistance: Wu Yi-Jhen, Chien Li-Yun  
 
