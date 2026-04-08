@@ -1,4 +1,21 @@
-const { range, filter, map, merge, fromEvent, scan } = rxjs;
+const {
+  range,
+  filter,
+  map,
+  merge,
+  fromEvent,
+  scan,
+  timer,
+  interval,
+  withLatestFrom,
+  startWith,
+  throttleTime,
+  throttle,
+  of,
+} = rxjs;
+
+const DELAY = 4000;
+const THROTTLE = 1000;
 
 function registerAlbum(id, total) {
   range(1, 10).subscribe((x) => console.log(x, id));
@@ -9,7 +26,10 @@ function registerAlbum(id, total) {
   var prevBtn = document.getElementById(id + "-prev");
   var nextBtn = document.getElementById(id + "-next");
 
+  var viewport = strip.parentElement;
+
   function update(current) {
+    console.log(`${id}: ${current}`);
     strip.style.transform = "translateX(-" + current * 100 + "%)";
     prevBtn.disabled = current === 0;
     nextBtn.disabled = current === total - 1;
@@ -28,8 +48,26 @@ function registerAlbum(id, total) {
   next = fromEvent(nextBtn, "click").pipe(
     map(() => (c) => (c < total - 1 ? c + 1 : c)),
   );
+  hover = merge(
+    fromEvent(viewport, "mouseover").pipe(map(() => true)),
+    fromEvent(viewport, "mouseleave").pipe(map(() => false)),
+  ).pipe(startWith(false));
+  hover.subscribe(console.log);
+  autoplay = interval(DELAY).pipe(
+    withLatestFrom(hover),
+    filter(([_, hovered]) => !hovered),
+    map(() => (c) => (c + 1) % total),
+  );
 
-  merge(prev, next)
-    .pipe(scan((current, reducer) => reducer(current), 0))
+  merge(
+    prev,
+    next,
+    autoplay,
+    of((c) => c),
+  )
+    .pipe(
+      throttleTime(THROTTLE),
+      scan((current, reducer) => reducer(current), 0),
+    )
     .subscribe(update);
 }
