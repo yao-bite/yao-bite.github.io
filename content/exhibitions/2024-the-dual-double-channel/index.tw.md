@@ -98,20 +98,19 @@ images:
 拍攝：莊雅婷／剪輯：林沛瑤
 
 ---
+### Credits
+
+展覽木作｜楊健生 吳奕蓁 王楹凱  
+影音同步與自啟動程式設計｜林宏信  
+雙頻道II影音系統整合｜陳瑜璟  
+設備支援｜林宏信 郭柏志  
+活動影音紀錄｜莊雅婷 徐銘謙 王毓慈    
+展務｜黃右、林聖堤  
+贊助單位｜舞陽美術
+協辦單位｜洪建全基金會
+
+---
 ### Links
 * [展覽資訊—洪建全基金會官網](https://www.hongfoundation.org.tw/canopy-project-item/the-dual-double-channel)
 * [給影子的告白ー「雙頻道」林沛瑤個展](https://talks.taishinart.org.tw/talks/84/38752)（文／陳譽仁）
 * [展覽座談回顧：機器作為對手演員ー媒介的角色與技術知覺](https://www.facebook.com/HongFoundation/posts/pfbid0JhuPXQri7rPiSehcP8SpYZsNzqKBR8nHaPvzEhfhoebjKgJUCF6UzFy5cSfYVByal)
-
----
-### Credits
-
-展覽木作｜楊健生、吳奕蓁、王楹凱  
-影音同步與自啟動程式設計｜林宏信  
-雙頻道II影音軟硬體整合｜陳瑜璟  
-設備支援｜林宏信、郭柏志  
-活動影音紀錄｜莊雅婷、徐銘謙、王毓慈    
-展務｜黃右、林聖堤  
-計畫主任｜黃韶安  
-贊助單位｜舞陽美術
-協辦單位｜洪建全基金會

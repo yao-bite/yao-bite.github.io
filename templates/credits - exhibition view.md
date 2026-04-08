@@ -3,5 +3,5 @@
 
 ---
 
-Photo by CHU Chi-Hung.
+Photo by Chu Chi-Hung.
 Filmed by KO LAIHE. Edited by LIN Pei-Yao.

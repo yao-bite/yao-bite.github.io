@@ -28,7 +28,7 @@ King Car Cultural & Art Center, Taipei, Taiwan
 2020-OnTheGround-1-2024kingcar-65824.webp
 2020-OnTheGround-2-2024kingcar-65902.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.  
+Photo by Chu Chi-Hung.  
 
 ---
 {{< youtube "Y7dlGuN0NYE" >}}

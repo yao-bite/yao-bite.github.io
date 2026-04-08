@@ -30,7 +30,7 @@ King Car Cultural & Art Center, Taipei, Taiwan
 2021-roadmovie-2024kingcar-13.webp
 2021-roadmovie-2024kingcar-9.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.
+Photo by Chu Chi-Hung.
 ### 2021
 Underground Gallery, TNUA, Taipei, Taiwan
 
@@ -41,7 +41,7 @@ Underground Gallery, TNUA, Taipei, Taiwan
 /ghost-images/2021/07/webpage6.webp
 /ghost-images/2024/03/roadmovie_11.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.
+Photo by Chu Chi-Hung.
 
 {{< youtube "wI4_Z2AdpzA" >}}
 Exhibition View (filmed by KO LAIHE; edited by LIN Pei-Yao)
@@ -52,7 +52,7 @@ Writer, Director, Videographer & Editor: LIN Pei-Yao
 Sound Design: Justin Lin, LIN Pei-Yao  
 Voice-Over: LIN Pei-Yao  
 Car Seat Base Design: Sam Yong  
-Projection Film Mounting: WU Yi-Jhen, Sam Yong  
+Projection Film Mounting: Wu Yi-Jhen, Sam Yong  
 ### Music Credits
 **Piano Sonata No. 14, Op. 27 No. 2 — Ludwig van Beethoven**  
 Performed by Paul Pitman (piano)  

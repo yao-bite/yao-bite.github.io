@@ -29,7 +29,7 @@ Through the process of image matting, the blue color is extracted and transforme
 
 ![None](/ghost-images/2023/04/--_4.webp)
 
-3D modeling   WU Yi-Jhen
+3D modeling   Wu Yi-Jhen
 
 > 
 

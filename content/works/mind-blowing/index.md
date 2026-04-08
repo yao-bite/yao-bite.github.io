@@ -58,5 +58,5 @@ Filmed by KO LAIHE. Edited by LIN Pei-Yao.
 ### Credits
 Writer, Director, Performer & Editor: LIN Pei-Yao  
 Cinematography: KO LAIHE  
-3D model scanning: WU Yi-Jhen  
+3D model scanning: Wu Yi-Jhen  
 3D scanning clip shooting: SHIH Li-Jia  

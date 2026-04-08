@@ -17,7 +17,7 @@ King Car Cultural & Art Center, Taipei, Taiwan
 2023-SeasonsChange-2-2024kingcar-55432.webp
 2023-SeasonsChange-1-2024kingcar-54750.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.
+Photo by Chu Chi-Hung.
 
 {{< youtube "fkBl7oxGPc4" >}}
 Online Preview (full version)

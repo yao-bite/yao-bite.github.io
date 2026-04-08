@@ -29,7 +29,7 @@ HONG Foundation, Taipei, Taiwan
 2024-projectseek-13-44702.webp
 2024-projectseek-14-44802.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.
+Photo by Chu Chi-Hung.
 
 ---
 ### 2022 *Pretty Good*: TNUA MFA Degree Show
@@ -42,7 +42,7 @@ Underground Experimental Field, Taipei National University of the Arts, Taipei, 
 /ghost-images/2022/08/220331171856-mini-sRGB--.webp
 /ghost-images/2022/08/220331170356-mini-sRGB--.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.
+Photo by Chu Chi-Hung.
 
 ---
 ### 2021 *Run Into My-Cell*
@@ -57,7 +57,7 @@ Na-Pei Gallery, Taipei National University of the Arts, Taipei, Taiwan
 2021-runinto100selves-2021tnua-9.webp
 2021-runinto100selves-2021tnua-10.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.
+Photo by Chu Chi-Hung.
 
 ---
 {{< vimeo 1010626724 >}}
@@ -67,7 +67,7 @@ Photo by CHU Chi-Hung.
 ### Credits
 **2024**  
 Auto-Start Programming: Justin Lin  
-Installation Assistance: Sam Yong, WU Yi-Jhen, Wang Ying-Kai
+Installation Assistance: Sam Yong, Wu Yi-Jhen, Wang Ying-Kai
 
 **2022**  
 Woodworking Design: Sam Yong 

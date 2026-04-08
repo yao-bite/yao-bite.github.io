@@ -36,7 +36,7 @@ King Car Cultural & Art Center, Taipei, Taiwan
 2024-setInterval-4-64430.webp
 2024-setInterval-1-62812.webp
 {{< /album >}}
-Photo by CHU Chi-Hung.
+Photo by Chu Chi-Hung.
 
 ---
 {{< youtube "wI4_Z2AdpzA" >}}
@@ -45,5 +45,5 @@ Filmed by KO LAIHE. Edited by LIN Pei-Yao.
 ---
 ### Credits
 Car Seat Base Design: Sam Yong  
-Projection Film Mounting: WU Yi-Jhen, Sam Yong  
+Projection Film Mounting: Wu Yi-Jhen, Sam Yong  
 

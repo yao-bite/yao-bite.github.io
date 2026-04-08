@@ -1,4 +1,5 @@
 ---
+title: "Double-Channel I: eye(s)"
 date: 2023-04-03T15:15:09+08:00
 description: When "double-channel" is used as an adjective, it no longer exists in its plural form ("double channels").
 draft: false
@@ -6,8 +7,7 @@ featured: true
 image: eyes.jpg
 slug: doublechannel-eyes
 tags:
-title: "Double-Channel I: eye(s)"
-medium: single-channel video, mobile phone, 3D printed interactive arms
+medium: video, mobile phone, 3D printed interactive arms
 dimensions: 35(H)x70x25cm; 03’19”
 ---
 ![](2023-DChannel_I-eyes-2-2024kingcar-60845.tw.jpg)
@@ -60,6 +60,6 @@ Filmed by KO LAIHE. Edited by LIN Pei-Yao.
 Concept Development & Project Coordination: LIN Pei-Yao  
 Mobile Video Filming & Editing: LIN Pei-Yao  
 3D Model Performer:  LIN Pei-Yao  
-3D Scanning: WU Yi-Jhen  
+3D Scanning: Wu Yi-Jhen  
 3D Model Post-Processing: Lo Chih-Chieh  
 Arm Component Design & Fabrication: Lo Chih-Chieh  

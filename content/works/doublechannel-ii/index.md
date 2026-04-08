@@ -1,4 +1,5 @@
 ---
+title: "Double-Channel II: “Listen (to me).”"
 date: 2024-11-16T05:53:35+08:00
 description: We see others through ourselves and ourselves through others.
 draft: false
@@ -6,7 +7,6 @@ featured: true
 image: /ghost-images/2024/10/1016_MoCA_----_111_L-1.webp
 slug: doublechannel-ii
 tags:
-title: "Double-Channel II: “Listen (to me).”"
 medium: Double-channel video, three-channel audio installation
 dimensions: 08’37”
 ---

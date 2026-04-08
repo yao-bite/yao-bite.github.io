@@ -47,5 +47,5 @@ Photo by Hsiu-Chun Wang.
 
 ---
 ### Credits
-3D Scanning: WU Yi-Jhen  
+3D Scanning: Wu Yi-Jhen  
 3D Modeling (retopology, printing): LIN Pei-Yao

@@ -8,7 +8,7 @@ tags:
 medium: single-channel video installation
 dimensions: 05’32”
 ---
-![Photo by CHU Chi-Hung.](2022-twofaced-2024kingcar-7.tw.webp)
+![Photo by Chu Chi-Hung.](2022-twofaced-2024kingcar-7.tw.webp)
 
 Image is a thin veil.
 
@@ -20,21 +20,21 @@ Simultaneously inside and outside, or not inside nor outside. The front without 
 ### 2024 *Self-Testing Starts*
 King Car Cultural & Art Center, Taipei, Taiwan  
 
-{{< album "Photo by CHU Chi-Hung." >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2022-twofaced-2024kingcar-1.webp
 2022-twofaced-2024kingcar-3.webp
 2022-twofaced-2024kingcar-4.webp
 2022-twofaced-2024kingcar-5.webp
 {{< /album >}}
 
-{{< album "Photo by CHU Chi-Hung." >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2022-twofaced-2024kingcar-6.webp
 2022-twofaced-2024kingcar-8.webp
 2022-twofaced-2024kingcar-9.webp
 {{< /album >}}
 ### 2021
 Underground Gallery, TNUA, Taipei, Taiwan
-{{< album "Photo by CHU Chi-Hung." >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2022-Two-faced-8.webp
 2022-Two-faced-9.webp
 2022-Two-faced-b.webp
@@ -48,16 +48,16 @@ Filmed by KO LAIHE. Edited by LIN Pei-Yao.
 
 ---
 ### Credits
-**Video Shooting**  
-Performance: 王薪語  
-Videography: LIN Pei-Yao
+**Video Production**  
+Performance: Wang Xin-Yu  
+Videography & Editing: LIN Pei-Yao
 Shooting Assistance: Shih Li-Jia
-Scene Setting: WU Yi-Jhen, Chien Li-Yun  
+Set Construction Assistance: Wu Yi-Jhen, Chien Li-Yun  
 
 **2024 Exhibition**  
-Woodworking: Sam Yong, 劉昱廷 左晉文 邱育昇  
-布展協力｜吳奕蓁 徐銘謙 簡莉芸
+Woodworking: Sam Yong, Liu Yu-Ting, Tso Chin-Wen, Chiu Yu-Sheng  
+Installation Assistance: Wu Yi-Jhen, Xu Ming-Qian, Chien Li-Yun
 
 **2022 Exhibition**  
-Woodworking: Sam Yong 劉昱廷  
-Installation Assistance: WU Yi-Jhen, 徐銘謙    
+Woodworking: Sam Yong, Liu Yu-Ting  
+Installation Assistance: Wu Yi-Jhen, Xu Ming-Qian    
