@@ -1,7 +1,6 @@
 ---
-date: "2023-05-02T09:33:52+08:00"
+date: 2023-05-02T09:33:52+08:00
 draft: false
-image: /ghost-images/2024/11/Self-Portrait_Mind-blowing-1-1.webp
 title: CV
 ---
 #### Education

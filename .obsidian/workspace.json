@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "content/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg"
+                "file": "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg"
               },
               "icon": "lucide-image",
-              "title": "DSC04836.tw"
+              "title": "S__26001606_0.tw"
             }
           },
           {
@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2024-the-dual-double-channel/index.md",
+                "file": "content/exhibitions/2024-self-testing-starts/index.tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.tw"
             }
           },
           {
@@ -260,24 +260,37 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "96b4547c0620ea30",
+  "active": "ece0cd61acfc7dd2",
   "lastOpenFiles": [
+    "public/js/album.js",
+    "public/js",
+    "static/js/album.js",
+    "static/js",
+    "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
+    "content/exhibitions/2024-self-testing-starts/P1050045.tw.jpeg",
+    "content/exhibitions/2024-self-testing-starts/P1050036.tw.jpeg",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
-    "content/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
-    "content/exhibitions/2024-self-testing-starts/DSC04818.tw.jpg",
     "content/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
+    "content/works/doublechannel-ii/index.tw.md",
+    "content/works/who-is-the-speaker/index.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.md",
+    "content/works/doublechannel-ii/index.md",
+    "content/about/index.tw.md",
+    "content/about/index.md",
+    "content/cv/index.tw.md",
+    "content/cv/index.md",
+    "templates/vimeo.md",
+    "content/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
+    "layouts/_shortcodes/youtube.html",
+    "layouts/_shortcodes/vimeo.html",
+    "content/exhibitions/2024-self-testing-starts/DSC04818.tw.jpg",
     "public/tw/exhibitions/2024-self-testing-starts/P1050036.tw.jpeg",
     "public/tw/exhibitions/2024-self-testing-starts/P1050045.tw.jpeg",
     "public/tw/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
     "public/tw/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
-    "public/tw/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
-    "public/tw/exhibitions/2024-self-testing-starts/DSC04818.tw.jpg",
-    "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
     "templates/album.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
-    "content/works/doublechannel-ii/index.md",
     "content/works/two-faced/index.md",
     "templates/credits - exhibition view.md",
     "content/works/lionplaza-lightpool/index.md",
@@ -291,21 +304,9 @@
     "content/works/ontheground/index.md",
     "content/works/doublechannel-eyes/index.md",
     "content/works/gaze-triangle",
-    "content/exhibitions/2024-the-dual-double-channel/note.md",
-    "content/works/two-faced/index.tw.md",
-    "content/works/who-is-the-speaker/index.md",
-    "content/works/windowing/index.md",
-    "content/works/interview-with-a-philosopher/index.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "public/exhibitions/2024-the-dual-double-channel/index.html",
     "public/exhibitions/2024-the-dual-double-channel",
-    "content/works/interview-with-a-philosopher/index.tw.md",
     "works",
-    "public/tw/categories/solo/index.xml",
-    "public/tw/categories/solo/index.html",
-    "public/tw/categories/solo",
-    "public/works/two-faced/index.html",
-    "public/works/two-faced",
-    "public/tw/about/index.html"
+    "public/tw/categories/solo/index.xml"
   ]
 }

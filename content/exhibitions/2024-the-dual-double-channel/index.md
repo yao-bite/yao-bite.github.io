@@ -90,15 +90,13 @@ Single-channel video／04’55”／2024
 
 ---
 
-{{< youtube "gh-UvZkEhOs" Good >}}
-Exhibition view (filmed by KO LAIHE; edited by LIN Pei-Yao)
+{{< youtube "gh-UvZkEhOs" "Exhibition view (filmed by KO LAIHE; edited by LIN Pei-Yao)" >}}
 
 ---
 
 ### Opening Guided Tour Performance
 Live performance, audio recording, mobile display, headphones
-{{< vimeo 1010634140 Hello >}}
-Filmed by Zhuang Ya-Ting. Edited by LIN Pei-Yao.
+{{< vimeo 1010634140 "Filmed by Zhuang Ya-Ting. Edited by LIN Pei-Yao." >}}
 
 ---
 ### Credits

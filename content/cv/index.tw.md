@@ -2,7 +2,6 @@
 title: CV
 date: 2026-03-22T11:25:32+08:00
 draft: false
-image: /ghost-images/2024/11/Self-Portrait_Mind-blowing-1.webp
 ---
 #### 學歷
 

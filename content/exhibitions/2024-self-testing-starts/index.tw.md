@@ -4,7 +4,7 @@ categories:
 date: 2024-04-16T08:46:52+08:00
 endDate: 2024-06-23
 venue: 金車文藝中心承德館，臺北，臺灣
-description:
+description: 在學會搭公車這件事的大概十年後，我第一次在臺北的公車上，看見跑馬燈跑過：「自我測試開始」。那是一句沒有明確對象的話；或者說，是一句對「自己」說的話，一句自言自語。
 draft: false
 image: /ghost-images/2024/11/2021-road-movie-2024-king-car_8.webp
 tags:
@@ -22,6 +22,11 @@ images:
   - /ghost-images/2024/11/2021-road-movie-2024-king-car_7.webp
   - /ghost-images/2024/06/20240430165506-mini-Srgb--.webp
   - DSC04836.jpg
+  - DSC04818.jpg
+  - P1050045.jpeg
+  - P1050088.jpeg
+  - P1050036.jpeg
+  - S__26001606_0.jpg
 ---
 ### 展覽簡介
 

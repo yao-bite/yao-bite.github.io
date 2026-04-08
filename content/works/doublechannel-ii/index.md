@@ -22,8 +22,7 @@ This work starts with one performer whispering a monologue. When the second perf
 #### 2024 [Rehearsal for Re-her-sal: Preview](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94?ref=peiyao.run)
 Museum of Contemporary Art Taipei, Taipei, Taiwan (group exhibition)  
 Curated by Chun-Lin Yen. 
-{{< youtube "8TN4r2BzLwo" "Hello there" >}}
-Filmed & Edited by LIN Pei-Yao.
+{{< youtube "8TN4r2BzLwo" "Filmed & Edited by LIN Pei-Yao." >}}
 
 {{< album >}}
 2024-DChannel2-3-moca.webp
@@ -45,10 +44,9 @@ Filmed & Edited by LIN Pei-Yao.
 2024-DChannel2-13-moca.webp
 {{< /album >}}
 
-**Openning Performance**  
+### Openning Performance
 
-{{< youtube "PZLqw6IUf84" "Test" >}}
-Filmed & Edited by I-Shun Chen.
+{{< youtube "PZLqw6IUf84" "Filmed & Edited by I-Shun Chen." >}}
 
 {{< album >}}
 2024-DChannel2-p1-moca.webp
