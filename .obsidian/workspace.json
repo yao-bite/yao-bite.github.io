@@ -11,14 +11,12 @@
             "id": "e668d077a9cf4e5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
-                "mode": "source",
-                "source": false
+                "file": "content/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index.tw"
+              "icon": "lucide-image",
+              "title": "DSC04836.tw"
             }
           },
           {
@@ -27,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
+                "file": "content/exhibitions/2024-self-testing-starts/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -262,10 +260,23 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "96b4547c0620ea30",
+  "active": "ece0cd61acfc7dd2",
   "lastOpenFiles": [
-    "content/exhibitions/2024-the-dual-double-channel/index.md",
+    "content/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
+    "content/exhibitions/2024-self-testing-starts/DSC04818.tw.jpg",
+    "content/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
+    "public/tw/exhibitions/2024-self-testing-starts/P1050036.tw.jpeg",
+    "public/tw/exhibitions/2024-self-testing-starts/P1050045.tw.jpeg",
+    "public/tw/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
+    "public/tw/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
+    "public/tw/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
+    "content/exhibitions/2024-self-testing-starts/index.tw.md",
+    "public/tw/exhibitions/2024-self-testing-starts/DSC04818.tw.jpg",
+    "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
+    "content/exhibitions/2024-self-testing-starts/P1050045.tw.jpeg",
+    "templates/album.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/two-faced/index.md",
@@ -287,27 +298,15 @@
     "content/works/windowing/index.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/P1013677.tw.webp",
     "public/exhibitions/2024-the-dual-double-channel/index.html",
     "public/exhibitions/2024-the-dual-double-channel",
-    "public/tw/exhibitions/2024-the-dual-double-channel/P1013677-修.tw.webp",
-    "content/works/two-faced/2022-twofaced-2024kingcar-9.tw.webp",
-    "public/tw/exhibitions/2024-the-dual-double-channel/P1013677.tw.webp",
-    "templates/album.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
-    "tw/exhibitions/2025-who-is-the-speaker.md",
-    "works/interview-with-a-philosopher.md",
     "works",
     "public/tw/categories/solo/index.xml",
     "public/tw/categories/solo/index.html",
     "public/tw/categories/solo",
     "public/works/two-faced/index.html",
     "public/works/two-faced",
-    "content/works/two-faced/2022-Two-faced-b.tw.webp",
-    "content/works/two-faced/2022-Two-faced-3.tw.webp",
-    "content/works/two-faced/2022-Two-faced-1.tw.webp",
-    "content/works/two-faced/2022-Two-faced-9.tw.webp",
-    "content/works/two-faced/2022-Two-faced-8.tw.webp",
     "public/tw/about/index.html"
   ]
 }
