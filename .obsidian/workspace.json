@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
+                "file": "content/works/doublechannel-ii/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -248,6 +248,7 @@
   },
   "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
+    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.md",
     "content/cv/index.tw.md",
     "content/cv/index.md",
@@ -278,7 +279,6 @@
     "public/tw/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
     "public/tw/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
     "templates/album.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "templates/credits - exhibition view.md",
     "content/works/lionplaza-lightpool/index.md",
