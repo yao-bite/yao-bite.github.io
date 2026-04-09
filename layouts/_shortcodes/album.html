@@ -8,7 +8,7 @@
 {{- end -}}
 {{- $id := printf "album-%d" .Ordinal -}}
 
-<div id="{{ $id }}" class="relative w-full aspect-[3/2] bg-gray-100 select-none">
+<div id="{{ $id }}" class="relative w-full aspect-[3/2] bg-gray-100 select-none mb-2">
 
   {{/* Left button */}}
   <button id="{{ $id }}-prev"
@@ -54,12 +54,10 @@
     {{- end -}}
   </div>
   {{- end -}}
-
 </div>
 
 {{- if $caption -}}
-<!--<p class="text-sm text-gray-500 mt-2">{{ $caption }}</p>-->
-<p class="text-center text-sm text-gray-500 mt-2">{{ $caption }}</p>
+<p class="text-center text-sm text-gray-500 mb-2">{{ $caption }}</p>
 {{- end -}}
 
 <script>
