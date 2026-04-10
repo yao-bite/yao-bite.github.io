@@ -30,7 +30,7 @@ Through media, a multi-channel body further multiplies its perceptions. Conseque
 
 
 ---
-#### Gaze Triangle
+#### [Gaze Triangle](/works/gaze-triangle)
 Three-channel video / 03’39” / 2021
 
 {{< album "Photo by Chu Chi-Hung." >}}

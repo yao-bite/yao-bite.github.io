@@ -11,26 +11,26 @@
             "id": "0d2c5099a358b370",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/exhibitions/2024-self-testing-starts/index.tw.md",
-                "mode": "source",
-                "source": false
+                "file": "content/works/gaze-triangle/2021-gaze triangle_4.webp"
               },
-              "icon": "lucide-file",
-              "title": "index.tw"
+              "icon": "lucide-image",
+              "title": "2021-gaze triangle_4"
             }
           },
           {
             "id": "b44138c16bd0ae57",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/images/icon.png"
+                "file": "content/works/gaze-triangle/index.tw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "icon"
+              "icon": "lucide-file",
+              "title": "index.tw"
             }
           },
           {
@@ -258,53 +258,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e5af3986ce4afab2",
+  "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
-    "public/images/icon.png",
+    "templates/展出紀錄.md",
+    "templates/攝影.md",
+    "content/works/gaze-triangle/2021-gaze triangle_4.webp",
+    "content/works/gaze-triangle/index.tw.md",
+    "public/tw/works/gaze-triangle/index.html",
+    "public/tw/works/gaze-triangle",
+    "content/works/gaze-triangle/index.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.md",
+    "content/works/gaze-triangle/2021-gaze triangle_3.webp",
+    "content/works/gaze-triangle/2021-gaze triangle_2.webp",
+    "content/works/gaze-triangle/2021-gaze triangle_1.webp",
+    "content/works/gaze-triangle/2021-gaze triangle_5.webp",
+    "content/works/gaze-triangle/2024-projectseek-6-55739.webp",
+    "content/works/gaze-triangle/2024-projectseek-7-43030.webp",
+    "content/works/gaze-triangle/2024-projectseek-5-60205.webp",
+    "content/works/gaze-triangle/2024-projectseek-3-41135.webp",
+    "content/works/gaze-triangle/2024-projectseek-2-40544.webp",
+    "content/works/doublechannel-ii/index.md",
+    "content/works/doublechannel-ii/index.tw.md",
+    "templates/photo by.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
+    "exhibition/2024-the-dual-double-channel.md",
+    "exhibition",
+    "public/works/gaze-triangle/index.html",
+    "public/works/gaze-triangle/未命名/index.html",
+    "public/works/gaze-triangle/未命名",
+    "public/works/gaze-triangle",
     "content/exhibitions/2024-self-testing-starts/index.md",
-    "public/images/weblogo.png",
-    "static/images/icon.png",
+    "README.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
-    "content/works/ontheground/2020-OnTheGround-2-2024kingcar-65902.webp",
-    "content/works/ontheground/2020-OnTheGround-1-2024kingcar-65824.webp",
-    "content/works/ontheground/2020-OnTheGround-screenshot-5.webp",
+    "templates/writing.md",
     "content/works/ontheground/index.md",
     "content/works/two-faced/index.md",
     "works/listen-talk.md",
     "works",
     "public/exhibitions/2024-self-testing-starts/index.html",
     "public/exhibitions/2024-self-testing-starts",
-    "README.md",
     "content/works/doublechannel-eyes/index.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/works/mind-blowing/index.md",
-    "content/works/doublechannel-ii/index.md",
     "content/works/set-interval/index.md",
     "templates/Credits (tw).md",
     "content/works/roadmovie/index.md",
     "templates/exhibition.md",
     "templates/youtube.md",
-    "templates/album+caption.md",
-    "templates/writing.md",
-    "templates/album.md",
-    "templates/credits - exhibition view.md",
-    "templates/filmed by.md",
-    "templates/photo by.md",
-    "content/works/listen-talk/index.md",
-    "templates/work.md",
-    "templates/vimeo.md",
-    "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
-    "content/exhibitions/2024-the-dual-double-channel/P1013677.tw.webp",
-    "public/js/album.js",
-    "public/js",
-    "static/js/album.js",
-    "static/js",
-    "content/exhibitions/2024-self-testing-starts/P1050045.tw.jpeg",
-    "content/exhibitions/2024-self-testing-starts/P1050036.tw.jpeg",
-    "content/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
-    "layouts/_shortcodes/youtube.html",
-    "layouts/_shortcodes/vimeo.html",
-    "content/works/gaze-triangle"
+    "templates/album+caption.md"
   ]
 }

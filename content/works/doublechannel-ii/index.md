@@ -10,7 +10,7 @@ tags:
 medium: Double-channel video, three-channel audio installation
 dimensions: 08’37”
 ---
-![](2024-DChannel2-2-moca.tw.webp)
+![Photo by Chu Chi-Hung.](2024-DChannel2-2-moca.tw.webp)
 
 When we try to understand others, we can only empathize and imagine what others think or feel. So, does this process of putting “ourselves” in others’ shoes make others part of ourselves? When thinking about the self, we engage in the act of othering. Does this mean that the self is, in a way, an other?
 

@@ -150,5 +150,5 @@ Special Thanks: Chiow Liang-Cherng, Justin Lin
 
 - [Artist Interview](https://www.kingcarart.org.tw/exhibitions-detail/197)
 * [Exhibition Conversation](https://www.kingcarart.org.tw/projects-detail/147) （with Chun-Yi Chang & Ying-Tung Lin)
-* [3D列印真實——林沛瑤個展「自我測試開始」](https://talks.taishinart.org.tw/members/225/38543) by張韻婷）
-- [「自我測試開始」 — 新技術下的感性回音](https://medium.com/@sheryl861025/%E8%87%AA%E6%88%91%E6%B8%AC%E8%A9%A6%E9%96%8B%E5%A7%8B-%E6%96%B0%E6%8A%80%E8%A1%93%E4%B8%8B%E7%9A%84%E6%84%9F%E6%80%A7%E5%9B%9E%E9%9F%B3-a8632d5611b4)（文／柯曉如）
+* [3D列印真實——林沛瑤個展「自我測試開始」](https://talks.taishinart.org.tw/members/225/38543) by Yun-Ting Chang (張韻婷)  
+- [「自我測試開始」 — 新技術下的感性回音](https://medium.com/@sheryl861025/%E8%87%AA%E6%88%91%E6%B8%AC%E8%A9%A6%E9%96%8B%E5%A7%8B-%E6%96%B0%E6%8A%80%E8%A1%93%E4%B8%8B%E7%9A%84%E6%84%9F%E6%80%A7%E5%9B%9E%E9%9F%B3-a8632d5611b4) by Ke Siao Ru (柯曉如)
