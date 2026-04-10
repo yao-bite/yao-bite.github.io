@@ -25,15 +25,15 @@
   }
 
   .prose h1 {
-    @apply text-4xl font-light mb-6 mt-8;
+    @apply text-4xl mb-6 mt-8;
   }
 
   .prose h2 {
-    @apply text-3xl font-light mb-4 mt-8;
+    @apply text-3xl mb-4 mt-8;
   }
 
   .prose h3 {
-    @apply text-2xl font-light mb-3 mt-6;
+    @apply text-2xl mb-3 mt-6;
   }
 
   .prose h4 {

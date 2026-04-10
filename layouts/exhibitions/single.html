@@ -18,7 +18,7 @@
           <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full object-cover mb-6">
       {{ end }}
 
-      <h1 class="text-3xl md:text-5xl font-light mb-6">{{ .Title }}</h1>
+      <h1 class="text-3xl md:text-5xl  mb-6">{{ .Title }}</h1>
 
       <div class="text-lg text-gray-700 space-y-2">
         {{ with .Params.venue }}
@@ -49,7 +49,7 @@
     <!-- Photo Gallery -->
     {{ with .Params.images }}
     <div class="max-w-6xl mx-auto">
-      <h2 class="text-2xl font-light mb-8">Exhibition Views</h2>
+      <h2 class="text-2xl  mb-8">Exhibition Views</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
         {{ range . }}
         {{ $imagePath := . }}
@@ -67,7 +67,7 @@
     <!-- Featured Works in Exhibition -->
     {{ with .Params.works }}
     <div class="max-w-6xl mx-auto mt-16 pt-8 border-t">
-      <h2 class="text-2xl font-light mb-8">Featured Works</h2>
+      <h2 class="text-2xl  mb-8">Featured Works</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
         {{ range . }}
         <div class="text-gray-700">

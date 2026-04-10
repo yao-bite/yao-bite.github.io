@@ -2,9 +2,9 @@
 
 <section class="py-16 md:py-24">
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
-    
+
     <div class="max-w-4xl mx-auto">
-      
+
       {{ with .Params.image }}
           {{ $imagePath := . }}
           {{ if not (hasPrefix . "/") }}
@@ -12,13 +12,13 @@
           {{ end }}
           <img src="{{ $imagePath | relURL }}" alt="{{ $.Title }}" class="w-full object-cover mb-6">
       {{ end }}
-      
-      <h1 class="text-4xl md:text-5xl font-light mb-12">{{ .Title }}</h1>
+
+      <h1 class="text-4xl md:text-5xl  mb-12">{{ .Title }}</h1>
 
       <!-- Education -->
       {{ with .Params.education }}
       <div class="mb-12">
-        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Education</h2>
+        <h2 class="text-2xl  mb-6 pb-2 border-b">Education</h2>
         <div class="space-y-4">
           {{ range . }}
           <div class="flex justify-between items-start">
@@ -35,11 +35,11 @@
         </div>
       </div>
       {{ end }}
-      
+
       <!-- Solo Exhibitions -->
       {{ with .Params.solo_exhibitions }}
       <div class="mb-12">
-        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Solo Exhibitions</h2>
+        <h2 class="text-2xl  mb-6 pb-2 border-b">Solo Exhibitions</h2>
         <div class="space-y-4">
           {{ range . }}
           <div class="flex justify-between items-start">
@@ -53,11 +53,11 @@
         </div>
       </div>
       {{ end }}
-      
+
       <!-- Group Exhibitions -->
       {{ with .Params.group_exhibitions }}
       <div class="mb-12">
-        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Group Exhibitions</h2>
+        <h2 class="text-2xl  mb-6 pb-2 border-b">Group Exhibitions</h2>
         <div class="space-y-4">
           {{ range . }}
           <div class="flex justify-between items-start">
@@ -71,11 +71,11 @@
         </div>
       </div>
       {{ end }}
-      
+
       <!-- Performances -->
       {{ with .Params.performances }}
       <div class="mb-12">
-        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Performances</h2>
+        <h2 class="text-2xl  mb-6 pb-2 border-b">Performances</h2>
         <div class="space-y-4">
           {{ range . }}
           <div class="flex justify-between items-start">
@@ -89,11 +89,11 @@
         </div>
       </div>
       {{ end }}
-      
+
       <!-- Awards & Grants -->
       {{ with .Params.awards }}
       <div class="mb-12">
-        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Awards & Grants</h2>
+        <h2 class="text-2xl  mb-6 pb-2 border-b">Awards & Grants</h2>
         <div class="space-y-4">
           {{ range . }}
           <div class="flex justify-between items-start">
@@ -109,11 +109,11 @@
         </div>
       </div>
       {{ end }}
-      
+
       <!-- Publications -->
       {{ with .Params.publications }}
       <div class="mb-12">
-        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Publications</h2>
+        <h2 class="text-2xl  mb-6 pb-2 border-b">Publications</h2>
         <div class="space-y-4">
           {{ range . }}
           <div class="flex justify-between items-start">
@@ -129,11 +129,11 @@
         </div>
       </div>
       {{ end }}
-      
+
       <!-- Collections -->
       {{ with .Params.collections }}
       <div class="mb-12">
-        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Collections</h2>
+        <h2 class="text-2xl  mb-6 pb-2 border-b">Collections</h2>
         <div class="space-y-2">
           {{ range . }}
           <p class="text-gray-700">{{ . }}</p>
@@ -141,11 +141,11 @@
         </div>
       </div>
       {{ end }}
-      
+
       <!-- Residencies -->
       {{ with .Params.residencies }}
       <div class="mb-12">
-        <h2 class="text-2xl font-light mb-6 pb-2 border-b">Residencies</h2>
+        <h2 class="text-2xl  mb-6 pb-2 border-b">Residencies</h2>
         <div class="space-y-4">
           {{ range . }}
           <div class="flex justify-between items-start">
@@ -161,16 +161,16 @@
         </div>
       </div>
       {{ end }}
-      
+
       <!-- Additional Content -->
       {{ with .Content }}
       <div class="prose prose-lg max-w-none">
         {{ . }}
       </div>
       {{ end }}
-      
+
     </div>
-    
+
   </div>
 </section>
 

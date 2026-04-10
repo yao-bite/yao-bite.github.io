@@ -6,7 +6,7 @@
   <img src="{{ . | relURL }}" alt="{{ $.Site.Title }}" class="w-full h-full object-cover">
   {{ else }}
   <div class="w-full h-full flex items-center justify-center">
-    <h1 class="text-4xl md:text-6xl font-light text-gray-400">{{ .Site.Title }}</h1>
+    <h1 class="text-4xl md:text-6xl  text-gray-400">{{ .Site.Title }}</h1>
   </div>
   {{ end }}
 </section>
@@ -14,7 +14,7 @@
 <!-- Featured Works -->
 <section class="py-16 md:py-24">
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
-    <h2 class="text-3xl md:text-4xl font-light mb-12">Featured Works</h2>
+    <h2 class="text-3xl md:text-4xl  mb-12">Featured Works</h2>
 
     {{ $works := where .Site.RegularPages "Section" "works" }}
     {{ $featuredWorks := where $works ".Params.featured" true }}
@@ -61,7 +61,7 @@
 {{ if gt (len $currentExhibitions) 0 }}
 <section class="py-16 md:py-24 bg-white">
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
-    <h2 class="text-3xl md:text-4xl font-light mb-12">Current Exhibition</h2>
+    <h2 class="text-3xl md:text-4xl  mb-12">Current Exhibition</h2>
 
     {{ range first 1 $currentExhibitions }}
     {{ $page := . }}
@@ -94,7 +94,7 @@
 <!-- Recent Exhibitions -->
 <section class="py-16 md:py-24 bg-white">
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
-    <h2 class="text-3xl md:text-4xl font-light mb-12">Recent Exhibitions</h2>
+    <h2 class="text-3xl md:text-4xl  mb-12">Recent Exhibitions</h2>
 
     {{ $recentExhibitions := where $exhibitions ".Params.current" "!=" true | first 3 }}
     <div class="space-y-8">
@@ -137,7 +137,7 @@
 <!-- Latest Writings -->
 <section class="py-16 md:py-24">
   <div class="container mx-auto px-4 md:px-8 lg:px-16">
-    <h2 class="text-3xl md:text-4xl font-light mb-12">Latest Writings</h2>
+    <h2 class="text-3xl md:text-4xl  mb-12">Latest Writings</h2>
 
     {{ $writings := where .Site.RegularPages "Section" "writings" }}
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
