@@ -59,4 +59,4 @@ Filmed by KO LAIHE. Edited by LIN Pei-Yao.
 Writer, Director, Performer & Editor: LIN Pei-Yao  
 Cinematography: KO LAIHE  
 3D model scanning: Wu Yi-Jhen  
-3D scanning clip shooting: SHIH Li-Jia  
+3D scanning clip shooting: Shih Li-Jia  

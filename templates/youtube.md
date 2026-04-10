@@ -1,1 +1,1 @@
-{{< youtube "gh-UvZkEhOs" >}}
+{{< youtube "gh-UvZkEhOs" "caption" >}}

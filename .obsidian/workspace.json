@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e668d077a9cf4e5d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "S__26001606_0.tw"
-            }
-          },
-          {
-            "id": "96b4547c0620ea30",
+            "id": "0d2c5099a358b370",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,14 +25,12 @@
             "id": "b44138c16bd0ae57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/works/doublechannel-ii/index.tw.md",
-                "mode": "source",
-                "source": false
+                "file": "static/images/icon.png"
               },
-              "icon": "lucide-file",
-              "title": "index.tw"
+              "icon": "lucide-image",
+              "title": "icon"
             }
           },
           {
@@ -62,33 +48,59 @@
             }
           },
           {
-            "id": "e3553390a395420b",
+            "id": "328aa983bfdf88a4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "content/exhibitions/2024-the-dual-double-channel/P1013677.tw.webp"
-              },
-              "icon": "lucide-image",
-              "title": "P1013677.tw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           },
           {
-            "id": "737acbff7ccb442c",
+            "id": "04d0dae3e0bae51e",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "terminal:terminal",
               "state": {
-                "file": "content/works/two-faced/index.md",
-                "mode": "source",
-                "source": false
+                "terminal:terminal": {
+                  "cwd": "/Users/peiyao.run/src/yao-bite.github.io",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "pinned": true,
+              "icon": "terminal",
+              "title": "終端：zsh"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,53 +258,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b44138c16bd0ae57",
+  "active": "e5af3986ce4afab2",
   "lastOpenFiles": [
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.md",
-    "content/cv/index.tw.md",
-    "content/cv/index.md",
-    "content/works/two-faced/index.md",
-    "content/works/two-faced/index.tw.md",
+    "public/images/icon.png",
+    "content/exhibitions/2024-self-testing-starts/index.md",
+    "public/images/weblogo.png",
+    "static/images/icon.png",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
+    "content/works/ontheground/2020-OnTheGround-2-2024kingcar-65902.webp",
+    "content/works/ontheground/2020-OnTheGround-1-2024kingcar-65824.webp",
+    "content/works/ontheground/2020-OnTheGround-screenshot-5.webp",
+    "content/works/ontheground/index.md",
+    "content/works/two-faced/index.md",
+    "works/listen-talk.md",
+    "works",
+    "public/exhibitions/2024-self-testing-starts/index.html",
+    "public/exhibitions/2024-self-testing-starts",
     "README.md",
+    "content/works/doublechannel-eyes/index.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
+    "content/works/mind-blowing/index.md",
+    "content/works/doublechannel-ii/index.md",
+    "content/works/set-interval/index.md",
+    "templates/Credits (tw).md",
+    "content/works/roadmovie/index.md",
+    "templates/exhibition.md",
+    "templates/youtube.md",
+    "templates/album+caption.md",
+    "templates/writing.md",
+    "templates/album.md",
+    "templates/credits - exhibition view.md",
+    "templates/filmed by.md",
+    "templates/photo by.md",
+    "content/works/listen-talk/index.md",
+    "templates/work.md",
+    "templates/vimeo.md",
+    "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
+    "content/exhibitions/2024-the-dual-double-channel/P1013677.tw.webp",
     "public/js/album.js",
     "public/js",
     "static/js/album.js",
     "static/js",
-    "content/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
     "content/exhibitions/2024-self-testing-starts/P1050045.tw.jpeg",
     "content/exhibitions/2024-self-testing-starts/P1050036.tw.jpeg",
     "content/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
-    "content/works/doublechannel-ii/index.tw.md",
-    "content/works/who-is-the-speaker/index.md",
-    "content/works/doublechannel-ii/index.md",
-    "content/about/index.tw.md",
-    "content/about/index.md",
-    "templates/vimeo.md",
-    "content/exhibitions/2024-self-testing-starts/DSC04836.tw.jpg",
     "layouts/_shortcodes/youtube.html",
     "layouts/_shortcodes/vimeo.html",
-    "content/exhibitions/2024-self-testing-starts/DSC04818.tw.jpg",
-    "public/tw/exhibitions/2024-self-testing-starts/P1050036.tw.jpeg",
-    "public/tw/exhibitions/2024-self-testing-starts/P1050045.tw.jpeg",
-    "public/tw/exhibitions/2024-self-testing-starts/P1050088.tw.jpeg",
-    "public/tw/exhibitions/2024-self-testing-starts/S__26001606_0.tw.jpg",
-    "templates/album.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
-    "templates/credits - exhibition view.md",
-    "content/works/lionplaza-lightpool/index.md",
-    "content/works/doublechannel-eyes/index.tw.md",
-    "content/works/roadmovie/index.md",
-    "content/works/run-into-100percent-selves/index.md",
-    "content/works/mind-blowing/index.md",
-    "content/works/listen-talk/index.md",
-    "content/works/seasons-change/index.md",
-    "content/works/set-interval/index.md",
-    "content/works/ontheground/index.md",
-    "content/works/gaze-triangle",
-    "public/exhibitions/2024-the-dual-double-channel/index.html",
-    "public/exhibitions/2024-the-dual-double-channel",
-    "works"
+    "content/works/gaze-triangle"
   ]
 }

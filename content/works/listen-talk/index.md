@@ -1,13 +1,13 @@
 ---
+title: Listen, talk. (My Tribute to Vincent van Gogh)
+medium: 3D scan of the artist’s body parts, 3D printing
+dimensions: 18(H)x18.5x16, 16(H)x18.5x16cm
 date: 2023-12-15T04:27:14+08:00
 description: It is said that some expressions, although received by no one, are still two-way, spoken both to others and to oneself.
 draft: false
 featured: false
 image: 2023-listentalk-2024kingcar-combine.webp
 tags:
-title: Listen, talk. (My Tribute to Vincent van Gogh)
-medium: 3D scan of the artist’s body parts, 3D printing
-dimensions: 18(H)x18.5x16, 16(H)x18.5x16cm
 ---
 It is said that some expressions, although received by no one, are still two-way, spoken both to others and to oneself. Among them, some are initially violent towards oneself and become another form of violence when expressed outwardly. It's a kind of soliloquy that has two directions.  
 

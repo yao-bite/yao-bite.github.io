@@ -43,8 +43,7 @@ Underground Gallery, TNUA, Taipei, Taiwan
 {{< /album >}}
 
 ---
-{{< youtube "N68QV7lDmek" >}}
-Filmed by KO LAIHE. Edited by LIN Pei-Yao.
+{{< youtube "N68QV7lDmek" "Exhibition View (filmed by KO LAIHE; edited by LIN Pei-Yao)" >}}
 
 ---
 ### Credits
