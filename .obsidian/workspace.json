@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d2c5099a358b370",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "content/works/gaze-triangle/2021-gaze triangle_4.webp"
-              },
-              "icon": "lucide-image",
-              "title": "2021-gaze triangle_4"
-            }
-          },
-          {
             "id": "b44138c16bd0ae57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/gaze-triangle/index.tw.md",
+                "file": "content/works/windowing/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           },
           {
@@ -45,16 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "328aa983bfdf88a4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
             }
           },
           {
@@ -99,8 +77,7 @@
               "title": "終端：zsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,16 +237,25 @@
   },
   "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
+    "content/works/windowing/index.tw.md",
+    "content/works/windowing/index.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.md",
+    "ghost-images/2023/12/DSC_0313-2.webp.md",
+    "exhibition/2024-the-dual-double-channel.md",
+    "content/works/gaze-triangle/2021-gaze triangle_3.webp",
+    "content/works/listen-talk/index.md",
+    "content/works/lionplaza-lightpool/index.md",
+    "public/works/windowing/index.html",
+    "public/works/windowing",
+    "content/works/givemefive/index.tw.md",
+    "content/works/gaze-triangle/index.tw.md",
+    "content/works/gaze-triangle/2021-gaze triangle_4.webp",
     "templates/展出紀錄.md",
     "templates/攝影.md",
-    "content/works/gaze-triangle/2021-gaze triangle_4.webp",
-    "content/works/gaze-triangle/index.tw.md",
     "public/tw/works/gaze-triangle/index.html",
     "public/tw/works/gaze-triangle",
     "content/works/gaze-triangle/index.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.md",
-    "content/works/gaze-triangle/2021-gaze triangle_3.webp",
     "content/works/gaze-triangle/2021-gaze triangle_2.webp",
     "content/works/gaze-triangle/2021-gaze triangle_1.webp",
     "content/works/gaze-triangle/2021-gaze triangle_5.webp",
@@ -282,7 +268,6 @@
     "content/works/doublechannel-ii/index.tw.md",
     "templates/photo by.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
-    "exhibition/2024-the-dual-double-channel.md",
     "exhibition",
     "public/works/gaze-triangle/index.html",
     "public/works/gaze-triangle/未命名/index.html",
@@ -296,15 +281,6 @@
     "content/works/two-faced/index.md",
     "works/listen-talk.md",
     "works",
-    "public/exhibitions/2024-self-testing-starts/index.html",
-    "public/exhibitions/2024-self-testing-starts",
-    "content/works/doublechannel-eyes/index.md",
-    "content/works/mind-blowing/index.md",
-    "content/works/set-interval/index.md",
-    "templates/Credits (tw).md",
-    "content/works/roadmovie/index.md",
-    "templates/exhibition.md",
-    "templates/youtube.md",
-    "templates/album+caption.md"
+    "content/works/doublechannel-eyes/index.md"
   ]
 }

@@ -34,9 +34,9 @@ Kaohsiung Museum of Fine Arts, Kaohsiung, Taiwan
 2023-listentalk-2024kmfa-3.webp
 {{< /album >}}
 Photo by Studio Millspace. Courtesy of Kaohsiung Museum of Fine Arts.
-### Not Until Day Dreamed
-Pine Garden, Hualien, Taiwan  
-Group exhibition, 2023
+### 2023 Not Until Day Dreamed
+Pine Garden, Hualien, Taiwan (group exhibition)  
+
 {{< album >}}
 /ghost-images/2023/12/DSC_0083.webp
 /ghost-images/2023/12/DSC_0061-2.webp
