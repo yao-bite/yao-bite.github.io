@@ -23,24 +23,23 @@ dimensions: 08’37”
 台北當代藝術館，臺北，臺灣（聯展）  
 策展：嚴淳齡  
 
-{{< youtube "8TN4r2BzLwo" >}}
-拍攝與剪輯：林沛瑤
+{{< youtube "8TN4r2BzLwo" "拍攝與剪輯：林沛瑤" >}}
 
-{{< album >}}
+{{< album "攝影：王士源／圖片來源：台北當代藝術館" >}}
 2024-DChannel2-3-moca.webp
 2024-DChannel2-4-moca.webp
 2024-DChannel2-5-moca.webp
 2024-DChannel2-6-moca.webp
 {{< /album >}}
 
-{{< album >}}
+{{< album "攝影：王士源／圖片來源：台北當代藝術館" >}}
 2024-DChannel2-7-moca.webp
 2024-DChannel2-8-moca.webp
 2024-DChannel2-9-moca.webp
 2024-DChannel2-10-moca.webp
 {{< /album >}}
 
-{{< album >}}
+{{< album "攝影：王士源／圖片來源：台北當代藝術館" >}}
 2024-DChannel2-11-moca.webp
 2024-DChannel2-12-moca.webp
 2024-DChannel2-13-moca.webp
@@ -48,10 +47,9 @@ dimensions: 08’37”
 
 **開幕演出**   
 
-{{< youtube "PZLqw6IUf84" >}}
-拍攝與剪輯：陳儀勳
+{{< youtube "PZLqw6IUf84" "拍攝與剪輯：陳儀勳" >}}
 
-{{< album >}}
+{{< album "攝影：王士源／圖片來源：台北當代藝術館" >}}
 2024-DChannel2-p1-moca.webp
 2024-DChannel2-p2-moca.webp
 2024-DChannel2-p3-moca.webp
@@ -59,36 +57,34 @@ dimensions: 08’37”
 2024-DChannel2-p5-moca.webp
 {{< /album >}}
 
-{{< album >}}
+{{< album "攝影：王士源／圖片來源：台北當代藝術館" >}}
 2024-DChannel2-p6-moca.webp
 2024-DChannel2-p7-moca.webp
 2024-DChannel2-p8-moca.webp
 2024-DChannel2-p9-moca.webp
 {{< /album >}}
-攝影：王士源／圖片來源：台北當代藝術館
 
 ---
 ### 2024 雙頻道
 洪建全基金會，臺北，臺灣  
 
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 2024-DChannel2-1-hong.webp
 2024-DChannel2-2-hong.webp
 2024-DChannel2-3-hong.webp
 {{< /album >}}
 
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 2024-DChannel2-4-hong.webp
 2024-DChannel2-5-hong.webp
 2024-DChannel2-6-hong.webp
 {{< /album >}}
 
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 2024-DChannel2-7-hong.webp
 2024-DChannel2-8-hong.webp
 2024-DChannel2-9-hong.webp
 {{< /album >}}
-攝影：朱淇宏
 
 ---
 ### Credits
