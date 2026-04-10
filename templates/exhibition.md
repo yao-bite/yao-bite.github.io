@@ -13,7 +13,7 @@ featured:
 abc
 
 ---
-### Work Title
+#### Work Title
 media / dimension / year
 
 {{< album "Photo by Chu Chi-Hung" >}}
