@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2021-run-into-my-cell/index.md",
+                "file": "content/writings/art-review-hernia-maniac/index.tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.tw"
             }
           },
           {
@@ -250,10 +250,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e0b31e3b8a37de04",
+  "active": "e5af3986ce4afab2",
   "lastOpenFiles": [
-    "content/works/run-into-100percent-selves/index.md",
+    "content/writings/reborn/index.tw.md",
+    "content/writings/liyifan-rewiring/index.tw.md",
+    "content/writings/interviewofanartist/index.tw.md",
+    "content/writings/photo-album-kingcar-2024/index.tw.md",
+    "content/writings/howtextcreatesdistance/index.md",
+    "content/writings/howtextcreatesdistance/index.tw.md",
     "content/exhibitions/2021-run-into-my-cell/index.md",
+    "content/works/run-into-100percent-selves/index.md",
     "content/works/gaze-triangle/index.md",
     "content/exhibitions/2021-run-into-my-cell/index.tw.md",
     "content/works/run-into-100percent-selves/index.tw.md",
@@ -290,13 +296,7 @@
     "content/works/gaze-triangle/2024-projectseek-5-60205.webp",
     "content/works/gaze-triangle/2024-projectseek-3-41135.webp",
     "content/works/gaze-triangle/2024-projectseek-2-40544.webp",
-    "content/works/doublechannel-ii/index.md",
-    "content/works/doublechannel-ii/index.tw.md",
-    "templates/photo by.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "exhibition",
-    "public/works/gaze-triangle/index.html",
-    "content/exhibitions/2024-self-testing-starts/index.md",
-    "README.md"
+    "public/works/gaze-triangle/index.html"
   ]
 }
