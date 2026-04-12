@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/doublechannel-ii/index.tw.md",
+                "file": "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index.tw.md",
+                "file": "content/works/interview-with-a-philosopher/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -91,8 +91,7 @@
               "title": "終端：zsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,17 +249,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e0b31e3b8a37de04",
+  "active": "ece0cd61acfc7dd2",
   "lastOpenFiles": [
-    "content/about/index.md",
+    "public/hero.webp",
+    "content/hero.webp",
+    "content/_index.tw.md",
+    "content/_index.md",
+    "content/works/interview-with-a-philosopher/index.tw.md",
+    "content/works/je-suis-pas-fan/index.tw.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/about/index.tw.md",
+    "content/works/doublechannel-ii/index.tw.md",
+    "content/about/index.md",
     "static/images/hero.webp",
     "static/images/icon.png",
     "static/images/xxx.jpg",
     "content/exhibitions/2024-self-testing-starts/index.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "public/art-review-walkingonthewater/index.html",
     "public/art-review-walkingonthewater",
@@ -279,23 +285,17 @@
     "public/tw/works/interview-with-an-artist/2025-80Agallery-15.tw.webp",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-14.tw.webp",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-13.tw.webp",
-    "public/tw/works/interview-with-an-artist/2025-80Agallery-12.tw.webp",
     "README.md",
     "content/works/gaze-triangle/index.tw.md",
     "content/works/gaze-triangle/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
     "content/works/lionplaza-lightpool/index.md",
-    "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/interview-with-an-artist/index.tw.md",
     "content/works/interview-with-an-artist/index.md",
     "content/works/draft-givemefive/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-eyes/index.tw.md",
-    "content/works/doublechannel-eyes/index.md",
-    "content/works/interview-with-a-philosopher/index.md",
-    "content/works/interview-with-a-philosopher/index.tw.md",
-    "content/works/doublechannel-ii/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md"
+    "content/works/doublechannel-eyes/index.md"
   ]
 }
