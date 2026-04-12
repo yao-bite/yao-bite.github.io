@@ -2,7 +2,7 @@
 
 <!-- Hero Section -->
 <section class="hero-section w-full h-screen relative bg-gray-200">
-  {{ with .Site.Params.hero_image }}
+  {{ with .Params.cover }}
   <img src="{{ . | relURL }}" alt="{{ $.Site.Title }}" class="w-full h-full object-cover">
   {{ else }}
   <div class="w-full h-full flex items-center justify-center">
