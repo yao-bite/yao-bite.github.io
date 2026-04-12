@@ -1,7 +1,7 @@
 {{ with .GetTerms "tags" }}
-<div class="flex flex-row justify-start gap-3 mt-2 text-sm ml-0">
+<div class="mt-2 text-sm ml-0">
   {{ range . }}
-  <a href="{{ .RelPermalink }}" class="inline-block text-gray-600 bg-gray-300 px-3 rounded-xl hover:bg-gray-200">#{{ .LinkTitle }}</a>
+  <a href="{{ .RelPermalink }}" class="inline-block mr-2 mb-2 text-gray-600 bg-gray-300 px-3 rounded-xl hover:bg-gray-200">#{{ .LinkTitle }}</a>
   {{ end }}
 </ul>
 {{ end }}
