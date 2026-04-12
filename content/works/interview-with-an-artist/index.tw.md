@@ -1,13 +1,12 @@
 ---
-categories:
-date: 2025-03-06T12:28:37+08:00
-description: 在看訪談影片時，如果沒有字幕，我時常陷入影片中人物表情與肢體語言的泥淖中，時不時跟丟句子。
-draft: false
-image: /ghost-images/2025/03/_NZ_003.webp
-slug: interviewwithanartist
 title: 訪問一位藝術家
 medium: 展覽的訪談影像、逐字稿與錄音
 dimensions: 07’49”
+date: 2025-03-06T12:28:37+08:00
+categories:
+description: 在看訪談影片時，如果沒有字幕，我時常陷入影片中人物表情與肢體語言的泥淖中，時不時跟丟句子。
+draft: false
+image: /ghost-images/2025/03/_NZ_003.webp
 ---
 ![](2025-80Agallery-11.tw.webp)
 

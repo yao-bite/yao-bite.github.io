@@ -26,8 +26,7 @@ Zone Art, Taoyuan, Taiwan
 2025-Philosopher-ZoneArt-10.webp
 {{< /album >}}
 
-{{< youtube "CTOmMn235gI" >}}
-Exhibition view (filmed by Cheng Hsiang Yun, LIN Pei-Yao; edited by LIN Pei-Yao)
+{{< youtube "CTOmMn235gI" "Exhibition view (filmed by Cheng Hsiang Yun, LIN Pei-Yao; edited by LIN Pei-Yao)" >}}
 
 ---
 

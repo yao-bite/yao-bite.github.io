@@ -41,7 +41,7 @@ images:
 #### [遇見100%的我自己](/tw/works/run-into-100percent-selves)
 網路攝影機、投影機／2021
 
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 /ghost-images/2024/10/20240813144245-mini-SRGB---.webp
 /ghost-images/2024/10/20240813144252-mini-SRGB---.webp
 /ghost-images/2024/10/20240813144513-mini-SRGB---.webp

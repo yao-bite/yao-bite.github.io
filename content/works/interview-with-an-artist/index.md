@@ -1,16 +1,15 @@
 ---
+title: Inter-View with an Artist
+medium: "interview footage from Re-her-sal: Preview"
+dimensions: 07’49”
 categories:
 date: 2025-03-06T12:28:37+08:00
 description: When watching interview videos without subtitles, I often find myself lost in the expressions and body language of the speakers, occasionally missing parts of their speech.
-draft: false
 image: /ghost-images/2025/03/_NZ_003.webp
-slug: interviewwithanartist
+draft: false
 tags:
-title: Inter-View with an Artist
-medium: "Interview footage from Re-her-sal: Preview"
-dimensions: 07’49”
 ---
-![](2025-80Agallery-11.tw.webp)
+![Photo by Tsai Chih-Fan.](2025-80Agallery-11.tw.webp)
 
 When watching interview videos without subtitles, I often find myself lost in the expressions and body language of the speakers, occasionally missing parts of their speech. Interestingly, these interviews not only exclude the interviewer from the frame but also remove their questions, leaving the interviewee seemingly speaking to themselves.
 
@@ -29,8 +28,7 @@ Curated by Chun-Lin Yen.
 2025-80Agallery-2.webp
 {{< /album >}}
 
-{{< vimeo 1064155446 >}}
-Filmed by  I-Shun Chen. Edited by LIN Pei-Yao.
+{{< vimeo 1064155446 "Filmed by  I-Shun Chen. Edited by LIN Pei-Yao." >}}
 
 ---
 ### Credits

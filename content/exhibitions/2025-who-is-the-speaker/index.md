@@ -55,8 +55,7 @@ Single channel video
 
 ---
 
-{{< youtube "mKmAC1MVB6E" >}}
-Filmed by Cheng Hsiang Yun, LIN Pei-Yao. Edited by LIN Pei-Yao.  
+{{< youtube "mKmAC1MVB6E" "Exhibition view (filmed by Cheng Hsiang Yun; edited by LIN Pei-Yao)" >}}
 
 ---
 ### Credits 

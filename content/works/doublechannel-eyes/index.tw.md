@@ -47,8 +47,7 @@ dimensions: 35(H)x70x25cm; 03’19”
 {{< /album >}}
 
 ---
-{{< youtube "8PDUV0klZjw" >}}
-拍攝：蔡高來河／剪輯：林沛瑤
+{{< youtube "8PDUV0klZjw" "展出紀錄（攝影：高來河／剪輯：林沛瑤）" >}}
 ### Credits
 概念發想與統籌｜林沛瑤  
 手機影像拍攝與剪輯｜林沛瑤  

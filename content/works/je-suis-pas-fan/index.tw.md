@@ -1,11 +1,11 @@
 ---
-date: 2025-06-07T16:31:22+08:00
+title: 愛的哲學問題
+medium: 單頻道錄像
 dimensions: 10'43''
+date: 2025-06-07T16:31:22+08:00
 draft: false
 featured: false
 image: cover.webp
-medium: 單頻道錄像
-title: 愛的哲學問題
 description: 一支電扇吹拂黏貼其上的便利貼，不同顏色的便利貼寫著不同的句子。
 ---
 ![攝影：嘟嚕影像](2025-PasFan-ZoneArt-5.webp)

@@ -25,8 +25,7 @@ dimensions: 21’12”
 2025-Philosopher-ZoneArt-10.webp
 {{< /album >}}
 
-{{< youtube "CTOmMn235gI" >}}
-展出紀錄（拍攝：程詳芸、林沛瑤／剪輯：林沛瑤）
+{{< youtube "CTOmMn235gI" "展出紀錄（拍攝：程詳芸、林沛瑤／剪輯：林沛瑤）" >}}
 
 ---
 ### 哲學家簡介｜林映彤

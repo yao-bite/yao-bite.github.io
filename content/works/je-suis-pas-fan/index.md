@@ -1,11 +1,11 @@
 ---
-date: 2025-06-07T16:31:22+08:00
+title: Je suis pas fan
+medium: single channel video
 dimensions: 10'43''
+date: 2025-06-07T16:31:22+08:00
 draft: false
 featured: false
 image: cover.webp
-medium: Single channel video
-title: Je suis pas fan
 description: A fan blows across the Post-it notes stuck to it, each in a different color and bearing one of two French sentences—“Je suis fan” or “Je suis pas fan.”
 ---
 ![Photo by dulub_studio.](2025-PasFan-ZoneArt-5%201.webp)
