@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/doublechannel-ii/index.tw.md",
+                "file": "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index.tw.md",
+                "file": "content/works/interview-with-a-philosopher/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -91,8 +91,7 @@
               "title": "終端：zsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,17 +249,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e0b31e3b8a37de04",
+  "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
-    "content/about/index.md",
+    "content/works/interview-with-a-philosopher/index.tw.md",
+    "content/works/je-suis-pas-fan/index.tw.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/about/index.tw.md",
+    "content/works/doublechannel-ii/index.tw.md",
+    "content/about/index.md",
     "static/images/hero.webp",
     "static/images/icon.png",
     "static/images/xxx.jpg",
     "content/exhibitions/2024-self-testing-starts/index.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "public/art-review-walkingonthewater/index.html",
     "public/art-review-walkingonthewater",
@@ -285,7 +287,6 @@
     "content/works/gaze-triangle/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
     "content/works/lionplaza-lightpool/index.md",
-    "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/interview-with-an-artist/index.tw.md",
     "content/works/interview-with-an-artist/index.md",
@@ -294,8 +295,6 @@
     "content/works/doublechannel-eyes/index.tw.md",
     "content/works/doublechannel-eyes/index.md",
     "content/works/interview-with-a-philosopher/index.md",
-    "content/works/interview-with-a-philosopher/index.tw.md",
-    "content/works/doublechannel-ii/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md"
   ]
 }
