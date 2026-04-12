@@ -1,6 +1,6 @@
 ---
 categories:
-  - Reviews
+  - Essays
 date: 2025-09-06T13:18:40+08:00
 description: "How can text guide viewers into activating a particular state of thought, and in a reflexive manner, allow them to experience a differentiated self? "
 draft: false
