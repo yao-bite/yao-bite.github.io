@@ -249,8 +249,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b44138c16bd0ae57",
+  "active": "ece0cd61acfc7dd2",
   "lastOpenFiles": [
+    "public/hero.webp",
+    "content/hero.webp",
+    "content/_index.tw.md",
+    "content/_index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
@@ -281,7 +285,6 @@
     "public/tw/works/interview-with-an-artist/2025-80Agallery-15.tw.webp",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-14.tw.webp",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-13.tw.webp",
-    "public/tw/works/interview-with-an-artist/2025-80Agallery-12.tw.webp",
     "README.md",
     "content/works/gaze-triangle/index.tw.md",
     "content/works/gaze-triangle/index.md",
@@ -293,8 +296,6 @@
     "content/works/draft-givemefive/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-eyes/index.tw.md",
-    "content/works/doublechannel-eyes/index.md",
-    "content/works/interview-with-a-philosopher/index.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md"
+    "content/works/doublechannel-eyes/index.md"
   ]
 }
