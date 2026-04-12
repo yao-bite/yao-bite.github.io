@@ -1,0 +1,3 @@
+---
+cover: hero.webp
+---
