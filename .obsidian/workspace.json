@@ -25,14 +25,12 @@
             "id": "e0b31e3b8a37de04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/works/gaze-triangle/index.md",
-                "mode": "source",
-                "source": false
+                "file": "static/images/hero.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "hero"
             }
           },
           {
@@ -92,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -250,9 +248,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e0b31e3b8a37de04",
+  "active": "04d0dae3e0bae51e",
   "lastOpenFiles": [
+    "public/tw/works/interview-with-an-artist/2025-80Agallery-3.tw.webp",
+    "public/tw/works/interview-with-an-artist/2025-80Agallery-2.tw.webp",
+    "public/tw/works/interview-with-an-artist/2025-80Agallery-15.tw.webp",
+    "public/tw/works/interview-with-an-artist/2025-80Agallery-14.tw.webp",
+    "public/tw/works/interview-with-an-artist/2025-80Agallery-13.tw.webp",
+    "public/tw/works/interview-with-an-artist/2025-80Agallery-12.tw.webp",
+    "public/tw/works/interview-with-an-artist/2025-80Agallery-11.tw.webp",
+    "README.md",
+    "static/images/hero.jpg",
+    "static/images/hero.webp",
+    "static/images/xxx.jpg",
+    "public/images/2025-ZoneArt-8.jpg",
     "content/works/gaze-triangle/index.tw.md",
+    "content/works/gaze-triangle/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
     "content/works/lionplaza-lightpool/index.md",
     "content/works/je-suis-pas-fan/index.tw.md",
@@ -261,7 +272,6 @@
     "public/tw/works/interview-with-an-artist/index.html",
     "public/tw/works/interview-with-an-artist",
     "content/works/interview-with-an-artist/index.md",
-    "content/works/gaze-triangle/index.md",
     "content/works/draft-givemefive/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-eyes/index.tw.md",
@@ -271,16 +281,6 @@
     "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "public/works/draft-whoisthespeaker/index.html",
-    "public/works/draft-whoisthespeaker/2025-speaker-9-0795.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-8-0788.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-7-0757.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-6-0730.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-5-0598.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-4-0577.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-3-0569.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-21-1799.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-20-0415.webp",
-    "public/works/draft-whoisthespeaker/2025-speaker-2-0572.webp",
     "public/works/draft-whoisthespeaker",
     "public/works/draft-who-is-the-speaker/index.html",
     "public/works/draft-who-is-the-speaker",
@@ -295,8 +295,6 @@
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/writings/reborn/index.tw.md",
     "content/writings/until/index.tw.md",
-    "content/writings/walkingonthewater/index.tw.md",
-    "content/writings/herniamaniac/index.tw.md",
     "public/tw/writings/walkingonthewater/index.html"
   ]
 }
