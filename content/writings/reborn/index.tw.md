@@ -16,7 +16,12 @@ title: 重生 Reborn（music by 林貓 Zeko Lin）
 
 即便你在夢裡都知道，就算真的重生，一切也將重新來過。**
 
-Music by [Zeko.Studio](https://zeko.studio)
+<div align="center">
+    <video controls poster='https://zeko.studio/img/Reborn.jpg'>
+    <source src='https://zeko.studio/music/Reborn.mp3' type="audio/mpeg">
+</video>
+<p>Music by <a href=https://zeko.studio>Zeko.Studio</a></p>
+</div>
 
 ### 【Lyrics】
 
