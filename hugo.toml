@@ -26,7 +26,7 @@ hasCJKLanguage = true
 [params]
   description = 'Artist Portfolio'
   author = 'Pei Yao'
-  hero_image = '/images/hero.jpg'
+  hero_image = '/images/hero.webp'
 
 [menu]
   [[menu.main]]
