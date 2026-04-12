@@ -25,12 +25,14 @@
             "id": "e0b31e3b8a37de04",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/images/hero.webp"
+                "file": "content/about/index.tw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "hero"
+              "icon": "lucide-file",
+              "title": "index.tw"
             }
           },
           {
@@ -250,8 +252,8 @@
   },
   "active": "e0b31e3b8a37de04",
   "lastOpenFiles": [
-    "static/images/icon.png",
     "static/images/hero.webp",
+    "static/images/icon.png",
     "static/images/xxx.jpg",
     "content/exhibitions/2024-self-testing-starts/index.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
