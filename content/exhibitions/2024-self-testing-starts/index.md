@@ -50,7 +50,7 @@ Time’s up. A simply states, "Self-testing concluded."
 Let's return to B's monologue.
 
 This exhibition is a play that isn’t just a monologue, where B plays multiple roles.  
-These roles stem from B and his imagined, infinite versions of dialogue with A, thus leading to infinite versions of B.  
+These roles stem from B and their imagined, infinite versions of dialogue with A, thus leading to infinite versions of B.  
 And "I", am both A and B.  
 
 ---
@@ -129,6 +129,9 @@ double-channel video, PVC / 02'55", 07'41" / 2024
 {{< /album >}}
 
 ---
+{{< youtube "DECHVyel2Qg" "Exhibition view (filmed by KO LAIHE; edited by LIN Pei-Yao)" >}}
+
+---
 ### Credits
 
 Organizer: King Car Cultural & Educational Foundation  
@@ -137,11 +140,11 @@ Sponsors: Department of Cultural Affairs, Taipei City Government; King Car Cultu
 Exhibition Coordination: Chao Yu-Wei  
 Exhibition Space Construction: Sam Yong  
 Woodworking: Sam Yong, Liu Yu-Ting, Tso Chin-Wen, Chiu Yu-Sheng  
-Installation Assistance: Wu Yi-Jhen, Xu Ming-Qian, Chien Li-Yun, Chu Yun-Rung, Chih Yi-Long, Grace Wu  
+Installation Assistance: Wu Yi-Jhen, Xu Ming-Qian, Chien Li-Yun, Yun-Rung Chu, Chih Yi-Long, Grace Wu  
 3D Modeling & Printing (*Double-Channel I: eyes*): Lo Chih-Chieh  
 Sound Design (*Road Movie: A Trip to the Moon*): Justin Lin, LIN Pei-Yao  
 Audio Installation (*Road Movie: A Trip to the Moon*): Lin Cheng-Feng  
-Technical Support: Xu Ming-Qian, Shih Li-Jia, Chu Yun-Rung  
+Technical Support: Xu Ming-Qian, Shih Li-Jia, Yun-Rung Chu  
 Photo Models: Ceci Tseng, Amber Wu  
 Special Thanks: Chiow Liang-Cherng, Justin Lin
 
