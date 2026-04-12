@@ -6,6 +6,11 @@ date: 2025-09-06T13:18:40+08:00
 description: How can text guide viewers into activating a particular state of thought, and in a reflexive manner, allow them to experience a differentiated self?
 draft: false
 tags:
+  - text
+  - contemporary-art
+  - perception
+  - distance
+  - role-of-viewers
 ---
 ![Lee Kit, *The Last Piece of Cloud*, 2023, exhibition view, TKG+. Photo: Lin Pei-Yao.](/ghost-images/2024/10/Lee-Kit-2023-TKG-2-1.webp)
 
