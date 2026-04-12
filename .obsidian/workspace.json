@@ -25,14 +25,12 @@
             "id": "e0b31e3b8a37de04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/exhibitions/2024-the-dual-double-channel/index.md",
-                "mode": "source",
-                "source": false
+                "file": "static/images/hero.webp"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "hero"
             }
           },
           {
@@ -252,6 +250,12 @@
   },
   "active": "e0b31e3b8a37de04",
   "lastOpenFiles": [
+    "static/images/icon.png",
+    "static/images/hero.webp",
+    "static/images/xxx.jpg",
+    "content/exhibitions/2024-self-testing-starts/index.md",
+    "content/exhibitions/2024-self-testing-starts/index.tw.md",
+    "content/exhibitions/2024-the-dual-double-channel/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/about/index.tw.md",
@@ -276,8 +280,6 @@
     "public/tw/works/interview-with-an-artist/2025-80Agallery-12.tw.webp",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-11.tw.webp",
     "README.md",
-    "static/images/hero.webp",
-    "static/images/xxx.jpg",
     "content/works/gaze-triangle/index.tw.md",
     "content/works/gaze-triangle/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
@@ -293,10 +295,6 @@
     "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/doublechannel-ii/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
-    "content/writings/howtextcreatesdistance/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.md",
-    "content/exhibitions/2021-run-into-my-cell/index.tw.md",
-    "content/exhibitions/2021-run-into-my-cell/index.md"
+    "content/exhibitions/2024-the-dual-double-channel/index.tw.md"
   ]
 }
