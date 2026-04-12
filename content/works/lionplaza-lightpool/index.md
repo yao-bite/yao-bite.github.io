@@ -13,6 +13,10 @@ Lion Plaza in Ximending is an incredibly heterogeneous space. To me, watching th
 
 In this site-specific work, I wandered through the building wearing a wedding dress, scanning parts of my body into 3D models. I constructed an LED-framed luminous stage next to a dress shop and performed using recordings collected on-site and electronic music. I hoped to virtualize my body, turning it into an entity akin to the mannequins in the dress shop.
 
+---
+### 2022 *I traveled 14km just to close the door for you*
+Lion Plaza, Taipei, Taiwan (group exhibition)  
+
 {{< album "Photo by KO LAIHE." >}}
 /ghost-images/2022/06/DSC01654.webp
 /ghost-images/2022/06/DSC01648.webp
@@ -25,9 +29,8 @@ In this site-specific work, I wandered through the building wearing a wedding dr
 /ghost-images/2022/06/DSC01702.webp
 {{< /album >}}
 
-{{< vimeo 704448072 "Filmed by KO LAIHE. Edited by LIN Pei-Yao." >}}
-### 2022 *I traveled 14km just to close the door for you*
-Lion Plaza, Taipei, Taiwan (group exhibition)    
+---
+{{< vimeo 704448072 "Filmed by KO LAIHE. Edited by LIN Pei-Yao." >}}  
 
 ---
 ### Credits

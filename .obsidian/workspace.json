@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/lionplaza-lightpool/index.tw.md",
+                "file": "content/works/gaze-triangle/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           },
           {
@@ -252,8 +252,9 @@
   },
   "active": "e0b31e3b8a37de04",
   "lastOpenFiles": [
-    "content/works/lionplaza-lightpool/index.md",
+    "content/works/gaze-triangle/index.tw.md",
     "content/works/lionplaza-lightpool/index.tw.md",
+    "content/works/lionplaza-lightpool/index.md",
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/interview-with-an-artist/index.tw.md",
@@ -261,7 +262,6 @@
     "public/tw/works/interview-with-an-artist",
     "content/works/interview-with-an-artist/index.md",
     "content/works/gaze-triangle/index.md",
-    "content/works/gaze-triangle/index.tw.md",
     "content/works/draft-givemefive/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-eyes/index.tw.md",
