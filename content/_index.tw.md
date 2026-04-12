@@ -1,3 +1,3 @@
 ---
-cover: hero.webp
+cover: xxx.jpg
 ---
