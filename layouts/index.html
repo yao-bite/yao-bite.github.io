@@ -141,20 +141,9 @@
     <h2 class="text-3xl md:text-4xl  mb-12">Latest Writings</h2>
 
     {{ $writings := where .Site.RegularPages "Section" "writings" }}
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <div class="flex flex-col gap-2 max-w-4xl mx-auto justify-center">
       {{ range first 4 $writings }}
-      <a href="{{ .RelPermalink }}" class="group">
-        <article class="bg-white h-full p-6 hover:shadow-lg transition-shadow duration-300">
-          {{ with .Params.category }}
-          <span class="inline-block text-sm text-gray-600 mb-2">{{ . }}</span>
-          {{ end }}
-          <h3 class="text-xl font-medium mb-3 group-hover:text-gray-600 transition">{{ .Title }}</h3>
-          {{ with .Description }}
-          <p class="text-gray-700 mb-3">{{ . | plainify }}</p>
-          {{ end }}
-          <time class="text-sm text-gray-500">{{ .Date.Format (.Site.Language.Params.dateFormat | default "2006.01.02") }}</time>
-        </article>
-      </a>
+        {{ partial "pagecard" .  }}
       {{ end }}
     </div>
 

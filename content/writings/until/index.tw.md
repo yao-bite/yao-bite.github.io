@@ -17,7 +17,11 @@ title: 直到  Until（music by 林貓 Zeko Lin）
 
 **真實需要一些喧嘩，為真實的自己沿路喧嘩吧！**
 
-Music by [Zeko.Studio](https://zeko.studio)
+<div align="center">
+    <video controls poster='https://zeko.studio/img/Until.jpg'>
+    <source src='https://zeko.studio/music/Until.mp3' type="audio/mpeg">
+</video>
+<p>Music by <a href=https://zeko.studio>Zeko.Studio</a></p></div>
 
 ### 【Lyrics】
 

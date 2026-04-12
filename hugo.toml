@@ -61,6 +61,7 @@ hasCJKLanguage = true
 
 [taxonomies]
   category = 'categories'
+  tag = 'tags'
 
 [outputs]
   home = ['HTML', 'RSS']
