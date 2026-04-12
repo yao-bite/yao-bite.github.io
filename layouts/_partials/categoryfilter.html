@@ -1,0 +1,8 @@
+<div class="max-w-4xl mx-auto mb-12">
+  <div class="flex flex-wrap gap-4 mb-8">
+    <a href="{{ "writings" | relLangURL }}" class="px-4 py-2 text-sm border hover:bg-gray-900 hover:text-white transition">All</a>
+    {{ range .Site.Taxonomies.categories }}
+    <a href="{{ .Page.RelPermalink }}" class="px-4 py-2 text-sm border hover:bg-gray-900 hover:text-white transition">{{ .Page.Title }} {{ .Count }}</a>
+    {{ end }}
+  </div>
+</div>

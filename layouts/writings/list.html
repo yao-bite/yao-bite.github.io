@@ -5,15 +5,7 @@
     <h1 class="text-4xl md:text-5xl  mb-16">{{ .Title }}</h1>
 
     <!-- Filter by Category -->
-    <div class="max-w-4xl mx-auto mb-12">
-      <div class="flex flex-wrap gap-4 mb-8">
-        <a href="{{ "writings" | relLangURL }}" class="px-4 py-2 text-sm border hover:bg-gray-900 hover:text-white transition">All</a>
-        {{ $categories := slice "Reviews" "Lyrics" "Research" "Essays" }}
-        {{ range $categories }}
-        <a href="{{ printf "categories/%s" (. | urlize) | relLangURL }}" class="px-4 py-2 text-sm border hover:bg-gray-900 hover:text-white transition">{{ . }}</a>
-        {{ end }}
-      </div>
-    </div>
+    {{ partial "categoryfilter" . }}
 
     <!-- Timeline Layout with Thumbnails -->
     <div class="max-w-4xl mx-auto">
