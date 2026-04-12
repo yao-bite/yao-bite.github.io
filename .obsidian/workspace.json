@@ -25,12 +25,14 @@
             "id": "e0b31e3b8a37de04",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/images/hero.jpg"
+                "file": "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "hero"
+              "icon": "lucide-file",
+              "title": "index.tw"
             }
           },
           {
@@ -90,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +250,23 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "04d0dae3e0bae51e",
+  "active": "e0b31e3b8a37de04",
   "lastOpenFiles": [
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
+    "content/about/index.tw.md",
+    "public/art-review-walkingonthewater/index.html",
+    "public/art-review-walkingonthewater",
+    "public/until/index.html",
+    "public/until",
+    "public/liyifan-rewiring/index.html",
+    "public/liyifan-rewiring",
+    "public/reborn/index.html",
+    "public/reborn",
+    "public/artreview-aboutdirtymistakelemonyellow/index.html",
+    "public/artreview-aboutdirtymistakelemonyellow",
+    "content/about/index.md",
+    "content/cv/index.md",
+    "static/images/hero.jpg",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-3.tw.webp",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-2.tw.webp",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-15.tw.webp",
@@ -258,10 +275,8 @@
     "public/tw/works/interview-with-an-artist/2025-80Agallery-12.tw.webp",
     "public/tw/works/interview-with-an-artist/2025-80Agallery-11.tw.webp",
     "README.md",
-    "static/images/hero.jpg",
     "static/images/hero.webp",
     "static/images/xxx.jpg",
-    "public/images/2025-ZoneArt-8.jpg",
     "content/works/gaze-triangle/index.tw.md",
     "content/works/gaze-triangle/index.md",
     "content/works/lionplaza-lightpool/index.tw.md",
@@ -269,32 +284,19 @@
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/works/je-suis-pas-fan/index.md",
     "content/works/interview-with-an-artist/index.tw.md",
-    "public/tw/works/interview-with-an-artist/index.html",
-    "public/tw/works/interview-with-an-artist",
     "content/works/interview-with-an-artist/index.md",
     "content/works/draft-givemefive/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-eyes/index.tw.md",
     "content/works/doublechannel-eyes/index.md",
-    "public/works/interview-with-an-artist/index.html",
-    "public/works/interview-with-an-artist",
     "content/works/interview-with-a-philosopher/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
-    "public/works/draft-whoisthespeaker/index.html",
-    "public/works/draft-whoisthespeaker",
-    "public/works/draft-who-is-the-speaker/index.html",
-    "public/works/draft-who-is-the-speaker",
-    "content/works/givemefive/未命名",
     "content/works/doublechannel-ii/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/writings/howtextcreatesdistance/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.md",
     "content/exhibitions/2021-run-into-my-cell/index.tw.md",
     "content/exhibitions/2021-run-into-my-cell/index.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
-    "content/writings/reborn/index.tw.md",
-    "content/writings/until/index.tw.md",
-    "public/tw/writings/walkingonthewater/index.html"
+    "content/exhibitions/2025-who-is-the-speaker/index.tw.md"
   ]
 }
