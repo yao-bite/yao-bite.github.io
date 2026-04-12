@@ -27,7 +27,7 @@ As words merge into thought and thought becomes word, an indistinct speaker quie
 ---
 
 #### [Inter-View with a Philosopher](/works/interview-with-a-philosopher/) 
-Three-channel audio spatial installation, video, speech-recognition interactive program, smart lighting
+three-channel audio spatial installation, video, speech-recognition interactive program, smart lighting / 21’12” / 2025
 {{< album "Photo by Sun Yi-Ching, dulub_studio." >}}
 2025-ZoneArt-16-0425.webp
 2025-ZoneArt-28-1937.webp
@@ -36,7 +36,7 @@ Three-channel audio spatial installation, video, speech-recognition interactive 
 {{< /album >}}
 
 #### Who is the speaker? Guided Tour Performance
-Live performance, afternoon tea
+live performance, afternoon tea / 30-40mins / 2025
 {{< album "Performed on Oct 26 opening reception. Photo by Sun Yi-Ching." >}}
 2025-ZoneArt-17-0538.webp
 2025-speaker-3-0569.webp
@@ -45,7 +45,7 @@ Live performance, afternoon tea
 {{< /album >}}
 
 #### [Je suis pas fan](/works/je-suis-pas-fan/)
-Single channel video
+single channel video / 10'43'' / 2025
 {{< album "Photo by dulub_studio, Sun Yi-Ching" >}}
 2025-ZoneArt-6.webp
 2025-ZoneArt-5.webp

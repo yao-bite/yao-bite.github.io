@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.tw.md",
+                "file": "content/exhibitions/2025-who-is-the-speaker/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index.tw"
+              "title": "index"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/interview-with-a-philosopher/index.tw.md",
+                "file": "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -249,14 +249,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ece0cd61acfc7dd2",
+  "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/_index.tw.md",
-    "content/hero.webp",
+    "content/exhibitions/2024-the-dual-double-channel/index.md",
+    "content/exhibitions/2021-run-into-my-cell/index.md",
+    "content/exhibitions/2021-run-into-my-cell/index.tw.md",
+    "content/exhibitions/2024-self-testing-starts/index.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
-    "public/hero.webp",
+    "content/_index.tw.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
+    "content/_index.md",
+    "content/hero.webp",
+    "public/hero.webp",
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/about/index.tw.md",
     "content/works/doublechannel-ii/index.tw.md",
@@ -264,10 +269,7 @@
     "static/images/hero.webp",
     "static/images/icon.png",
     "content/xxx.jpg",
-    "content/exhibitions/2024-self-testing-starts/index.md",
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "public/art-review-walkingonthewater/index.html",
     "public/art-review-walkingonthewater",
     "public/until/index.html",
@@ -294,7 +296,6 @@
     "content/works/interview-with-an-artist/index.md",
     "content/works/draft-givemefive/index.tw.md",
     "content/works/doublechannel-ii/index.md",
-    "content/works/doublechannel-eyes/index.tw.md",
-    "content/works/doublechannel-eyes/index.md"
+    "content/works/doublechannel-eyes/index.tw.md"
   ]
 }

@@ -70,7 +70,6 @@ single-channel video / 03’26” / 2020
 {{< /album >}}
 
 #### [Two-Faced](/works/two-faced)
-
 single-channel video installation / 05’32” / 2022
 {{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2024/06/20240430151601-mini-Srgb--.webp

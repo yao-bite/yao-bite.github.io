@@ -32,7 +32,7 @@ Through media, a multi-channel body further multiplies its perceptions. Conseque
 
 ---
 #### [Gaze Triangle](/works/gaze-triangle)
-Three-channel video / 03’39” / 2021
+three-channel video / 03’39” / 2021
 
 {{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2024/10/20240813140641-mini-SRGB---.webp
@@ -43,7 +43,7 @@ Three-channel video / 03’39” / 2021
 
 ---
 #### [Run Into 100% Selves](/works/run-into-100percent-selves)
-Webcams, projectors / 2021
+webcams, projectors / 2021
 
 {{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2024/10/20240813144245-mini-SRGB---.webp
@@ -56,7 +56,7 @@ Webcams, projectors / 2021
 
 ---
 #### [Double-Channel I: eye(s)](/works/doublechannel-eyes)
-Video, mobile phone, 3D printed interactive arms / 35(H)x70x25cm / 03’19” / 2023
+video, mobile phone, 3D printed interactive arms / 35(H)x70x25cm / 03’19” / 2023
 
 {{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2024/10/20240813162914-mini-SRGB---.webp
@@ -67,7 +67,7 @@ Video, mobile phone, 3D printed interactive arms / 35(H)x70x25cm / 03’19” / 
 
 ---
 #### [Double-Channel II: “Listen (to me).”](/works/doublechannel-ii)
-Double-channel video, three-channel audio installation
+double-channel video, three-channel audio installation
 
 {{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2024/10/20240813151832-mini-SRGB---.webp
@@ -81,7 +81,7 @@ Double-channel video, three-channel audio installation
 
 ---
 #### Infinity
-Single-channel video／04’55”／2024
+single-channel video／04’55”／2024
 
 {{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2024/10/20240813160327-mini-SRGB---.webp
@@ -96,7 +96,7 @@ Single-channel video／04’55”／2024
 ---
 
 ### Opening Guided Tour Performance
-Live performance, audio recording, mobile display, headphones
+live performance, audio recording, mobile display, headphones
 {{< vimeo 1010634140 "Filmed by Zhuang Ya-Ting. Edited by LIN Pei-Yao." >}}
 
 ---
