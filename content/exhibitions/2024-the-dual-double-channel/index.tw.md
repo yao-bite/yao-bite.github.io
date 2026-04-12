@@ -1,4 +1,5 @@
 ---
+aliases: ["/the-dual-double-channel", "/2024-the-dual-double-channel"]
 title: 雙頻道
 venue: 洪建全基金會，臺北，臺灣
 date: 2024-08-10T12:04:10+08:00

@@ -1,4 +1,5 @@
 ---
+aliases: ["/until"]
 title: 直到  Until
 categories:
   - Lyrics

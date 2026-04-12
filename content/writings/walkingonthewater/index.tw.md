@@ -1,4 +1,5 @@
 ---
+aliases: ["/art-review-walkingonthewater"]
 title: 不合時宜的情懷——現場身體與影像的再同步：劉昱廷《走在水上》
 categories:
   - Reviews

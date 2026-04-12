@@ -1,4 +1,5 @@
 ---
+aliases: ["/the-dual-double-channel-en"]
 title: The Dual Double-Channel
 venue: HONG Foundation, Taipei, Taiwan
 date: 2024-08-10T12:04:10+08:00

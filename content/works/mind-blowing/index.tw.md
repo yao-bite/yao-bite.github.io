@@ -1,4 +1,5 @@
 ---
+aliases: ["/mind-blowing"]
 title: 心動
 date: 2023-12-10T16:04:48+08:00
 description: 在一片風聲的靜默中，思緒同時是說話也是聆聽。

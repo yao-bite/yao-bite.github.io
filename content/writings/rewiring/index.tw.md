@@ -1,4 +1,5 @@
 ---
+aliases: ["/liyifan-rewiring"]
 title: 不可揭露性之揭露：論李亦凡《Rewiring》身體與機器、宗教與科技的互相滲透與模仿
 categories:
   - Reviews

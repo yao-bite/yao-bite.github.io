@@ -1,4 +1,5 @@
 ---
+aliases: ["/artreview-alchemizingmist"]
 title: 鄭文豪、劉書妤《冶煉是水氣》：時空的合成與析出
 categories:
   - Reviews

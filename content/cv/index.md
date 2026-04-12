@@ -1,4 +1,5 @@
 ---
+aliases: ["/cv-en-2"]
 date: 2023-05-02T09:33:52+08:00
 draft: false
 title: CV

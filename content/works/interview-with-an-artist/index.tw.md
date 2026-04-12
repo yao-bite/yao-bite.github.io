@@ -1,4 +1,5 @@
 ---
+aliases: ["/interviewwithanartist"]
 title: 訪問一位藝術家
 medium: 展覽的訪談影像、逐字稿與錄音
 dimensions: 07’49”

@@ -1,4 +1,5 @@
 ---
+aliases: ["/listen-talk"]
 date: 2023-12-15T04:27:14+08:00
 description: 聽說，有些表達雖然無人接收，卻仍是雙向的，既對別人，也對自己說。
 draft: false

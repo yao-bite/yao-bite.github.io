@@ -1,4 +1,5 @@
 ---
+aliases: ["/reborn"]
 title: 重生 Reborn
 categories:
   - Lyrics

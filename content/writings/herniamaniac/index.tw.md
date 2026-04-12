@@ -1,4 +1,5 @@
 ---
+aliases: ["/art-review-hernia-maniac"]
 title: 當過去上身當下：四把椅子劇團《獨疝其身》
 categories:
   - Reviews

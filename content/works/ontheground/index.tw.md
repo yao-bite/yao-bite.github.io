@@ -1,4 +1,5 @@
 ---
+aliases: ["/ontheground"]
 title: 離開地球表面
 categories:
 date: 2020-02-01T15:15:09+08:00

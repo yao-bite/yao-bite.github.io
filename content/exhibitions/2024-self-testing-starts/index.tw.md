@@ -1,4 +1,5 @@
 ---
+aliases: ["/2024-self-testing-starts"]
 title: 自我測試開始
 categories:
 date: 2024-04-16T08:46:52+08:00

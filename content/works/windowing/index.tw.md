@@ -1,4 +1,5 @@
 ---
+aliases: ["/windowing"]
 title: 窗中
 medium: 雙頻道錄像、3D列印、影像輸出
 dimensions: 08’00”, 08’40”

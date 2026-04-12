@@ -1,4 +1,5 @@
 ---
+aliases: ["/windowing-en"]
 title: Windowing
 medium: double-channel video, 3D printing
 dimensions: 08’00”, 08’40”

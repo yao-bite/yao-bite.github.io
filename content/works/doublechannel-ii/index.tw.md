@@ -1,4 +1,5 @@
 ---
+aliases: ["/doublechannel-ii"]
 date: 2024-11-16T05:53:35+08:00
 description: 我們用自己觀看他人，用他人觀看自己。
 draft: false

@@ -1,4 +1,5 @@
 ---
+aliases: ["/lionplaza-lightpool"]
 title: 情迷獅子林：餘光蕩漾
 medium: 表演、錄像、LED燈條、電視、婚紗、人台、棕版攝影
 date: 2022-01-03T09:30:20+08:00

@@ -1,4 +1,5 @@
 ---
+aliases: ["/howtextcreatesdistance"]
 title: "Drifting Between Perceptions: How Text Creates Distance in a Work"
 categories:
   - Essays

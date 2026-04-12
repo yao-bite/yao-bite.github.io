@@ -1,4 +1,5 @@
 ---
+aliases: ["/artreview-howtextcreatesdistanceinawork"]
 title: 感與知的間隙：文字如何在作品中創造距離
 categories:
   - Essays

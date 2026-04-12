@@ -1,4 +1,5 @@
 ---
+aliases: ["/runintomycell"]
 title: 遇見100%的我自己
 venue: 南北畫廊，國立臺北藝術大學，臺北，臺灣
 date: 2021-11-28T13:55:04+08:00

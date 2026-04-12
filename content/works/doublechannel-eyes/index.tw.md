@@ -1,4 +1,5 @@
 ---
+aliases: ["/doublechannel-eyes"]
 date: 2023-04-03T15:15:09+08:00
 description: 「雙頻道（double-channel）」在描述錄像時是作為一個形容詞，已經不以複數型（double channels）的狀態存在
 draft: false

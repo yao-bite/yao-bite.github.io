@@ -1,4 +1,5 @@
 ---
+aliases: ["/artreview-aboutdirtymistakelemonyellow"]
 title: 睽違已久，如何描述一檔記憶中的展覽？不可能的時態練習：黃點點《關於髒掉的檸檬黃色》
 categories:
   - Reviews
