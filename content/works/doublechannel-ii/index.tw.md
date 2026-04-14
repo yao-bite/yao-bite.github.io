@@ -48,7 +48,7 @@ dimensions: 08’37”
 
 #### 開幕演出
 
-{{< youtube "PZLqw6IUf84" "表演紀錄（拍攝與剪輯：陳儀勳）" >}}
+{{< youtube "PZLqw6IUf84" "表演紀錄（表演：林沛瑤／拍攝與剪輯：陳儀勳）" >}}
 
 {{< album "攝影：王士源／圖片來源：台北當代藝術館" >}}
 2024-DChannel2-p1-moca.webp

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/doublechannel-ii/index.tw.md",
+                "file": "content/works/doublechannel-ii/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           },
           {
@@ -251,6 +251,7 @@
   },
   "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
+    "content/works/doublechannel-ii/index.tw.md",
     "content/works/doublechannel-ii/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/exhibitions/2024-the-dual-double-channel/index.md",
@@ -265,7 +266,6 @@
     "public/hero.webp",
     "content/works/je-suis-pas-fan/index.tw.md",
     "content/about/index.tw.md",
-    "content/works/doublechannel-ii/index.tw.md",
     "content/about/index.md",
     "static/images/hero.webp",
     "static/images/icon.png",

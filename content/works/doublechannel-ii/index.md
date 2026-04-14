@@ -46,7 +46,7 @@ Curated by Chun-Lin Yen.
 
 #### Opening Performance
 
-{{< youtube "PZLqw6IUf84" "Performance documentation (filmed & edited by I-Shun Chen)" >}}
+{{< youtube "PZLqw6IUf84" "Performance documentation (performed by LIN Pei-Yao; filmed & edited by I-Shun Chen)" >}}
 
 {{< album "Photo by Wang Shih-Yuan. Courtesy of Museum of Contemporary Art Taipei. " >}}
 2024-DChannel2-p1-moca.webp
