@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2025-who-is-the-speaker/index.md",
+                "file": "content/works/doublechannel-ii/index.tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.tw"
             }
           },
           {
@@ -251,11 +251,12 @@
   },
   "active": "b44138c16bd0ae57",
   "lastOpenFiles": [
+    "content/works/doublechannel-ii/index.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/exhibitions/2024-the-dual-double-channel/index.md",
     "content/exhibitions/2021-run-into-my-cell/index.md",
     "content/exhibitions/2021-run-into-my-cell/index.tw.md",
     "content/exhibitions/2024-self-testing-starts/index.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/_index.tw.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
@@ -295,7 +296,6 @@
     "content/works/interview-with-an-artist/index.tw.md",
     "content/works/interview-with-an-artist/index.md",
     "content/works/draft-givemefive/index.tw.md",
-    "content/works/doublechannel-ii/index.md",
     "content/works/doublechannel-eyes/index.tw.md"
   ]
 }

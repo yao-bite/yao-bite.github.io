@@ -24,7 +24,7 @@ dimensions: 08’37”
 台北當代藝術館，臺北，臺灣（聯展）  
 策展：嚴淳齡  
 
-{{< youtube "8TN4r2BzLwo" "拍攝與剪輯：林沛瑤" >}}
+{{< youtube "8TN4r2BzLwo" "展出紀錄（拍攝與剪輯：林沛瑤）" >}}
 
 {{< album "攝影：王士源／圖片來源：台北當代藝術館" >}}
 2024-DChannel2-3-moca.webp
@@ -48,7 +48,7 @@ dimensions: 08’37”
 
 #### 開幕演出
 
-{{< youtube "PZLqw6IUf84" "拍攝與剪輯：陳儀勳" >}}
+{{< youtube "PZLqw6IUf84" "表演紀錄（拍攝與剪輯：陳儀勳）" >}}
 
 {{< album "攝影：王士源／圖片來源：台北當代藝術館" >}}
 2024-DChannel2-p1-moca.webp
