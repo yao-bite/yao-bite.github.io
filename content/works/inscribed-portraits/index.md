@@ -5,7 +5,7 @@ description: Tattoos seem to be evolving from subculture to popular culture, bec
 draft: false
 image: /ghost-images/2022/07/13.webp
 tags:
-medium: Nine-channel video, embroidery thread, handmade paper
+medium: nine-channel video, embroidery thread, handmade paper
 ---
 ![](/ghost-images/2022/07/5.webp)
 

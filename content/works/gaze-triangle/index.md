@@ -2,7 +2,7 @@
 title: Gaze Triangle
 medium: three-channel video
 dimensions: 03’39"
-date: 2021-04-10
+date: 2021-12-10
 draft:
 featured: "false"
 image: 2024-projectseek-2-40544.webp
