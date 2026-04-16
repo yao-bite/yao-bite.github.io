@@ -1,8 +1,15 @@
-{{ partial "header.html" . }}
-{{ partial "navigation.html" . }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body class="bg-light-gray text-gray-900">
+  {{ partial "navigation.html" . }}
 
-<main class="min-h-screen">
-  {{ block "main" . }}{{ end }}
-</main>
+  <main class="min-h-screen">
+    {{ block "main" . }}{{ end }}
+  </main>
 
-{{ partial "footer.html" . }}
+  {{ partial "footer.html" . }}
+</body>
+</html>
