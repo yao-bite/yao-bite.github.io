@@ -1,4 +1,8 @@
-@tailwind base;
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "hugo_stats.json";
+
+@tailwind base
 @tailwind components;
 @tailwind utilities;
 
