@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/gaze-triangle/index.tw.md",
+                "file": "content/works/inscribed-portraits/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           }
         ],
@@ -252,8 +252,16 @@
   },
   "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
-    "content/works/gaze-triangle/index.md",
+    "content/works/inscribed-portraits/index.tw.md",
     "content/works/inscribed-portraits/index.md",
+    "content/works/run-into-100percent-selves/index.md",
+    "content/works/run-into-100percent-selves/index.tw.md",
+    "content/works/gaze-triangle/index.tw.md",
+    "content/works/set-interval/index.md",
+    "content/works/set-interval/index.tw.md",
+    "content/works/seasons-change/index.tw.md",
+    "content/works/seasons-change/index.md",
+    "content/works/gaze-triangle/index.md",
     "node_modules/@tailwindcss/cli/LICENSE",
     "node_modules/@tailwindcss/cli/README.md",
     "node_modules/@tailwindcss/cli/dist/index.mjs",
@@ -280,14 +288,6 @@
     "node_modules/@tailwindcss/node/README.md",
     "node_modules/graceful-fs/README.md",
     "node_modules/lightningcss-darwin-arm64/README.md",
-    "node_modules/@tailwindcss/oxide-darwin-arm64/README.md",
-    "node_modules/detect-libc/README.md",
-    "node_modules/mri/license.md",
-    "node_modules/mri/readme.md",
-    "README.md",
-    "content/works/doublechannel-ii/index.md",
-    "content/works/doublechannel-ii/index.tw.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/hero.webp",
     "public/hero.webp",
     "static/images/hero.webp",

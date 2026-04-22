@@ -1,7 +1,7 @@
 ---
 title: setInterval()
 date: 2024-04-20
-draft: "true"
+draft:
 featured: false
 image: 2024-setInterval-2-62823.webp
 medium: double-channel video, PVC

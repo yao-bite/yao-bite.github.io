@@ -1,7 +1,7 @@
 ---
 title: 設定間距
 date: 2024-04-20
-draft: "true"
+draft:
 featured: false
 image: 2024-setInterval-2-62823.webp
 medium: 雙頻道錄像、PVC、透明包邊條
