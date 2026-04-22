@@ -13,11 +13,9 @@ In a single minute, the traffic lights fast-forward the passing of the seasons.
 ---
 ### 2024 *Self-Testing Starts*
 King Car Cultural & Art Center, Taipei, Taiwan    
-{{< album >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2023-SeasonsChange-2-2024kingcar-55432.webp
 2023-SeasonsChange-1-2024kingcar-54750.webp
 {{< /album >}}
-Photo by Chu Chi-Hung.
 
-{{< youtube "fkBl7oxGPc4" >}}
-Online Preview (full version)
+{{< youtube "fkBl7oxGPc4" "Online Preview (full version)" >}}

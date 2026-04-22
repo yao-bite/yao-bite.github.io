@@ -13,11 +13,9 @@ tags:
 ---
 ### 2024 自我測試開始
 金車文藝中心承德館，臺北，臺灣  
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 2023-SeasonsChange-2-2024kingcar-55432.webp
 2023-SeasonsChange-1-2024kingcar-54750.webp
 {{< /album >}}
-攝影：朱淇宏
 
-{{< youtube "fkBl7oxGPc4" >}}
-全片線上預覽連結
+{{< youtube "fkBl7oxGPc4" "全片線上預覽連結" >}}
