@@ -8,7 +8,7 @@ tags:
 medium: single-channel video, car seats, PVC
 dimensions: 14'56"
 ---
-![](2021-roadmovie-2024kingcar-1.webp)
+![Photo by Chu Chi-Hung.](2021-roadmovie-2024kingcar-1.webp)
 No matter how hard I chase, the moon always maintains the same distance from me.
 
 In this scene, only the 3D printer exists physically. The model of the "road" initially resides in my mind and on my computer before being printed out as a tangible object, and eventually transformed into an image. The printer appears to function as a mental machine, continuously shuttling back and forth, repeatedly stacking consciousness.
@@ -17,14 +17,14 @@ Ultimately, the "road" produced by the printer seems to extend to the moon, or p
 ### 2024 *Self-Testing Starts*
 King Car Cultural & Art Center, Taipei, Taiwan  
 
-{{< album >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2021-roadmovie-2024kingcar-3.webp
 2021-roadmovie-2024kingcar-5.webp
 2021-roadmovie-2024kingcar-7.webp
 2021-roadmovie-2024kingcar-14.webp
 {{< /album >}}
 
-{{< album >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2021-roadmovie-2024kingcar-10.webp
 2021-roadmovie-2024kingcar-11.webp
 2021-roadmovie-2024kingcar-13.webp
@@ -34,17 +34,16 @@ Photo by Chu Chi-Hung.
 ### 2021
 Underground Gallery, TNUA, Taipei, Taiwan
 
-{{< album >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2021/07/webpage7.webp
 /ghost-images/2021/07/webpage4.webp
 /ghost-images/2021/07/webpage10.webp
 /ghost-images/2021/07/webpage6.webp
 /ghost-images/2024/03/roadmovie_11.webp
 {{< /album >}}
-Photo by Chu Chi-Hung.
 
-{{< youtube "wI4_Z2AdpzA" >}}
-Exhibition View (filmed by KO LAIHE; edited by LIN Pei-Yao)
+---
+{{< youtube "wI4_Z2AdpzA" "Exhibition view (filmed by KO LAIHE; edited by LIN Pei-Yao)" >}}
 
 ---
 ### Credits

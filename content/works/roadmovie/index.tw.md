@@ -9,7 +9,7 @@ tags:
 medium: 單頻道錄像、汽車座椅、PVC投影幕
 dimensions: 14'56"
 ---
-![](2021-roadmovie-2024kingcar-1.webp)
+![攝影：朱淇宏 ](2021-roadmovie-2024kingcar-1.webp)
 不管我怎麼樣地追，月球總是與我保持相同的距離。
 
 在這幅景象之中，只有3D列印機是現實中的物件，那條「路」的模型先是存在於我的腦海、我的電腦中，再被列印而出，具體化的同時又旋即被影像化。列印機彷彿是一台心智機器，不斷來回、反覆堆疊著意識。  
@@ -19,14 +19,14 @@ dimensions: 14'56"
 ### 2024 自我測試開始
 金車文藝中心承德館，臺北，臺灣  
 
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 2021-roadmovie-2024kingcar-3.webp
 2021-roadmovie-2024kingcar-5.webp
 2021-roadmovie-2024kingcar-7.webp
 2021-roadmovie-2024kingcar-14.webp
 {{< /album >}}
 
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 2021-roadmovie-2024kingcar-10.webp
 2021-roadmovie-2024kingcar-11.webp
 2021-roadmovie-2024kingcar-13.webp
@@ -35,17 +35,15 @@ dimensions: 14'56"
 ### 2021
 地下美術館，國立臺北藝術大學，臺北，臺灣
 
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 /ghost-images/2021/07/webpage7.webp
 /ghost-images/2021/07/webpage4.webp
 /ghost-images/2021/07/webpage10.webp
 /ghost-images/2021/07/webpage6.webp
 /ghost-images/2024/03/roadmovie_11.webp
 {{< /album >}}
-攝影：朱淇宏
 
-{{< youtube "wI4_Z2AdpzA" >}}
-展場紀錄（拍攝：高來河／剪輯：林沛瑤）
+{{< youtube "wI4_Z2AdpzA" "展場紀錄（拍攝：高來河／剪輯：林沛瑤）" >}}
 
 ---
 ### Credits

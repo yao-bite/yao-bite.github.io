@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/inscribed-portraits/index.md",
+                "file": "content/works/roadmovie/index.tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.tw"
             }
           }
         ],
@@ -252,8 +252,10 @@
   },
   "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
-    "content/works/inscribed-portraits/index.tw.md",
+    "content/works/roadmovie/index.md",
+    "content/works/roadmovie/index.tw.md",
     "content/works/inscribed-portraits/index.md",
+    "content/works/inscribed-portraits/index.tw.md",
     "content/works/run-into-100percent-selves/index.md",
     "content/works/run-into-100percent-selves/index.tw.md",
     "content/works/gaze-triangle/index.tw.md",
@@ -286,8 +288,6 @@
     "node_modules/lightningcss/README.md",
     "node_modules/node-addon-api/tools/README.md",
     "node_modules/@tailwindcss/node/README.md",
-    "node_modules/graceful-fs/README.md",
-    "node_modules/lightningcss-darwin-arm64/README.md",
     "content/hero.webp",
     "public/hero.webp",
     "static/images/hero.webp",
