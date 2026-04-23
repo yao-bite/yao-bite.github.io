@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/yingtunglin/index.tw.md",
+                "file": "content/writings/vortexquadrant/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,6 +237,9 @@
   },
   "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
+    "content/writings/yingtunglin/index.tw.md",
+    "public/tw/writings/vortexquadrant/index.html",
+    "public/tw/writings/vortexquadrant",
     "public/tw/categories/other-voices/index.xml",
     "public/tw/categories/other-voices/index.html",
     "public/tw/categories/other-voices",
@@ -245,12 +248,8 @@
     "public/tw/categories/other-voice",
     "public/tw/writings/yingtunglin/index.html",
     "public/tw/writings/yingtunglin",
-    "public/writings/yingtunglin/未命名/index.html",
-    "public/writings/yingtunglin/未命名",
-    "public/writings/yingtunglin",
     "content/_index.tw.md",
-    "content/writings/yingtunglin/index.tw.md",
-    "content/writings/2025-vortexquadrant/index.tw.md",
+    "content/writings/vortexquadrant/index.tw.md",
     "README.md",
     "content/works/doublechannel-ii/index.md",
     "templates/writing.md",
