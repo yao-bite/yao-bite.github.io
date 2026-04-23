@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d7ca78e34b55b2ae",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/exhibitions/2025-who-is-the-speaker/WKJ_1259.webp"
+              },
+              "icon": "lucide-image",
+              "title": "WKJ_1259"
+            }
+          },
+          {
             "id": "6dbf21417b6b22eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/vortexquadrant/index.tw.md",
+                "file": "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,7 +89,8 @@
               "title": "終端：zsh"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 378.5
   },
   "right": {
     "id": "3f5ea11e9edd07f7",
@@ -237,6 +250,21 @@
   },
   "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
+    "content/exhibitions/2025-who-is-the-speaker/WKJ_1259.webp",
+    "content/exhibitions/2025-who-is-the-speaker/WKJ_1248.webp",
+    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
+    "content/exhibitions/2025-who-is-the-speaker/WKJ_1159.webp",
+    "content/works/interview-with-a-philosopher/index.tw.md",
+    "public/exhibitions/2025-who-is-the-speaker/WKJ_1259.webp",
+    "public/exhibitions/2025-who-is-the-speaker/WKJ_1248.webp",
+    "public/exhibitions/2025-who-is-the-speaker/WKJ_1159.webp",
+    "content/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-25-1820 1.webp",
+    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-25-1820 1.webp",
+    "content/works/interview-with-a-philosopher/index.md",
+    "public/works/interview-with-a-philosopher/2025-ZoneArt-25-1820.webp",
+    "README.md",
+    "content/writings/vortexquadrant/index.tw.md",
     "content/writings/yingtunglin/index.tw.md",
     "public/tw/writings/vortexquadrant/index.html",
     "public/tw/writings/vortexquadrant",
@@ -249,8 +277,6 @@
     "public/tw/writings/yingtunglin/index.html",
     "public/tw/writings/yingtunglin",
     "content/_index.tw.md",
-    "content/writings/vortexquadrant/index.tw.md",
-    "README.md",
     "content/works/doublechannel-ii/index.md",
     "templates/writing.md",
     "content/works/windowing/index.md",
@@ -268,19 +294,6 @@
     "content/works/roadmovie/index.md",
     "content/works/inscribed-portraits/index.md",
     "content/works/inscribed-portraits/index.tw.md",
-    "content/works/run-into-100percent-selves/index.md",
-    "content/works/run-into-100percent-selves/index.tw.md",
-    "content/works/gaze-triangle/index.tw.md",
-    "content/works/gaze-triangle/index.md",
-    "content/hero.webp",
-    "public/hero.webp",
-    "static/images/hero.webp",
-    "static/images/icon.png",
-    "content/xxx.jpg",
-    "static/images/hero.jpg",
-    "public/tw/works/interview-with-an-artist/2025-80Agallery-3.tw.webp",
-    "public/tw/works/interview-with-an-artist/2025-80Agallery-2.tw.webp",
-    "public/tw/works/interview-with-an-artist/2025-80Agallery-15.tw.webp",
-    "public/tw/works/interview-with-an-artist/2025-80Agallery-14.tw.webp"
+    "content/hero.webp"
   ]
 }

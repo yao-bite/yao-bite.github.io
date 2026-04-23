@@ -52,3 +52,7 @@ Special Appearance: Lîm A-sim
 Audio-Visual & Speech Programming:: Justin Lin  
 Wireless Clock Design: Wilson Wu  
 Sponsor: National Culture and Arts Foundation
+
+---
+### Links
+* **From the Philosopher's Perspective:** [思緒漫遊，或不漫遊](/tw/writings/yingtunglin/) by Ying-Tung Lin (林映彤)
