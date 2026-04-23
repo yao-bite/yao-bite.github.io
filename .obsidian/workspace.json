@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/2025-vortexquadrant/index.tw.md",
+                "file": "content/writings/yingtunglin/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 326.5
   },
   "right": {
     "id": "3f5ea11e9edd07f7",
@@ -237,18 +237,22 @@
   },
   "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
+    "public/tw/categories/other-voices/index.xml",
+    "public/tw/categories/other-voices/index.html",
+    "public/tw/categories/other-voices",
+    "public/tw/categories/other-voice/index.xml",
+    "public/tw/categories/other-voice/index.html",
+    "public/tw/categories/other-voice",
+    "public/tw/writings/yingtunglin/index.html",
+    "public/tw/writings/yingtunglin",
+    "public/writings/yingtunglin/未命名/index.html",
+    "public/writings/yingtunglin/未命名",
+    "public/writings/yingtunglin",
+    "content/_index.tw.md",
+    "content/writings/yingtunglin/index.tw.md",
+    "content/writings/2025-vortexquadrant/index.tw.md",
     "README.md",
     "content/works/doublechannel-ii/index.md",
-    "public/css/main.css",
-    "public/css",
-    "public/tw/writings/2025-vortexquadrant/index.html",
-    "public/tw/writings/2025-vortexquadrant",
-    "public/tw/works/inscribed-portraits/index.html",
-    "public/tw/works/inscribed-portraits",
-    "public/works/inscribed-portraits/index.html",
-    "public/works/inscribed-portraits",
-    "hugo_stats.json",
-    "content/writings/2025-vortexquadrant/index.tw.md",
     "templates/writing.md",
     "content/works/windowing/index.md",
     "content/works/windowing/index.tw.md",
@@ -269,10 +273,6 @@
     "content/works/run-into-100percent-selves/index.tw.md",
     "content/works/gaze-triangle/index.tw.md",
     "content/works/gaze-triangle/index.md",
-    "node_modules/@tailwindcss/cli/LICENSE",
-    "node_modules/@tailwindcss/cli/README.md",
-    "node_modules/@parcel/watcher-darwin-arm64/README.md",
-    "node_modules/@tailwindcss/node/node_modules/jiti/README.md",
     "content/hero.webp",
     "public/hero.webp",
     "static/images/hero.webp",
