@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
+                "file": "content/about/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -250,20 +250,22 @@
   },
   "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
+    "content/about/index.md",
+    "content/about/2025-speaker-12-0921.webp",
+    "content/about/index.tw.md",
+    "public/about/2025-speaker-12-0921 1.webp",
+    "public/about/2025-speaker-12-0921.webp",
+    "README.md",
+    "content/about/2025-speaker-12-0921.jpg",
+    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/WKJ_1259.webp",
     "content/exhibitions/2025-who-is-the-speaker/WKJ_1248.webp",
-    "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/exhibitions/2025-who-is-the-speaker/WKJ_1159.webp",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "public/exhibitions/2025-who-is-the-speaker/WKJ_1259.webp",
     "public/exhibitions/2025-who-is-the-speaker/WKJ_1248.webp",
-    "public/exhibitions/2025-who-is-the-speaker/WKJ_1159.webp",
-    "content/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-25-1820 1.webp",
-    "public/exhibitions/2025-who-is-the-speaker/2025-ZoneArt-25-1820 1.webp",
     "content/works/interview-with-a-philosopher/index.md",
-    "public/works/interview-with-a-philosopher/2025-ZoneArt-25-1820.webp",
-    "README.md",
     "content/writings/vortexquadrant/index.tw.md",
     "content/writings/yingtunglin/index.tw.md",
     "public/tw/writings/vortexquadrant/index.html",
@@ -291,9 +293,6 @@
     "content/exhibitions/2024-self-testing-starts/index.tw.md",
     "content/exhibitions/2024-the-dual-double-channel/index.tw.md",
     "content/works/roadmovie/index.tw.md",
-    "content/works/roadmovie/index.md",
-    "content/works/inscribed-portraits/index.md",
-    "content/works/inscribed-portraits/index.tw.md",
-    "content/hero.webp"
+    "content/works/roadmovie/index.md"
   ]
 }
