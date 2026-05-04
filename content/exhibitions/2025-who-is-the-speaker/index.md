@@ -18,15 +18,15 @@ images:
   - WKJ_1259.webp
   - WKJ_1159.webp
   - WKJ_1248.webp
-description: When we speak, the voice resonates in the throat—but where does it reside when we think?
+description: When we speak, the voice resonates in the throat, but where does it reside when we think?
 ---
 ### About the Exhibition
 
-When we speak, the voice resonates in the throat—but where does it reside when we think? Speaking is not merely an act of expression, but a dynamic process of perception: how does a voice emerge in the mind, and how is the self divided between speaking and listening?
+When we speak, the voice resonates in the throat, but where does it reside when we think? Speaking is not merely an act of expression, but a dynamic process of perception: how does a voice emerge in the mind, and how is the self divided between speaking and listening?
 
-*Who is the speaker?* invites viewers into the internal mechanism of speech, creating shifts in perception along the way. Voice and thought, speaking and listening, the inner and the outer—these dimensions overlap throughout the exhibition. The viewer’s body becomes both a vessel of perception and a site through which sound flows.
+*Who is the speaker?* invites viewers into the internal mechanism of speech, creating shifts in perception along the way. Voice and thought, speaking and listening, the inner and the outer, all of these dimensions overlap throughout the exhibition. The viewer’s body becomes both a vessel of perception and a site through which sound flows.
 
-As words merge into thought and thought becomes word, an indistinct speaker quietly arrives—an invisible guest inhabiting the mind. And if they are willing, the viewer too may become a visitor of voice, drifting between focus and reverie, becoming, for a moment, the one who speaks.
+As words merge into thought and thought becomes word, an indistinct speaker quietly arrives, as an invisible guest inhabiting the mind. And if they are willing, the viewer too may become a visitor of voice, drifting between focus and reverie, becoming, for a moment, the one who speaks.
 
 ---
 
