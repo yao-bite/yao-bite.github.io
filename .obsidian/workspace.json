@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/vortexquadrant/index.tw.md",
+                "file": "content/writings/2025-underthefrontdoor/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 259.5
   },
   "right": {
     "id": "3f5ea11e9edd07f7",
@@ -237,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,24 +248,28 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6dbf21417b6b22eb",
+  "active": "e5af3986ce4afab2",
   "lastOpenFiles": [
+    "public/tw/writings/2025-underthefrontdoor/1d9fd2ece0907aa.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/8def86423928861.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/ec1c68f02071460.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/dabe91a93ebc7f7.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/53341a50c297c32.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/71ea240a36bf4eb.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/adc2797bb63fff3.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/25b6a06b9876cfb.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/b53abd8b3391b7b.tw.webp",
+    "public/tw/writings/2025-underthefrontdoor/index.html",
+    "public/tw/writings/2025-underthefrontdoor",
+    "README.md",
+    "content/writings/2025-underthefrontdoor/index.tw.md",
+    "content/writings/2025-underthefrontdoor/b53abd8b3391b7b.tw.webp",
+    "content/writings/2025-underthefrontdoor/25b6a06b9876cfb.tw.webp",
+    "content/writings/vortexquadrant/index.tw.md",
     "content/_index.tw.md",
-    "content/hero.webp",
     "content/_index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.md",
     "content/exhibitions/2025-who-is-the-speaker/index.tw.md",
-    "content/writings/vortexquadrant/index.tw.md",
-    "README.md",
-    "content/writings/vortexquadrant/IMG_7352.tw.webp",
-    "content/writings/vortexquadrant/IMG_7344.tw.webp",
-    "content/exhibitions/2025-who-is-the-speaker/WKJ_1259.webp",
-    "public/tw/writings/vortexquadrant/IMG_7352.tw.webp",
-    "public/tw/writings/vortexquadrant/IMG_7344.tw.webp",
-    "public/tw/writings/vortexquadrant/IMG_7385.tw.webp",
-    "content/writings/vortexquadrant/IMG_7385.tw.webp",
-    "content/writings/vortexquadrant/IMG_7382.tw.webp",
-    "public/tw/writings/vortexquadrant/IMG_7387.tw.webp",
     "content/writings/alchemizingmist/index.tw.md",
     "content/about/index.tw.md",
     "content/about/index.md",
@@ -280,8 +284,6 @@
     "public/tw/categories/other-voice/index.xml",
     "public/tw/categories/other-voice/index.html",
     "public/tw/categories/other-voice",
-    "public/tw/writings/yingtunglin/index.html",
-    "public/tw/writings/yingtunglin",
     "content/works/doublechannel-ii/index.md",
     "templates/writing.md",
     "content/works/windowing/index.md",
@@ -293,7 +295,6 @@
     "content/works/set-interval/index.tw.md",
     "content/exhibitions/2024-self-testing-starts/index.md",
     "content/exhibitions/2024-the-dual-double-channel/index.md",
-    "content/exhibitions/2024-self-testing-starts/index.tw.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.tw.md"
+    "content/exhibitions/2024-self-testing-starts/index.tw.md"
   ]
 }
