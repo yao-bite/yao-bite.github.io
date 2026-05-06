@@ -248,8 +248,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6dbf21417b6b22eb",
+  "active": "ece0cd61acfc7dd2",
   "lastOpenFiles": [
+    "README.md",
+    "content/writings/underthefrontdoor/index.tw.md",
     "public/tw/writings/underthefrontdoor/index.html",
     "public/tw/writings/underthefrontdoor/ec1c68f02071460.tw.webp",
     "public/tw/writings/underthefrontdoor/dabe91a93ebc7f7.tw.webp",
@@ -264,8 +266,6 @@
     "public/tw/writings/2025-underthefrontdoor/1d9fd2ece0907aa.tw.webp",
     "public/tw/writings/2025-underthefrontdoor/index.html",
     "public/tw/writings/2025-underthefrontdoor",
-    "README.md",
-    "content/writings/underthefrontdoor/index.tw.md",
     "content/writings/vortexquadrant/index.tw.md",
     "content/_index.tw.md",
     "content/_index.md",
@@ -283,7 +283,6 @@
     "public/tw/categories/other-voices/index.html",
     "public/tw/categories/other-voices",
     "public/tw/categories/other-voice/index.xml",
-    "public/tw/categories/other-voice/index.html",
     "content/works/doublechannel-ii/index.md",
     "templates/writing.md",
     "content/works/windowing/index.md",
