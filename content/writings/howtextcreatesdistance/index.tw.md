@@ -77,4 +77,4 @@ tags:
 05  參見：許芯慈，《打包的方式》[展覽論述](https://www.ncafroc.org.tw/event_detail.html?id=8a8082858709c217018755dc008500c0)，2023。
 
 ---
-本文首刊於[CLABO實驗波](https://mag.clab.org.tw/clabo-article/howtextcreatesdistanceinawork/)（責任編輯：童詠瑋）
+本文2024年9月18日首刊於[CLABO實驗波](https://mag.clab.org.tw/clabo-article/howtextcreatesdistanceinawork/)（責任編輯：童詠瑋）
