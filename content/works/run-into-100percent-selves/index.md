@@ -7,7 +7,7 @@ image: 2021-runinto100selves-2021tnua-5.webp
 tags:
 medium: webcams, projectors
 ---
-![](2024-projectseek-15-44815.tw.webp)
+![Photo by Chu Chi-Hung.](2024-projectseek-15-44815.tw.webp)
 
 In a symmetrical, mirror-like space, the body’s shadow and its image co-constitute a set of asynchronous projection planes. A delayed image from the past walks toward the present self, while the viewer’s silhouette, moving in sync with their body, advances toward this delayed image.
 
@@ -33,6 +33,7 @@ HONG Foundation, Taipei, Taiwan
 ---
 ### 2022 *Pretty Good*: TNUA MFA Degree Show
 Underground Experimental Field, Taipei National University of the Arts, Taipei, Taiwan
+
 {{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2022/08/220331170034-mini-sRGB--.webp
 /ghost-images/2022/08/220331170008-mini-sRGB--.webp
@@ -55,7 +56,6 @@ Na-Pei Gallery, Taipei National University of the Arts, Taipei, Taiwan
 2021-runinto100selves-2021tnua-9.webp
 2021-runinto100selves-2021tnua-10.webp
 {{< /album >}}
-Photo by Chu Chi-Hung.
 
 ---
 {{< vimeo 1010626724 "2024/2021 Exhibition View (filmed by KO LAIHE; edited by LIN Pei-Yao)" >}}
