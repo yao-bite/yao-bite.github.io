@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/inscribed-portraits/index.md",
+                "file": "content/works/run-into-100percent-selves/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,8 +237,9 @@
   },
   "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
-    "content/works/inscribed-portraits/index.tw.md",
+    "content/works/run-into-100percent-selves/index.tw.md",
     "content/works/inscribed-portraits/index.md",
+    "content/works/inscribed-portraits/index.tw.md",
     "content/works/ontheground/index.md",
     "content/works/windowing/index.md",
     "content/works/ontheground/index.tw.md",
@@ -281,7 +282,6 @@
     "content/works/doublechannel-ii/index.md",
     "templates/writing.md",
     "content/works/windowing/index.tw.md",
-    "content/works/two-faced/index.tw.md",
-    "content/works/set-interval/index.md"
+    "content/works/two-faced/index.tw.md"
   ]
 }

@@ -21,7 +21,7 @@ Come and meet your 100% selves.
 ### 2024 *The Dual Double-Channel*
 HONG Foundation, Taipei, Taiwan  
 
-{{< album >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2024-projectseek-10-44252.webp
 2024-projectseek-8-42015.webp
 2024-projectseek-9-44245.webp
@@ -29,12 +29,11 @@ HONG Foundation, Taipei, Taiwan
 2024-projectseek-13-44702.webp
 2024-projectseek-14-44802.webp
 {{< /album >}}
-Photo by Chu Chi-Hung.
 
 ---
 ### 2022 *Pretty Good*: TNUA MFA Degree Show
 Underground Experimental Field, Taipei National University of the Arts, Taipei, Taiwan
-{{< album >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 /ghost-images/2022/08/220331170034-mini-sRGB--.webp
 /ghost-images/2022/08/220331170008-mini-sRGB--.webp
 /ghost-images/2022/08/220331170019-mini-sRGB--.webp
@@ -42,13 +41,12 @@ Underground Experimental Field, Taipei National University of the Arts, Taipei, 
 /ghost-images/2022/08/220331171856-mini-sRGB--.webp
 /ghost-images/2022/08/220331170356-mini-sRGB--.webp
 {{< /album >}}
-Photo by Chu Chi-Hung.
 
 ---
 ### 2021 *Run Into My-Cell*
 Na-Pei Gallery, Taipei National University of the Arts, Taipei, Taiwan  
 
-{{< album >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2021-runinto100selves-2021tnua-2.webp
 2021-runinto100selves-2021tnua-4.webp
 2021-runinto100selves-2021tnua-6.webp
@@ -60,8 +58,7 @@ Na-Pei Gallery, Taipei National University of the Arts, Taipei, Taiwan
 Photo by Chu Chi-Hung.
 
 ---
-{{< vimeo 1010626724 >}}
-2024 / 2021 Exhibition View (filmed by KO LAIHE; edited by LIN Pei-Yao)
+{{< vimeo 1010626724 "2024/2021 Exhibition View (filmed by KO LAIHE; edited by LIN Pei-Yao)" >}}
 
 ---
 ### Credits
