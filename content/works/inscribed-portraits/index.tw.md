@@ -8,7 +8,7 @@ image: /ghost-images/2022/07/13.webp
 tags:
 medium: 九頻道影像、繡線、手抄紙
 ---
-![](/ghost-images/2022/07/5.webp)
+![攝影：林沛瑤](/ghost-images/2022/07/5.webp)
 
 刺青似乎逐漸從次文化走向流行文化，成為一種不斷被再定義的身體表述形式，既可能指向身體自主的實踐，也可能承載情感、關係或群體認同的痕跡。我以刺青文化為切入點，透過訪談與紀錄片拍攝，試圖編織並顯影當代青年在自我認同、記憶與獨特性之間的多聲部敘事。（本計畫為《反正我是信了》展覽委託製作）
 
@@ -17,7 +17,7 @@ medium: 九頻道影像、繡線、手抄紙
 新浜碼頭藝術空間，高雄，臺灣  
 策展：王甄薇  
 
-{{< album >}}
+{{< album "攝影：林沛瑤" >}}
 /ghost-images/2022/07/10-1.webp
 /ghost-images/2022/07/2.webp
 /ghost-images/2022/07/8.webp
@@ -25,13 +25,10 @@ medium: 九頻道影像、繡線、手抄紙
 /ghost-images/2022/07/12.webp
 /ghost-images/2022/07/14.webp
 {{< /album >}}
-攝影：林沛瑤
 
-{{< vimeo 605287605 >}}
-展出紀錄（拍攝與剪輯：林沛瑤）
+{{< vimeo 605287605 "展出紀錄（拍攝與剪輯：林沛瑤）" >}}
 
-{{< youtube "k2BSemuYHYs?si=5UQq-OlQa0-qHoJo" >}}
-展覽訪談（製作：新浜碼頭藝術空間）
+{{< youtube "k2BSemuYHYs?si=5UQq-OlQa0-qHoJo" "展覽訪談（製作：新浜碼頭藝術空間）" >}}
 
 ---
 ### Credits

@@ -7,7 +7,7 @@ image: /ghost-images/2022/07/13.webp
 tags:
 medium: nine-channel video, embroidery thread, handmade paper
 ---
-![](/ghost-images/2022/07/5.webp)
+![Photo by LIN Pei-Yao.](/ghost-images/2022/07/5.webp)
 
 Tattoos seem to be evolving from subculture to popular culture, becoming a form of bodily expression continually redefined, one that may point to the exercise of bodily autonomy while also carrying traces of emotional, relational, or collective identities.
 
@@ -19,7 +19,7 @@ Taking tattoo culture as a point of departure, I conduct interviews and document
 Sin Pin Pier Art Space, Kaohsiung, Taiwan  
 Curated by Wang Chen-Wei.  
 
-{{< album >}}
+{{< album "Photo by LIN Pei-Yao." >}}
 /ghost-images/2022/07/10-1.webp
 /ghost-images/2022/07/2.webp
 /ghost-images/2022/07/8.webp
@@ -27,13 +27,10 @@ Curated by Wang Chen-Wei.
 /ghost-images/2022/07/12.webp
 /ghost-images/2022/07/14.webp
 {{< /album >}}
-Photo by LIN Pei-Yao.
 
-{{< vimeo 605287605 >}}
-Exhibition view (filmed and edited by LIN Pei-Yao)
+{{< vimeo 605287605 "Exhibition view (filmed and edited by LIN Pei-Yao)" >}}
 
-{{< youtube "k2BSemuYHYs?si=5UQq-OlQa0-qHoJo" >}}
-Exhibition interview (produced by Sin Pin Pier Art Space)
+{{< youtube "k2BSemuYHYs?si=5UQq-OlQa0-qHoJo" "Exhibition interview (produced by Sin Pin Pier Art Space)" >}}
 
 ---
 ### Credits

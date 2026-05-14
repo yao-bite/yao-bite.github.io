@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/ontheground/index.md",
+                "file": "content/works/inscribed-portraits/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -235,10 +235,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e5af3986ce4afab2",
+  "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
-    "content/works/windowing/index.md",
+    "content/works/inscribed-portraits/index.tw.md",
+    "content/works/inscribed-portraits/index.md",
     "content/works/ontheground/index.md",
+    "content/works/windowing/index.md",
     "content/works/ontheground/index.tw.md",
     "content/writings/walkingonthewater/index.tw.md",
     "content/writings/howtextcreatesdistance/index.md",
@@ -280,8 +282,6 @@
     "templates/writing.md",
     "content/works/windowing/index.tw.md",
     "content/works/two-faced/index.tw.md",
-    "content/works/set-interval/index.md",
-    "content/works/seasons-change/index.tw.md",
-    "content/works/seasons-change/index.md"
+    "content/works/set-interval/index.md"
   ]
 }
