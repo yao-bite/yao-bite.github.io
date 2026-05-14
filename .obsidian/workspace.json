@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7ca78e34b55b2ae",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "content/writings/vortexquadrant/IMG_7352.tw.webp"
-              },
-              "icon": "lucide-image",
-              "title": "IMG_7352.tw"
-            }
-          },
-          {
             "id": "6dbf21417b6b22eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/howtextcreatesdistance/index.md",
+                "file": "content/works/ontheground/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -89,8 +77,7 @@
               "title": "終端：zsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,10 +235,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6dbf21417b6b22eb",
+  "active": "e5af3986ce4afab2",
   "lastOpenFiles": [
-    "content/writings/howtextcreatesdistance/index.tw.md",
+    "content/works/windowing/index.md",
+    "content/works/ontheground/index.md",
+    "content/works/ontheground/index.tw.md",
+    "content/writings/walkingonthewater/index.tw.md",
     "content/writings/howtextcreatesdistance/index.md",
+    "content/writings/howtextcreatesdistance/index.tw.md",
     "content/writings/underthefrontdoor/index.tw.md",
     "README.md",
     "public/tw/writings/underthefrontdoor/index.html",
@@ -287,14 +278,10 @@
     "public/tw/categories/other-voice/index.xml",
     "content/works/doublechannel-ii/index.md",
     "templates/writing.md",
-    "content/works/windowing/index.md",
     "content/works/windowing/index.tw.md",
     "content/works/two-faced/index.tw.md",
     "content/works/set-interval/index.md",
     "content/works/seasons-change/index.tw.md",
-    "content/works/seasons-change/index.md",
-    "content/works/set-interval/index.tw.md",
-    "content/exhibitions/2024-self-testing-starts/index.md",
-    "content/exhibitions/2024-the-dual-double-channel/index.md"
+    "content/works/seasons-change/index.md"
   ]
 }

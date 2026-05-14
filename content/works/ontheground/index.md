@@ -10,7 +10,7 @@ tags:
 medium: single-channel video
 dimensions: 03’26”
 ---
-{{< album >}}
+{{< album "Video screenshots" >}}
 2020-OnTheGround-screenshot-1.webp
 2020-OnTheGround-screenshot-2.webp
 2020-OnTheGround-screenshot-4.webp
@@ -25,15 +25,14 @@ During the fall, Alice appears both amazed and excited, with no trace of fear in
 ### 2024 *Self-Testing Starts*
 King Car Cultural & Art Center, Taipei, Taiwan  
 
-{{< album >}}
+{{< album "Photo by Chu Chi-Hung." >}}
 2020-OnTheGround-1-2024kingcar-65824.webp
 2020-OnTheGround-2-2024kingcar-65902.webp
 {{< /album >}}
 Photo by Chu Chi-Hung.  
 
 ---
-{{< youtube "Y7dlGuN0NYE" >}}
-Online Preview (full version)
+{{< youtube "Y7dlGuN0NYE" "Online Preview (full version)" >}}
 
 ---
 ### Source Material

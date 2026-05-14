@@ -10,7 +10,7 @@ tags:
 medium: 單頻道錄像
 dimensions: 03’26”
 ---
-{{< album >}}
+{{< album "錄像截圖" >}}
 2020-OnTheGround-screenshot-1.webp
 2020-OnTheGround-screenshot-2.webp
 2020-OnTheGround-screenshot-4.webp
@@ -25,15 +25,13 @@ dimensions: 03’26”
 ### 2024 自我測試開始
 金車文藝中心承德館，臺北，臺灣  
 
-{{< album >}}
+{{< album "攝影：朱淇宏" >}}
 2020-OnTheGround-1-2024kingcar-65824.webp
 2020-OnTheGround-2-2024kingcar-65902.webp
-{{< /album >}}
-攝影：朱淇宏  
+{{< /album >}}  
 
 ---
-{{< youtube "Y7dlGuN0NYE" >}}
-全片線上預覽連結
+{{< youtube "Y7dlGuN0NYE" "全片線上預覽連結" >}}
 
 ---
 ### 影像來源
