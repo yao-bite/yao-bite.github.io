@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/run-into-100percent-selves/index.tw.md",
+                "file": "content/works/mind-blowing/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,6 +237,10 @@
   },
   "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
+    "content/works/mind-blowing/index.md",
+    "content/works/mind-blowing/index.tw.md",
+    "content/works/doublechannel-ii/index.tw.md",
+    "content/works/doublechannel-ii/index.md",
     "content/works/run-into-100percent-selves/index.md",
     "content/works/run-into-100percent-selves/index.tw.md",
     "content/works/inscribed-portraits/index.md",
@@ -273,15 +277,11 @@
     "content/about/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/interview-with-a-philosopher/index.md",
-    "content/writings/yingtunglin/index.tw.md",
     "public/tw/writings/vortexquadrant/index.html",
     "public/tw/writings/vortexquadrant",
     "public/tw/categories/other-voices/index.xml",
     "public/tw/categories/other-voices/index.html",
     "public/tw/categories/other-voices",
-    "public/tw/categories/other-voice/index.xml",
-    "content/works/doublechannel-ii/index.md",
-    "templates/writing.md",
-    "content/works/windowing/index.tw.md"
+    "public/tw/categories/other-voice/index.xml"
   ]
 }
