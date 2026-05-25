@@ -8,6 +8,9 @@ draft: false
 featured: false
 image: 2023-listentalk-2024kingcar-combine.webp
 tags:
+  - language
+  - voice
+  - consciousness
 ---
 It is said that some expressions, although received by no one, are still two-way, spoken both to others and to oneself. Among them, some are initially violent towards oneself and become another form of violence when expressed outwardly. It's a kind of soliloquy that has two directions.  
 

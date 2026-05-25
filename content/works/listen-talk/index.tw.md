@@ -1,14 +1,18 @@
 ---
-aliases: ["/listen-talk"]
+aliases:
+  - /listen-talk
 date: 2023-12-15T04:27:14+08:00
 description: 聽說，有些表達雖然無人接收，卻仍是雙向的，既對別人，也對自己說。
 draft: false
 featured: false
 image: 2023-listentalk-2024kingcar-combine.webp
-tags:
 title: 聽說（向梵谷致意）
 medium: 藝術家身體的3D掃描、3D列印
 dimensions: 18(H)x18.5x16, 16(H)x18.5x16cm
+tags:
+  - 語言
+  - 說話
+  - 意識
 ---
 ![](/ghost-images/2023/12/DSC_0083.webp)
 

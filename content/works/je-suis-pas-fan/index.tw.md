@@ -7,6 +7,10 @@ draft: false
 featured: false
 image: cover.webp
 description: 一支電扇吹拂黏貼其上的便利貼，不同顏色的便利貼寫著不同的句子。
+tags:
+  - 語言
+  - 意識
+  - 聲音
 ---
 ![攝影：嘟嚕影像](2025-PasFan-ZoneArt-5.webp)
 

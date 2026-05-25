@@ -7,6 +7,10 @@ draft: false
 featured: false
 image: cover.webp
 description: A fan blows across the Post-it notes stuck to it, each in a different color and bearing one of two French sentences—“Je suis fan” or “Je suis pas fan.”
+tags:
+  - language
+  - consciousness
+  - sound
 ---
 ![Photo by dulub_studio.](2025-PasFan-ZoneArt-5%201.webp)
 
