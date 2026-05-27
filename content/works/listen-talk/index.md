@@ -17,7 +17,7 @@ It is said that some expressions, although received by no one, are still two-way
 Hands can give and receive; for Van Gogh, ears can give as well as receive. I hope you listen; I hope you speak.  
 
 I say: "Listen," I say: "Talk." I say the names of those objects, and as I read them, it's like I'm speaking to them.  
-I say: "Listen," I say: "Talk." I say the names of those objects, and as I read them, the voice in my mind—like subtitles—speaks to me.  
+I say: "Listen," I say: "Talk." I say the names of those objects, and as I read them, the voice in my mind–like subtitles–speaks to me.  
 ### Self-Testing Starts
 King Car Cultural & Art Center, Taipei, Taiwan  
 2024  
