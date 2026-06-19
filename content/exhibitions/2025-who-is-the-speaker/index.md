@@ -75,6 +75,7 @@ Co-Organizers: Zone Art, Taoyuan Department of Cultural Affairs
 ### Links
 * [Press Release](https://docs.google.com/document/d/e/2PACX-1vQbybB6bAqqFeAhEPxodH5Clo1vXYTsMKSrO70s1HmmWUblPo0ln1YjEVj564o_QvqqnvS_OMp9X7rK/pub)  
 * **From the Philosopher's Perspective:** [思緒漫遊，或不漫遊](/tw/writings/yingtunglin/) by Ying-Tung Lin (林映彤)
+* [看誰在說話——林沛瑤個展《Who is the Speaker？》](https://talks.taishinart.org.tw/talks/84/39825)by Chen Yu-Jen (陳譽仁)
 * [霧，話語，我活的所在──關於I╱AI：台灣當代藝術情境，2025年一篇局部的年度觀察 (excerpt)](https://artist-magazine.com/edcontent_d.php?lang=tw&tb=8&id=30356) by Taisung Chen (陳泰松)
 * [喝杯茶吧！或許我們(看展)不需強迫自己如此專注：《Who is the speaker?》觀後雜談](https://www.instagram.com/p/DQq2N2-Ec_m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) by Ke Siao Ru (柯曉如)
 * [Visit Moments (hankdopaint)](https://www.instagram.com/reel/DQ15OhdDuZm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)

@@ -56,3 +56,4 @@ Sponsor: National Culture and Arts Foundation
 ---
 ### Links
 * **From the Philosopher's Perspective:** [思緒漫遊，或不漫遊](/tw/writings/yingtunglin/) by Ying-Tung Lin (林映彤)
+* [看誰在說話——林沛瑤個展《Who is the Speaker？》](https://talks.taishinart.org.tw/talks/84/39825)by Chen Yu-Jen (陳譽仁)

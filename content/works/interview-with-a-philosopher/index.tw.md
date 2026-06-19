@@ -54,3 +54,4 @@ dimensions: 21’12”
 ---
 ### Links
 * **哲學家觀點：**[思緒漫遊，或不漫遊](/tw/writings/yingtunglin/)（文／林映彤)
+* [看誰在說話——林沛瑤個展《Who is the Speaker？》](https://talks.taishinart.org.tw/talks/84/39825)（文／陳譽仁）
