@@ -16,7 +16,7 @@ When we try to understand others, we can only empathize and imagine what others 
 
 We see others through ourselves and ourselves through others.
 
-This work starts with one performer whispering a monologue. When the second performer joins, they reenact the first performer’s act together, creating an impression of mirroring each other’s solo performance. The work delves into different facets of self-awareness, such as what others might represent in our imagination, what we might appear in others’  imagination, and the image of “myself” that we envision.  
+This work starts with one performer whispering a monologue. When the second performer joins, they reenact the first performer’s act together, creating an impression of mirroring each other’s solo performance. The work delves into different facets of self-awareness, such as what others might represent in our imagination, what we might appear in others’ imagination, and the image of “myself” that we envision.  
 
 ---
 ### 2024 [Rehearsal for Re-her-sal: Preview](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94?ref=peiyao.run)
