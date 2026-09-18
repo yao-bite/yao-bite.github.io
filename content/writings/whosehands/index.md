@@ -1,7 +1,7 @@
 ---
 title: "\"Whose Hands Are These?\" — Narrative Perspective and the Audience's Body in Immersive Theater Strategies"
 date: 2026-09-18
-description:
+description: Narrative immersion pulls the viewer into a fiction, letting them forget their own presence and drift, ghost-like, into a character's perception; bodily immersion asks the viewer to bring their own presence into the scene, layering the situation's filter over their own eyes so they naturally become part of it.
 draft: "true"
 categories:
   - Essays

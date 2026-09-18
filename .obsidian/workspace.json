@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/exhibitions/2025-who-is-the-speaker/index.md",
+                "file": "content/writings/whosehands/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/writings/whosehands/index.tw.md",
+                "file": "content/writings/reborn/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -91,8 +91,7 @@
               "title": "終端：zsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,19 +251,29 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bd19186e5a6b85d3",
+  "active": "ece0cd61acfc7dd2",
   "lastOpenFiles": [
+    "content/writings/whosehands/index.tw.md",
+    "content/writings/reborn/index.tw.md",
+    "content/writings/whosehands/index.md",
+    "content/exhibitions/2025-who-is-the-speaker/index.md",
+    "public/tw/writings/whosehands/index.html",
+    "public/tw/writings/whosehands",
+    "public/writings/whosehands/index.html",
+    "public/writings/whosehands/LCY07069-5.webp",
+    "public/writings/whosehands/LCY06699-6.webp",
+    "public/writings/whosehands/DSC7035-2.webp",
+    "public/writings/whosehands/DSC04118-4.webp",
+    "public/writings/whosehands/DSC02883_72dpi-1024x683-cover.jpg",
+    "public/writings/whosehands/DSC02583-3.webp",
+    "public/writings/whosehands",
+    "README.md",
     "content/writings/whosehands/LCY06699-6.webp",
     "content/writings/whosehands/LCY07069-5.webp",
     "content/writings/whosehands/DSC04118-4.webp",
-    "content/writings/whosehands/index.tw.md",
     "content/writings/whosehands/DSC02583-3.webp",
-    "content/writings/whosehands/DSC7035-2.webp",
     "content/works/doublechannel-eyes/index.tw.md",
-    "content/exhibitions/2025-who-is-the-speaker/index.md",
-    "content/writings/whosehands/DSC02883_72dpi-1024x683-cover.jpg",
     "content/exhibitions/2021-run-into-my-cell/index.tw.md",
-    "content/writings/whosehands/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/_index.tw.md",
     "content/writings/howtextcreatesdistance/index.md",
@@ -283,22 +292,12 @@
     "public/tw/tags/說話",
     "public/tags/voice/index.xml",
     "public/tags/voice/index.html",
-    "public/tags/voice",
     "content/works/je-suis-pas-fan/index.md",
-    "public/tags/sound/index.xml",
-    "public/tags/sound/index.html",
-    "public/tags/sound",
     "content/works/je-suis-pas-fan/index.tw.md",
-    "README.md",
     "content/works/doublechannel-ii/index.tw.md",
     "content/works/run-into-100percent-selves/index.md",
     "content/works/run-into-100percent-selves/index.tw.md",
     "content/works/ontheground/index.md",
-    "content/works/mind-blowing/index.tw.md",
-    "public/tw/writings/underthefrontdoor/ec1c68f02071460.tw.webp",
-    "public/tw/writings/underthefrontdoor/dabe91a93ebc7f7.tw.webp",
-    "public/tw/writings/underthefrontdoor/b53abd8b3391b7b.tw.webp",
-    "public/tw/writings/underthefrontdoor/adc2797bb63fff3.tw.webp",
-    "public/tw/writings/underthefrontdoor/8def86423928861.tw.webp"
+    "content/works/mind-blowing/index.tw.md"
   ]
 }
