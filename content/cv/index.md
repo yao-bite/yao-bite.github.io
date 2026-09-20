@@ -11,7 +11,7 @@ title: CV
 
 #### Solo Exhibitions 
 
-2025 [Who is the speaker?](/exhibitions/2025-who-is-the-speaker/), Zone Art, Taoyuan, Taiwan
+2025 [Who is the speaker?](/exhibitions/2025-who-is-the-speaker/), Zone Art, Taoyuan, Taiwan  
 2024 The Dual Double-Channel, HONG Foundation, Taipei, Taiwan  
 2024 Self-Testing Starts, King Car Cultural & Art Center (KCCA), Taipei, Taiwan  
 2021 Run into My-cell: Lin Pei-Yao Solo Exhibition, Taipei National University of the Arts (TNUA) Na-Pei Gallery, Taipei, Taiwan  
