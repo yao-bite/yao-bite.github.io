@@ -10,7 +10,7 @@ draft: false
 
 #### 個展  
 
-2025《[Who is the speaker?](/tw/exhibitions/2025-who-is-the-speaker/)》，众藝術，桃園，臺灣
+2025《[Who is the speaker?](/tw/exhibitions/2025-who-is-the-speaker/)》，众藝術，桃園，臺灣  
 2024《雙頻道》，洪建全基金會，臺北，臺灣  
 2024《自我測試開始》，金車文藝中心承德館，臺北，臺灣  
 2021《遇見100%的我自己》，南北畫廊，國立臺北藝術大學，臺北，臺灣  
