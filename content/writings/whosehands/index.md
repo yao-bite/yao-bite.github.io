@@ -1,6 +1,6 @@
 ---
 title: "\"Whose Hands Are These?\" — Narrative Perspective and the Audience's Body in Immersive Theater Strategies"
-date: 2026-10-07
+date: 2026-09-18
 description: Narrative immersion pulls the viewer into a fiction, letting them forget their own presence and drift, ghost-like, into a character's perception; bodily immersion asks the viewer to bring their own presence into the scene, layering the situation's filter over their own eyes so they naturally become part of it.
 draft: "false"
 categories:
@@ -70,7 +70,7 @@ We only ever see our own face through a mirror or a camera; our hands, by contra
 ---
 ### About *The Plurality of First Person*
 
-The writing project series "The Plurality of First Person: The Audience as a Hidden Character" was initiated by Lin Pei-Yao (林沛瑤), working from her triple viewpoint as creator, researcher, and viewer. Amid a digital-technology environment increasingly oriented toward real-time interaction, the project asks how "interactivity," broadly conceived, comes into being within contemporary art exhibitions and performances — through the viewer's own experience of presence. Its objects of observation span time-based works across Taiwan's art scene, including media art, theatre, and immersive performance, examining the interactive conditions, perceptual arrangements, performativity, and viewer-performance relations at play within them. Using critical observation as its method, the project develops an ongoing body of research under the heading "A Phenomenology of Interactivity," and is supported by the National Culture and Arts Foundation's 2026 "Phenomenon Writing — Visual Arts Criticism Project." (Supporting organizations: National Culture and Arts Foundation; Winsing Arts Foundation)
+The writing project series "The Plurality of First Person: The Audience as a Hidden Character" was initiated by LIN Pei-Yao (林沛瑤), working from her triple viewpoint as creator, researcher, and viewer. Amid a digital-technology environment increasingly oriented toward real-time interaction, the project asks how "interactivity," broadly conceived, comes into being within contemporary art exhibitions and performances — through the viewer's own experience of presence. Its objects of observation span time-based works across Taiwan's art scene, including media art, theatre, and immersive performance, examining the interactive conditions, perceptual arrangements, performativity, and viewer-performance relations at play within them. Using critical observation as its method, the project develops an ongoing body of research under the heading "A Phenomenology of Interactivity," and is supported by the National Culture and Arts Foundation's 2026 "Phenomenon Writing — Visual Arts Criticism Project." (Supporting organizations: National Culture and Arts Foundation; Winsing Arts Foundation)
 
 [^1]: Quote from [“Cosmic Sketches — LuxuryLogico Solo Exhibition,” Art Award Interview](https://www.taishinart.org.tw/art-award-year-detail/2025/734), Taishin Bank Foundation for Arts and Culture.
 
