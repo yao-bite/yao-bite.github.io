@@ -91,8 +91,7 @@
               "title": "終端：zsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,10 +251,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a7bfde132c69f24c",
+  "active": "6dbf21417b6b22eb",
   "lastOpenFiles": [
-    "content/writings/whosehands/index.md",
     "content/writings/whosehands/index.tw.md",
+    "content/writings/whosehands/index.md",
     "README.md",
     "content/_index.md",
     "content/xxx.jpg",
