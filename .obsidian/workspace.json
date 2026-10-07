@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.tw.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index.tw"
+              "title": "_index"
             }
           },
           {
@@ -254,9 +254,9 @@
   },
   "active": "a7bfde132c69f24c",
   "lastOpenFiles": [
+    "content/_index.tw.md",
     "content/_index.md",
     "content/writings/whosehands/index.md",
-    "content/_index.tw.md",
     "content/about/index.md",
     "content/writings/whosehands/index.tw.md",
     "README.md",
