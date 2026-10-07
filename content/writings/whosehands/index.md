@@ -72,6 +72,8 @@ We only ever see our own face through a mirror or a camera; our hands, by contra
 
 The writing project series "The Plurality of First Person: The Audience as a Hidden Character" was initiated by LIN Pei-Yao (林沛瑤), working from her triple viewpoint as creator, researcher, and viewer. Amid a digital-technology environment increasingly oriented toward real-time interaction, the project asks how "interactivity," broadly conceived, comes into being within contemporary art exhibitions and performances — through the viewer's own experience of presence. Its objects of observation span time-based works across Taiwan's art scene, including media art, theatre, and immersive performance, examining the interactive conditions, perceptual arrangements, performativity, and viewer-performance relations at play within them. Using critical observation as its method, the project develops an ongoing body of research under the heading "A Phenomenology of Interactivity," and is supported by the National Culture and Arts Foundation's 2026 "Phenomenon Writing — Visual Arts Criticism Project." (Supporting organizations: National Culture and Arts Foundation; Winsing Arts Foundation)
 
+Special Thanks: Wave Yang
+
 [^1]: Quote from [“Cosmic Sketches — LuxuryLogico Solo Exhibition,” Art Award Interview](https://www.taishinart.org.tw/art-award-year-detail/2025/734), Taishin Bank Foundation for Arts and Culture.
 
 [^2]: [Exhibition page](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%AE%87%E5%AE%99%E5%AF%AB%E7%94%9F%E2%80%94%E8%B1%AA%E8%8F%AF%E6%9C%97%E6%A9%9F%E5%B7%A5%E5%80%8B%E5%B1%95), Museum of Contemporary Art, Taipei.
