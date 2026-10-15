@@ -4,7 +4,9 @@ draft = false
 title = 'About'
 +++
 
-LIN Pei-Yao was born in 1998 in Taichung, Taiwan. Using herself as an experimental subject, she primarily works with media, installation, and performance, capturing fleeting moments in everyday life in which subtle discrepancies arise between sensation and cognition, and probing the fluid, ever-changing space of perception. Through her work, she strives to create bodily experiences that are ambiguous and interwoven with reality and virtuality, while exploring the possibilities of bodily and mediated presence in relation to self-awareness and time perception.
+#### LIN Pei-Yao
+
+Artist and researcher, born in Taichung, Taiwan. Holds an MFA from the Department of Fine Arts at Taipei National University of the Arts. Her creative practice centers on media art, installation, and performance, using perceptual experience woven from the body and technological media to explore how self-awareness and the perception of time shift across different contexts. Alongside her creative work, she uses writing as a method for sharpening her perspective and grounding her creative research; her writing has appeared on platforms including SCREEN Media, CLABO Lab, ARTouch, diArtlogue, and Taishin Arts Award's ARTalks.
 
 E-mail: peiyao@protonmail.com
 
