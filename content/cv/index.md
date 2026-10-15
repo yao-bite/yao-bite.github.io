@@ -16,7 +16,6 @@ title: CV
 2024 Self-Testing Starts, King Car Cultural & Art Center (KCCA), Taipei, Taiwan  
 2021 Run into My-cell: Lin Pei-Yao Solo Exhibition, Taipei National University of the Arts (TNUA) Na-Pei Gallery, Taipei, Taiwan  
 2018 The Passing: Lin Pei-Yao Solo Exhibition, TNUA, Taipei, Taiwan  
-  
 #### Group Exhibitions  
 
 2025 [Vortex Quadrant: International Dynamic Media Arts Exhibition](https://www.fuzhong15.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G253383051989052655&sid=0P051511829040775356), Fuzhong 15, New Taipei, Taiwan  
@@ -31,9 +30,17 @@ title: CV
 2020 Tian-Tian, Sanchong Air Force Military kindred Village No.1, New Taipei, Taiwan  
 2020 Taipei International Contemporary Art Annual (TICAA), Underground Gallery, TNUA, Taipei, Taiwan  
 2020 Assembly of Communities: MIX - Open Class Open Call, MOCA, Taipei, Taiwan
+#### Research
+
+2026 “The Plurality of First Person: The Audience as a Hidden Character” (ongoing)
+* Investigates how "interactivity" emerges within contemporary art exhibitions and performances through the viewer's presence, spanning media art, theatre, and immersive performance across Taiwan; supported by the National Culture and Arts Foundation's 2026 Phenomenon Writing: Visual Arts Criticism Project.
+
+2024 “Body, Image, Medium: the Dual-Channel of Bodily Perception” (MFA thesis) 
+* Explored how image technologies have shaped and redefined bodily perception from the late 19th century to the present, and examined the relationship between this mediated perceptual shift and my own creative practice; supervised by Dr. Bo-Cheng Shen.
 
 #### Grants
 
+2026 National Culture and Arts Foundation, Phenomenon Writing: Visual Arts Criticism Project (ongoing)
 2025 National Culture and Arts Foundation, Multidisciplinary Arts Grant: Launch Program  
 2025 Visual Art Grant, Department of Cultural Affairs, Taoyuan City Government  
 2025 King Car Cultural & Art Center, Artist Overseas Visit Program (Hong Kong)
