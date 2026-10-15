@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cv/index.md",
+                "file": "content/cv/index.tw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.tw"
             }
           },
           {
@@ -254,8 +254,8 @@
   },
   "active": "a7bfde132c69f24c",
   "lastOpenFiles": [
-    "README.md",
     "content/cv/index.md",
+    "README.md",
     "content/about/index.tw.md",
     "content/about/index.md",
     "content/cv/index.tw.md",

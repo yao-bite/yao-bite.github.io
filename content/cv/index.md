@@ -43,7 +43,7 @@ title: CV
 2026 National Culture and Arts Foundation, Phenomenon Writing: Visual Arts Criticism Project (ongoing)
 2025 National Culture and Arts Foundation, Multidisciplinary Arts Grant: Launch Program  
 2025 Visual Art Grant, Department of Cultural Affairs, Taoyuan City Government  
-2025 King Car Cultural & Art Center, Artist Overseas Visit Program (Hong Kong)
+2025 King Car Cultural & Art Center, Artist Overseas Visit Program (Hong Kong)  
 2024 Exhibition Grant, Department of Cultural Affairs, Taipei City Government   
 
 #### Awards, Nomination & Collection
