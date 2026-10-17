@@ -32,7 +32,7 @@ title: CV
 2020 Assembly of Communities: MIX - Open Class Open Call, MOCA, Taipei, Taiwan
 #### Research
 
-2026 “The Plurality of First Person: The Audience as a Hidden Character” (ongoing)
+2026 “The Plurality of First Person: The Audience as a Hidden Character” (ongoing)  
 * Investigates how "interactivity" emerges within contemporary art exhibitions and performances through the viewer's presence, spanning media art, theatre, and immersive performance across Taiwan; supported by the National Culture and Arts Foundation's 2026 Phenomenon Writing: Visual Arts Criticism Project.
 
 2024 “Body, Image, Medium: the Dual-Channel of Bodily Perception” (MFA thesis) 
@@ -40,7 +40,7 @@ title: CV
 
 #### Grants
 
-2026 National Culture and Arts Foundation, Phenomenon Writing: Visual Arts Criticism Project (ongoing)
+2026 National Culture and Arts Foundation, Phenomenon Writing: Visual Arts Criticism Project (ongoing)  
 2025 National Culture and Arts Foundation, Multidisciplinary Arts Grant: Launch Program  
 2025 Visual Art Grant, Department of Cultural Affairs, Taoyuan City Government  
 2025 King Car Cultural & Art Center, Artist Overseas Visit Program (Hong Kong)  
