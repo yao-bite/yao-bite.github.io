@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cv/index.md",
+                "file": "content/about/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -254,10 +254,10 @@
   },
   "active": "a7bfde132c69f24c",
   "lastOpenFiles": [
-    "content/cv/index.tw.md",
-    "content/cv/index.md",
-    "README.md",
     "content/about/index.tw.md",
+    "content/cv/index.md",
+    "content/cv/index.tw.md",
+    "README.md",
     "content/about/index.md",
     "content/writings/whosehands/index.tw.md",
     "content/writings/whosehands/index.md",
