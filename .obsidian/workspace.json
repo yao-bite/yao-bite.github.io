@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cv/index.tw.md",
+                "file": "content/cv/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.tw"
+              "title": "index"
             }
           }
         ],
@@ -268,12 +268,12 @@
   },
   "active": "bdaad46f2f4af523",
   "lastOpenFiles": [
+    "content/cv/index.tw.md",
     "content/cv/index.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/about/index.md",
     "content/about/index.tw.md",
-    "content/cv/index.tw.md",
     "README.md",
     "content/writings/whosehands/index.tw.md",
     "content/writings/whosehands/index.md",

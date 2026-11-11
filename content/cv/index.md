@@ -17,6 +17,7 @@ title: CV
 2021 Run into My-cell: Lin Pei-Yao Solo Exhibition, Taipei National University of the Arts (TNUA) Na-Pei Gallery, Taipei, Taiwan  
 2018 The Passing: Lin Pei-Yao Solo Exhibition, TNUA, Taipei, Taiwan  
 #### Group Exhibitions  
+
 2026 [Taiwan in Motion: Highlights of Contemporary Taiwanese Video Art](https://laboralcentrodearte.org/es/actividades/reescribiendo-la-memoria-y-la-percepcion-videoarte-contemporaneo-en-taiwan/?fbclid=IwY2xjawVhgtFleHRuA2FlbQIxMABwZG9mBWJyaWQRMXpkMjM0bkFvNHlkcnBybDZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfjI4vYUMfNqA38zz9Ng7iX_WX2taipQdwd4liNGBYYHAdEqOMcFHu9jnqU40_aem_5JZ53sbunmaaitHOQJ6b2w), LABoral Centro de Arte y Creación Industrial, Gijón, Spain  
 2025 [Vortex Quadrant: International Dynamic Media Arts Exhibition](https://www.fuzhong15.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G253383051989052655&sid=0P051511829040775356), Fuzhong 15, New Taipei, Taiwan  
 2025 Rehearsal for Re-her-sal: Entering the Auditorium, 80A Gallery, Taipei, Taiwan  

@@ -9,7 +9,7 @@ draft: false
 2020 國立臺北藝術大學美術學系學士
 
 #### 個展  
-2026《[Taiwan in Motion: 臺灣當代錄像藝術展](https://laboralcentrodearte.org/es/actividades/reescribiendo-la-memoria-y-la-percepcion-videoarte-contemporaneo-en-taiwan/?fbclid=IwY2xjawVhgtFleHRuA2FlbQIxMABwZG9mBWJyaWQRMXpkMjM0bkFvNHlkcnBybDZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfjI4vYUMfNqA38zz9Ng7iX_WX2taipQdwd4liNGBYYHAdEqOMcFHu9jnqU40_aem_5JZ53sbunmaaitHOQJ6b2w)》，LABoral 藝術與工業創作中心，希洪，西班牙  
+
 2025《[Who is the speaker?](/tw/exhibitions/2025-who-is-the-speaker/)》，众藝術，桃園，臺灣  
 2024《雙頻道》，洪建全基金會，臺北，臺灣  
 2024《自我測試開始》，金車文藝中心承德館，臺北，臺灣  
@@ -18,6 +18,7 @@ draft: false
 
 #### 聯展
 
+2026《[Taiwan in Motion: 臺灣當代錄像藝術展](https://laboralcentrodearte.org/es/actividades/reescribiendo-la-memoria-y-la-percepcion-videoarte-contemporaneo-en-taiwan/?fbclid=IwY2xjawVhgtFleHRuA2FlbQIxMABwZG9mBWJyaWQRMXpkMjM0bkFvNHlkcnBybDZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfjI4vYUMfNqA38zz9Ng7iX_WX2taipQdwd4liNGBYYHAdEqOMcFHu9jnqU40_aem_5JZ53sbunmaaitHOQJ6b2w)》，LABoral 藝術與工業創作中心，希洪，西班牙  
 2025《[渦流象限－國際動態媒體藝術展](https://www.fuzhong15.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G253383051989052655&sid=0P051511829040775356)》，府中15，新北，臺灣  
 2025《反覆演練Re-her-sal：觀眾入場》，軟輪畫廊，臺北，臺灣  
 2024《[反覆演練Re-her-sal：預演](https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E5%8F%8D%E8%A6%86%E6%BC%94%E7%B7%B4Re-her-sal%EF%BC%9A%E9%A0%90%E6%BC%94)》，臺北當代藝術館，臺北，臺灣  
