@@ -95,14 +95,15 @@
             "id": "bdaad46f2f4af523",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "content/cv/index.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -268,13 +269,13 @@
   },
   "active": "bdaad46f2f4af523",
   "lastOpenFiles": [
-    "content/cv/index.tw.md",
     "content/cv/index.md",
+    "content/cv/index.tw.md",
+    "README.md",
     "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/about/index.md",
     "content/about/index.tw.md",
-    "README.md",
     "content/writings/whosehands/index.tw.md",
     "content/writings/whosehands/index.md",
     "content/_index.tw.md",
