@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/works/interview-with-a-philosopher/index.tw.md",
+                "file": "content/cv/index.tw.md",
                 "mode": "source",
                 "source": false
               },
@@ -268,10 +268,11 @@
   },
   "active": "bdaad46f2f4af523",
   "lastOpenFiles": [
+    "content/cv/index.md",
+    "content/works/interview-with-a-philosopher/index.tw.md",
     "content/works/interview-with-a-philosopher/index.md",
     "content/about/index.md",
     "content/about/index.tw.md",
-    "content/cv/index.md",
     "content/cv/index.tw.md",
     "README.md",
     "content/writings/whosehands/index.tw.md",
@@ -298,7 +299,6 @@
     "content/writings/whosehands/LCY07069-5.webp",
     "content/works/doublechannel-eyes/index.tw.md",
     "content/exhibitions/2021-run-into-my-cell/index.tw.md",
-    "content/works/interview-with-a-philosopher/index.tw.md",
     "content/writings/howtextcreatesdistance/index.md",
     "content/writings/whosehands.md",
     "content/writings/whosehands",
